@@ -1,1 +1,501 @@
-
+dashboard_row_id,report_date,platform,campaign_id,campaign_name,state,city,device_type,impressions,clicks,conversions,spend_inr
+DSH0001,2026-03-23,Google Ads,IN_GO_1070,Summer Savings | Fashion | Maharashtra | Social,Maharashtra,Nagpur,Tablet,37790,1320,14,9752.63
+DSH0002,2026-01-30,LinkedIn Ads,IN_LI_1058,Back to College | Fashion | Kerala | Programmatic,Kerala,Kochi,Mobile,169472,3326,263,116378.42
+DSH0003,2026-01-21,DV360,,Monsoon Deals | Fashion | Gujarat | Video,Gujarat,Vadodara,Mobile,41160,931,34,13355.16
+DSH0004,2026-01-06,DV360,IN_DV_1080,New Year | Electronics | Uttar Pradesh | Programmatic,Uttar Pradesh,Lucknow,Tablet,247115,11916,659,390126.64
+DSH0005,2026-01-06,Meta Ads,IN_ME_1059,Summer Savings | EdTech | Delhi NCR | Search,Delhi NCR,New Delhi,Desktop,181640,8513,181,155308.91
+DSH0006,2026-03-27,YouTube Ads,IN_YO_1049,Back to College | Travel | Karnataka | Social,Karnataka,Mysuru,Desktop,85765,4673,282,124364.49
+DSH0007,2026-03-29,YouTube Ads,IN_YO_1009,Diwali Sale | EdTech | Maharashtra | Video,Maharashtra,Pune,Desktop,70307,3567,194,118757.71
+DSH0008,2026-01-28,DV360,IN_DV_1072,Wedding Season | Fashion | West Bengal | Video,West Bengal,Durgapur,Mobile,159414,3037,164,122604.21
+DSH0009,2026-02-21,YouTube Ads,IN_YO_1020,Back to College | Home Appliances | Tamil Nadu | Search,Tamil Nadu,Chennai,Mobile,179481,2483,158,70147.17
+DSH0010,2026-02-19,DV360,IN_DV_1015,Back to College | Grocery | Kerala | Programmatic,Kerala,Thiruvananthapuram,Tablet,193706,9560,665,338393.86
+DSH0011,2026-02-13,Google Ads,IN_GO_1023,Monsoon Deals | Home Appliances | Delhi NCR | Search,Delhi NCR,Faridabad,Tablet,148085,7510,596,119299.8
+DSH0012,2026-03-23,LinkedIn Ads,IN_LI_1042,Monsoon Deals | Grocery | Kerala | Social,Kerala,Kochi,Tablet,143085,995,83,39767.12
+DSH0013,2026-03-03,DV360,IN_EXTRA_2019,Holi Offer | Electronics | Maharashtra | Programmatic | Extra in Dashboard,Maharashtra,Pune,Mobile,87748,620,7,7806.03
+DSH0014,2026-01-22,YouTube Ads,IN_YO_1048,Summer Savings | Beauty | Uttar Pradesh | Social,Uttar Pradesh,Agra,Desktop,129845,6502,292,89650.12
+DSH0015,2026-01-09,YouTube Ads,IN_YO_1008,Festive Cashback | Fashion | Maharashtra | Search,Maharashtra,Pune,Tablet,75015,697,7,11997.31
+DSH0016,2026-03-07,Meta Ads,IN_ME_1061,Summer Savings | Beauty | Delhi NCR | Social,Delhi NCR,Faridabad,Mobile,226680,5881,92,181415.82
+DSH0017,2026-02-16,DV360,IN_DV_1044,Diwali Sale | Travel | West Bengal | Search,West Bengal,Howrah,Desktop,224870,10843,307,123541.56
+DSH0018,2026-02-27,Meta Ads,IN_ME_1071,IPL Promo | Home Appliances | West Bengal | Social,West Bengal,Kolkata,Desktop,40259,354,30,12876.35
+DSH0019,2026-01-12,Meta Ads,IN_ME_1022,Wedding Season | Home Appliances | Telangana | Social,Telangana,Warangal,Mobile,114345,698,27,29281.45
+DSH0020,2026-02-28,YouTube Ads,IN_YO_1038,Back to College | Travel | West Bengal | Display,West Bengal,Durgapur,Mobile,72068,3853,213,100182.24
+DSH0021,2026-01-24,Google Ads,IN_EXTRA_2013,Back to College | Grocery | Kerala | Video | Extra in Dashboard,Kerala,Kochi,Tablet,118373,4092,233,53784.3
+DSH0022,2026-01-31,DV360,IN_DV_1075,Festive Cashback | Beauty | Karnataka | Search,Karnataka,Mysuru,Desktop,163170,5158,436,61776.11
+DSH0023,2026-02-10,Meta Ads,IN_ME_1010,Monsoon Deals | Travel | Delhi NCR | Video,Delhi NCR,Faridabad,Desktop,17789,500,44,22684.44
+DSH0024,2026-01-10,LinkedIn Ads,IN_LI_1048,IPL Promo | Fashion | Tamil Nadu | Video,Tamil Nadu,Madurai,Mobile,89707,1231,94,40249.89
+DSH0025,2026-03-20,LinkedIn Ads,IN_LI_1071,Holi Offer | Fashion | Maharashtra | Video,Maharashtra,Nagpur,Mobile,55749,1078,62,35876.82
+DSH0026,2026-01-27,YouTube Ads,IN_YO_1055,IPL Promo | EdTech | Uttar Pradesh | Search,Uttar Pradesh,Agra,Tablet,232408,4545,37,161354.08
+DSH0027,2026-03-23,YouTube Ads,IN_YO_1010,Wedding Season | Beauty | Telangana | Display,Telangana,Karimnagar,Mobile,246501,9825,198,49077.52
+DSH0028,2026-02-17,LinkedIn Ads,IN_LI_1006,New Year | Fashion | Uttar Pradesh | Search,Uttar Pradesh,Kanpur,Desktop,108797,1772,50,13761.24
+DSH0029,2026-03-13,DV360,IN_DV_1004,Monsoon Deals | Fashion | Kerala | Social,Kerala,Kozhikode,Desktop,62018,2610,91,109956.32
+DSH0030,2026-03-27,Meta Ads,IN_ME_1026,Holi Offer | Home Appliances | Delhi NCR | Search,Delhi NCR,Gurugram,Mobile,229063,11683,428,438723.05
+DSH0031,2026-01-31,Meta Ads,IN_ME_1045,New Year | Grocery | Maharashtra | Video,Maharashtra,Pune,Desktop,183160,5670,361,218362.69
+DSH0032,2026-02-12,Google Ads,IN_GO_1077,Monsoon Deals | Beauty | Karnataka | Video,Karnataka,Mangaluru,Mobile,128918,2957,214,63901.79
+DSH0033,2026-03-07,Google Ads,IN_GO_1067,Summer Savings | Grocery | West Bengal | Search,West Bengal,Durgapur,Mobile,226421,7332,491,251421.09
+DSH0034,2026-03-27,Meta Ads,IN_ME_1016,Holi Offer | Travel | Gujarat | Video,Gujarat,Rajkot,Tablet,203679,10204,505,318120.47
+DSH0035,2026-02-11,DV360,IN_DV_1073,Summer Savings | Home Appliances | Delhi NCR | Display,Delhi NCR,Gurugram,Tablet,93892,2431,185,39165.38
+DSH0036,2026-01-27,DV360,IN_DV_1028,Republic Day | Home Appliances | Kerala | Display,Kerala,Kozhikode,Tablet,149001,4348,356,158854.3
+DSH0037,2026-01-14,LinkedIn Ads,IN_LI_1063,Back to College | Grocery | Karnataka | Display,Karnataka,Mangaluru,Desktop,164952,5911,65,88249.38
+DSH0038,2026-01-10,DV360,IN_DV_1032,Festive Cashback | Fashion | West Bengal | Display,West Bengal,Durgapur,Desktop,53684,2047,17,70959.31
+DSH0039,2026-01-14,DV360,IN_DV_1059,Back to College | Home Appliances | Tamil Nadu | Search,Tamil Nadu,Chennai,Mobile,49954,2261,141,100608.93
+DSH0040,2026-03-18,YouTube Ads,IN_YO_1061,Back to College | Home Appliances | Rajasthan | Programmatic,Rajasthan,Jodhpur,Mobile,132983,2486,70,74487.89
+DSH0041,2026-03-08,DV360,IN_DV_1043,Wedding Season | Electronics | Tamil Nadu | Video,Tamil Nadu,Coimbatore,Desktop,98809,4916,71,47977.57
+DSH0042,2026-02-19,Meta Ads,IN_ME_1008,New Year | Home Appliances | Tamil Nadu | Video,Tamil Nadu,Chennai,Desktop,69220,3240,129,114846.74
+DSH0043,2026-03-31,Google Ads,IN_GO_1054,Wedding Season | Electronics | Kerala | Video,Kerala,Thiruvananthapuram,Desktop,156091,6653,351,189843.24
+DSH0044,2026-01-29,DV360,IN_DV_1052,New Year | Home Appliances | Tamil Nadu | Search,Tamil Nadu,Coimbatore,Desktop,204839,2885,133,25378.06
+DSH0045,2026-03-21,LinkedIn Ads,IN_LI_1055,Festive Cashback | Beauty | Maharashtra | Search,Maharashtra,Nashik,Tablet,50066,2475,56,36091.91
+DSH0046,2026-02-11,Meta Ads,IN_ME_1033,Republic Day | EdTech | Rajasthan | Display,Rajasthan,Udaipur,Desktop,233866,2341,22,60598.87
+DSH0047,2026-02-14,Meta Ads,IN_ME_1020,Diwali Sale | Fashion | Karnataka | Social,Karnataka,Bengaluru,Tablet,77533,944,59,25398.07
+DSH0048,2026-01-28,DV360,IN_DV_1040,Monsoon Deals | Beauty | Delhi NCR | Programmatic,Delhi NCR,Noida,Mobile,43337,1488,125,40764.6
+DSH0049,2026-02-18,DV360,IN_DV_1039,Festive Cashback | Travel | Tamil Nadu | Social,Tamil Nadu,Chennai,Tablet,237899,9403,696,343617.87
+DSH0050,2026-03-14,Google Ads,IN_GO_1054,Republic Day | Electronics | Gujarat | Programmatic,Gujarat,Rajkot,Mobile,230569,6921,301,128251.69
+DSH0051,2026-02-28,Meta Ads,IN_ME_1056,Back to College | Travel | West Bengal | Video,West Bengal,Kolkata,Desktop,229146,9775,290,394790.93
+DSH0052,2026-01-12,YouTube Ads,IN_YO_1004,Wedding Season | Beauty | Rajasthan | Programmatic,Rajasthan,Jaipur,Desktop,144579,6895,157,84829.0
+DSH0053,2026-01-21,DV360,,Monsoon Deals | Fashion | Gujarat | Video,Gujarat,Vadodara,Mobile,41160,931,34,13355.16
+DSH0054,2026-03-02,DV360,IN_DV_1032,Holi Offer | Grocery | Rajasthan | Social,Rajasthan,Jaipur,Tablet,95270,3671,140,97168.17
+DSH0055,2026-02-14,DV360,IN_DV_1033,Republic Day | Travel | Uttar Pradesh | Display,Uttar Pradesh,Varanasi,Desktop,75434,898,21,7598.45
+DSH0056,2026-03-10,Meta Ads,IN_ME_1025,Wedding Season | Grocery | Tamil Nadu | Programmatic,Tamil Nadu,Chennai,Mobile,92659,1588,36,6490.41
+DSH0057,2026-03-11,Meta Ads,IN_ME_1063,Diwali Sale | Beauty | Delhi NCR | Video,Delhi NCR,New Delhi,Tablet,41892,2042,112,46925.11
+DSH0058,2026-02-23,Meta Ads,IN_EXTRA_2009,Summer Savings | Electronics | Rajasthan | Search | Extra in Dashboard,Rajasthan,Jodhpur,Tablet,110233,1620,112,11342.83
+DSH0059,2026-01-20,LinkedIn Ads,IN_LI_1077,Summer Savings | Electronics | Delhi NCR | Programmatic,Delhi NCR,New Delhi,Tablet,222287,8069,577,155616.22
+DSH0060,2026-02-16,Meta Ads,IN_EXTRA_2017,Back to College | EdTech | Rajasthan | Video | Extra in Dashboard,Rajasthan,Jodhpur,Mobile,32571,972,6,28612.98
+DSH0061,2026-01-21,Meta Ads,IN_ME_1077,Holi Offer | Fashion | Telangana | Search,Telangana,Karimnagar,Desktop,138184,2801,75,91981.11
+DSH0062,2026-03-31,DV360,IN_DV_1015,IPL Promo | EdTech | Karnataka | Programmatic,Karnataka,Mysuru,Desktop,157753,2684,54,38981.74
+DSH0063,2026-01-19,Google Ads,IN_GO_1016,IPL Promo | Beauty | Maharashtra | Programmatic,Maharashtra,Pune,Desktop,137866,5479,358,233520.81
+DSH0064,2026-03-06,LinkedIn Ads,IN_LI_1042,Holi Offer | Beauty | Rajasthan | Search,Rajasthan,Udaipur,Tablet,173259,3165,49,137422.12
+DSH0065,2026-03-15,LinkedIn Ads,IN_LI_1057,Festive Cashback | Electronics | Maharashtra | Social,Maharashtra,Nagpur,Tablet,87917,1309,73,39065.23
+DSH0066,2026-03-05,Google Ads,IN_GO_1043,New Year | Grocery | Rajasthan | Video,Rajasthan,Udaipur,Mobile,122910,4915,155,209995.99
+DSH0067,2026-03-12,Google Ads,IN_GO_1066,Republic Day | Grocery | Rajasthan | Video,Rajasthan,Jaipur,Desktop,231249,12584,779,327405.91
+DSH0068,2026-02-22,Google Ads,IN_GO_1027,Republic Day | Beauty | Tamil Nadu | Display,Tamil Nadu,Madurai,Mobile,85007,2797,235,60644.04
+DSH0069,2026-03-31,DV360,IN_DV_1071,Festive Cashback | EdTech | Karnataka | Social,Karnataka,Bengaluru,Desktop,18584,614,9,27432.7
+DSH0070,2026-01-16,DV360,IN_DV_1062,Wedding Season | Travel | Karnataka | Video,Karnataka,Mysuru,Desktop,138789,2490,132,48352.86
+DSH0071,2026-03-18,LinkedIn Ads,IN_LI_1035,IPL Promo | EdTech | Telangana | Display,Telangana,Hyderabad,Tablet,230102,1409,95,53901.65
+DSH0072,2026-03-30,YouTube Ads,IN_EXTRA_2014,Monsoon Deals | Electronics | Karnataka | Social | Extra in Dashboard,Karnataka,Mangaluru,Mobile,77917,1157,64,20085.33
+DSH0073,2026-03-31,Meta Ads,IN_ME_1061,Summer Savings | EdTech | Kerala | Display,Kerala,Thiruvananthapuram,Desktop,199871,10145,398,451647.09
+DSH0074,2026-03-25,Meta Ads,IN_ME_1057,Monsoon Deals | Beauty | Rajasthan | Programmatic,Rajasthan,Jaipur,Mobile,41138,1307,59,43760.21
+DSH0075,2026-02-22,Meta Ads,,IPL Promo | Grocery | Karnataka | Programmatic,Karnataka,Hubballi,Tablet,238285,5266,333,135048.29
+DSH0076,2026-02-10,DV360,,Festive Cashback | Electronics | Uttar Pradesh | Social,Uttar Pradesh,Lucknow,Mobile,128763,6945,488,227181.16
+DSH0077,2026-01-13,DV360,IN_DV_1038,IPL Promo | Electronics | Telangana | Search,Telangana,Karimnagar,Mobile,107879,2681,52,69174.08
+DSH0078,2026-03-14,Meta Ads,IN_ME_1075,Holi Offer | Beauty | Telangana | Display,Telangana,Hyderabad,Desktop,52517,912,55,20585.82
+DSH0079,2026-03-27,Google Ads,IN_GO_1076,Back to College | Fashion | Rajasthan | Search,Rajasthan,Udaipur,Desktop,93421,3485,149,48368.58
+DSH0080,2026-02-08,Meta Ads,,Holi Offer | Fashion | West Bengal | Display,West Bengal,Howrah,Tablet,198311,4058,357,125053.51
+DSH0081,2026-02-06,Google Ads,IN_GO_1078,Diwali Sale | Beauty | Kerala | Display,Kerala,Kozhikode,Mobile,225221,5239,315,153329.73
+DSH0082,2026-03-28,Meta Ads,IN_ME_1047,IPL Promo | EdTech | Karnataka | Display,Karnataka,Bengaluru,Tablet,206983,2574,212,43909.46
+DSH0083,2026-02-23,Meta Ads,IN_ME_1033,Back to College | Grocery | Tamil Nadu | Programmatic,Tamil Nadu,Chennai,Mobile,231187,12083,1055,190287.56
+DSH0084,2026-02-13,Google Ads,IN_GO_1047,Monsoon Deals | EdTech | Rajasthan | Social,Rajasthan,Jaipur,Tablet,38672,1730,15,44578.21
+DSH0085,2026-02-28,YouTube Ads,IN_YO_1080,Republic Day | Electronics | Delhi NCR | Social,Delhi NCR,Faridabad,Mobile,246796,12886,449,371354.05
+DSH0086,2026-03-24,Google Ads,IN_GO_1006,IPL Promo | Travel | Rajasthan | Display,Rajasthan,Jodhpur,Mobile,24754,517,25,3894.8
+DSH0087,2026-03-10,Meta Ads,IN_ME_1020,Republic Day | Travel | West Bengal | Programmatic,West Bengal,Howrah,Tablet,247105,6506,104,154894.21
+DSH0088,2026-03-27,Google Ads,IN_GO_1008,Back to College | Home Appliances | Karnataka | Programmatic,Karnataka,Mangaluru,Tablet,235409,5877,298,256081.75
+DSH0089,2026-01-08,DV360,IN_DV_1028,Holi Offer | EdTech | Delhi NCR | Display,Delhi NCR,Gurugram,Tablet,183218,6840,599,38297.22
+DSH0090,2026-02-12,Meta Ads,IN_ME_1028,Summer Savings | Electronics | Telangana | Programmatic,Telangana,Karimnagar,Tablet,228136,11090,387,106724.6
+DSH0091,2026-03-18,Google Ads,IN_GO_1004,Monsoon Deals | Beauty | Delhi NCR | Video,Delhi NCR,Gurugram,Mobile,49551,333,24,4453.6
+DSH0092,2026-02-12,Google Ads,IN_GO_1009,Diwali Sale | Fashion | Telangana | Display,Telangana,Warangal,Tablet,139845,3910,147,110016.22
+DSH0093,2026-02-27,LinkedIn Ads,IN_LI_1004,Diwali Sale | Travel | Tamil Nadu | Programmatic,Tamil Nadu,Madurai,Desktop,30945,1699,131,36002.41
+DSH0094,2026-01-14,DV360,IN_DV_1017,Holi Offer | Grocery | Rajasthan | Programmatic,Rajasthan,Jaipur,Mobile,87093,3186,178,105311.13
+DSH0095,2026-02-18,LinkedIn Ads,IN_LI_1015,Wedding Season | Beauty | Uttar Pradesh | Programmatic,Uttar Pradesh,Varanasi,Mobile,238554,9084,726,239639.66
+DSH0096,2026-01-28,DV360,IN_DV_1013,New Year | Grocery | Rajasthan | Display,Rajasthan,Jaipur,Desktop,96932,2608,163,49639.35
+DSH0097,2026-01-20,DV360,IN_DV_1048,Holi Offer | Electronics | Karnataka | Display,Karnataka,Bengaluru,Tablet,227800,2819,36,121780.58
+DSH0098,2026-03-13,YouTube Ads,IN_YO_1077,Republic Day | EdTech | Karnataka | Display,Karnataka,Hubballi,Desktop,96906,2251,124,27751.81
+DSH0099,2026-03-26,DV360,IN_DV_1036,Republic Day | EdTech | Tamil Nadu | Programmatic,Tamil Nadu,Chennai,Mobile,165496,2826,122,75680.5
+DSH0100,2026-03-22,LinkedIn Ads,IN_LI_1035,Festive Cashback | Travel | Uttar Pradesh | Video,Uttar Pradesh,Lucknow,Mobile,199208,8637,721,156048.76
+DSH0101,2026-01-24,Meta Ads,IN_ME_1068,New Year | Electronics | Kerala | Social,Kerala,Kozhikode,Mobile,71395,1744,78,17496.65
+DSH0102,2026-02-09,YouTube Ads,IN_YO_1007,Holi Offer | Electronics | Kerala | Social,Kerala,Kozhikode,Tablet,191676,1916,84,40421.11
+DSH0103,2026-03-19,DV360,IN_DV_1056,Summer Savings | EdTech | West Bengal | Programmatic,West Bengal,Howrah,Desktop,44069,876,55,20757.05
+DSH0104,2026-03-28,YouTube Ads,IN_YO_1039,New Year | Beauty | Maharashtra | Search,Maharashtra,Pune,Mobile,70373,3068,216,47590.99
+DSH0105,2026-01-16,Google Ads,IN_GO_1030,New Year | Fashion | Rajasthan | Social,Rajasthan,Jodhpur,Tablet,146140,4877,306,88751.34
+DSH0106,2026-02-20,Google Ads,IN_GO_1052,Wedding Season | Electronics | West Bengal | Video,West Bengal,Kolkata,Tablet,200990,7510,238,152519.39
+DSH0107,2026-02-11,Meta Ads,IN_ME_1056,Republic Day | Electronics | Kerala | Display,Kerala,Thiruvananthapuram,Mobile,169369,4339,62,171940.53
+DSH0108,2026-02-13,Meta Ads,IN_ME_1045,Holi Offer | Beauty | Gujarat | Search,Gujarat,Surat,Desktop,205678,10891,663,104870.84
+DSH0109,2026-01-14,Meta Ads,IN_ME_1064,Monsoon Deals | Beauty | Delhi NCR | Social,Delhi NCR,Gurugram,Mobile,136622,5870,412,129900.57
+DSH0110,2026-03-14,LinkedIn Ads,IN_LI_1039,Monsoon Deals | Home Appliances | Gujarat | Search,Gujarat,Vadodara,Desktop,223753,4354,54,106910.21
+DSH0111,2026-02-10,DV360,IN_DV_1012,Diwali Sale | Grocery | Rajasthan | Video,Rajasthan,Jaipur,Tablet,174457,6372,244,179193.18
+DSH0112,2026-01-06,DV360,IN_DV_1020,Summer Savings | Grocery | Kerala | Programmatic,Kerala,Kozhikode,Tablet,31219,876,65,33508.01
+DSH0113,2026-01-12,LinkedIn Ads,IN_LI_1067,Summer Savings | Travel | Telangana | Display,Telangana,Hyderabad,Tablet,174856,2409,92,36713.36
+DSH0114,2026-02-22,YouTube Ads,IN_YO_1050,Republic Day | Electronics | Kerala | Video,Kerala,Kochi,Tablet,91276,1608,127,69278.63
+DSH0115,2026-03-19,Meta Ads,IN_ME_1051,Festive Cashback | Travel | Gujarat | Social,Gujarat,Ahmedabad,Desktop,48803,1715,145,28036.22
+DSH0116,2026-02-18,YouTube Ads,IN_YO_1047,Back to College | Electronics | Telangana | Display,Telangana,Karimnagar,Mobile,95967,1423,36,60944.58
+DSH0117,2026-03-04,Meta Ads,IN_ME_1070,Monsoon Deals | Electronics | Tamil Nadu | Video,Tamil Nadu,Chennai,Tablet,233921,9869,505,305643.56
+DSH0118,2026-03-21,Meta Ads,IN_ME_1057,Monsoon Deals | Fashion | Kerala | Social,Kerala,Thiruvananthapuram,Tablet,26982,677,43,9691.53
+DSH0119,2026-02-26,LinkedIn Ads,IN_LI_1025,Summer Savings | Beauty | Delhi NCR | Social,Delhi NCR,Faridabad,Desktop,111427,4372,239,95243.11
+DSH0120,2026-02-06,DV360,IN_DV_1007,Monsoon Deals | EdTech | Uttar Pradesh | Social,Uttar Pradesh,Agra,Desktop,183081,5409,207,228655.64
+DSH0121,2026-03-08,Google Ads,IN_GO_1012,Monsoon Deals | Grocery | Delhi NCR | Display,Delhi NCR,New Delhi,Desktop,73205,3368,271,141841.92
+DSH0122,2026-02-23,Google Ads,IN_GO_1029,Republic Day | Fashion | West Bengal | Display,West Bengal,Durgapur,Desktop,22389,483,7,16016.39
+DSH0123,2026-02-12,Meta Ads,IN_ME_1061,IPL Promo | EdTech | Telangana | Display,Telangana,Hyderabad,Tablet,132598,4793,394,20555.55
+DSH0124,2026-01-28,Meta Ads,IN_ME_1016,Holi Offer | EdTech | Uttar Pradesh | Video,Uttar Pradesh,Agra,Desktop,27517,486,29,14262.47
+DSH0125,2026-01-09,Google Ads,IN_GO_1019,Back to College | Electronics | Rajasthan | Programmatic,Rajasthan,Jodhpur,Tablet,91355,2469,144,33290.55
+DSH0126,2026-02-23,Meta Ads,IN_ME_1061,Holi Offer | Beauty | Karnataka | Programmatic,Karnataka,Mangaluru,Desktop,26412,981,86,13759.98
+DSH0127,2026-01-03,YouTube Ads,IN_YO_1006,Summer Savings | Travel | Karnataka | Search,Karnataka,Mangaluru,Mobile,109500,3621,262,38989.57
+DSH0128,2026-03-29,DV360,IN_DV_1059,Monsoon Deals | EdTech | Rajasthan | Social,Rajasthan,Jodhpur,Tablet,24695,503,5,5924.33
+DSH0129,2026-03-27,Google Ads,IN_GO_1008,Back to College | Home Appliances | Karnataka | Programmatic,Karnataka,Mangaluru,Tablet,235409,5877,298,256081.75
+DSH0130,2026-02-12,YouTube Ads,IN_YO_1024,New Year | Home Appliances | Karnataka | Display,Karnataka,Mangaluru,Desktop,145076,5790,220,211842.04
+DSH0131,2026-02-04,Google Ads,IN_GO_1014,New Year | Beauty | West Bengal | Social,West Bengal,Kolkata,Desktop,35989,794,25,17472.37
+DSH0132,2026-02-24,Meta Ads,IN_ME_1008,Wedding Season | Electronics | Rajasthan | Video,Rajasthan,Udaipur,Desktop,34671,1348,55,33421.06
+DSH0133,2026-03-28,Meta Ads,IN_ME_1009,Festive Cashback | Travel | Maharashtra | Display,Maharashtra,Pune,Mobile,76864,3393,129,65785.04
+DSH0134,2026-03-14,Google Ads,IN_GO_1074,Wedding Season | Grocery | Kerala | Video,Kerala,Kochi,Mobile,51095,1632,66,49705.45
+DSH0135,2026-02-01,Google Ads,IN_GO_1034,Wedding Season | Beauty | Maharashtra | Display,Maharashtra,Pune,Desktop,199559,5561,498,85369.36
+DSH0136,2026-03-04,Meta Ads,IN_ME_1041,Holi Offer | Home Appliances | Karnataka | Social,Karnataka,Mysuru,Mobile,190070,4376,58,113776.49
+DSH0137,2026-02-08,Meta Ads,IN_ME_1031,Back to College | Fashion | Telangana | Search,Telangana,Warangal,Mobile,222191,6711,252,182871.48
+DSH0138,2026-03-01,LinkedIn Ads,IN_LI_1062,Holi Offer | Electronics | Telangana | Video,Telangana,Karimnagar,Tablet,152807,3992,165,109214.62
+DSH0139,2026-01-18,YouTube Ads,IN_YO_1071,Wedding Season | Travel | Karnataka | Programmatic,Karnataka,Hubballi,Mobile,182718,6358,451,56299.25
+DSH0140,2026-03-06,Google Ads,IN_GO_1029,IPL Promo | Fashion | Karnataka | Social,Karnataka,Mysuru,Tablet,105707,5541,280,84710.84
+DSH0141,2026-01-11,YouTube Ads,IN_YO_1069,Back to College | Grocery | Tamil Nadu | Social,Tamil Nadu,Madurai,Tablet,39491,1209,26,51475.22
+DSH0142,2026-01-20,Meta Ads,IN_ME_1011,Festive Cashback | Grocery | Kerala | Programmatic,Kerala,Kozhikode,Mobile,26917,1412,100,20450.31
+DSH0143,2026-01-27,LinkedIn Ads,IN_LI_1039,Diwali Sale | Home Appliances | West Bengal | Programmatic,West Bengal,Durgapur,Tablet,144433,2573,189,50821.86
+DSH0144,2026-03-01,Google Ads,IN_GO_1044,Wedding Season | Home Appliances | Maharashtra | Display,Maharashtra,Pune,Mobile,174032,2269,178,38009.45
+DSH0145,2026-02-14,DV360,IN_DV_1060,Back to College | Beauty | Telangana | Search,Telangana,Warangal,Mobile,47118,900,25,6765.92
+DSH0146,2026-02-07,DV360,IN_DV_1041,Summer Savings | EdTech | Kerala | Social,Kerala,Thiruvananthapuram,Tablet,64763,2810,137,69859.64
+DSH0147,2026-03-05,YouTube Ads,IN_YO_1028,Holi Offer | Home Appliances | Rajasthan | Programmatic,Rajasthan,Jaipur,Mobile,167920,3911,47,94013.05
+DSH0148,2026-01-03,YouTube Ads,IN_YO_1033,IPL Promo | Fashion | Gujarat | Programmatic,Gujarat,Vadodara,Mobile,245339,6126,551,273219.64
+DSH0149,2026-03-13,Meta Ads,,Holi Offer | Home Appliances | Gujarat | Programmatic,Gujarat,Vadodara,Tablet,231350,12600,803,106226.28
+DSH0150,2026-01-13,DV360,IN_DV_1066,Back to College | Grocery | Gujarat | Social,Gujarat,Vadodara,Tablet,120221,3667,42,33688.76
+DSH0151,2026-02-12,DV360,IN_DV_1079,Monsoon Deals | Beauty | Uttar Pradesh | Programmatic,Uttar Pradesh,Agra,Desktop,98500,1375,122,46999.91
+DSH0152,2026-02-09,LinkedIn Ads,,Festive Cashback | Grocery | Gujarat | Display,Gujarat,Rajkot,Desktop,191634,2178,91,35433.08
+DSH0153,2026-03-30,Google Ads,IN_GO_1007,IPL Promo | Travel | Kerala | Programmatic,Kerala,Thiruvananthapuram,Tablet,167967,4962,252,165875.13
+DSH0154,2026-02-18,Meta Ads,IN_ME_1057,Festive Cashback | Travel | Tamil Nadu | Search,Tamil Nadu,Chennai,Mobile,97232,2578,107,30836.76
+DSH0155,2026-03-06,LinkedIn Ads,IN_LI_1042,Diwali Sale | Travel | Rajasthan | Social,Rajasthan,Jodhpur,Tablet,188598,5552,215,239859.99
+DSH0156,2026-02-28,LinkedIn Ads,IN_LI_1036,IPL Promo | Beauty | Gujarat | Display,Gujarat,Vadodara,Mobile,161299,3327,283,147265.67
+DSH0157,2026-02-06,Meta Ads,IN_ME_1016,Wedding Season | Grocery | Rajasthan | Programmatic,Rajasthan,Udaipur,Desktop,165333,6473,253,285955.54
+DSH0158,2026-01-17,Meta Ads,IN_EXTRA_2018,Monsoon Deals | Fashion | Tamil Nadu | Social | Extra in Dashboard,Tamil Nadu,Coimbatore,Mobile,20302,403,22,3365.72
+DSH0159,2026-03-13,YouTube Ads,IN_YO_1007,Festive Cashback | Travel | Telangana | Programmatic,Telangana,Hyderabad,Mobile,190592,9597,254,126322.6
+DSH0160,2026-01-13,DV360,IN_DV_1021,Holi Offer | Travel | Gujarat | Social,Gujarat,Rajkot,Tablet,121668,4622,370,107422.38
+DSH0161,2026-03-25,Meta Ads,IN_ME_1074,IPL Promo | Travel | Delhi NCR | Search,Delhi NCR,Noida,Tablet,75875,2444,164,103556.63
+DSH0162,2026-01-23,DV360,IN_DV_1038,New Year | EdTech | Telangana | Display,Telangana,Hyderabad,Tablet,244832,1918,62,54692.72
+DSH0163,2026-02-12,YouTube Ads,IN_YO_1060,Back to College | Beauty | Rajasthan | Display,Rajasthan,Jodhpur,Tablet,86522,1336,23,13685.33
+DSH0164,2026-02-28,YouTube Ads,,Republic Day | EdTech | Telangana | Video,Telangana,Hyderabad,Mobile,239433,8930,368,189759.69
+DSH0165,2026-02-11,Google Ads,IN_GO_1032,Holi Offer | Fashion | West Bengal | Social,West Bengal,Durgapur,Desktop,16790,315,8,10955.98
+DSH0166,2026-02-12,YouTube Ads,IN_YO_1031,Festive Cashback | Electronics | Kerala | Video,Kerala,Kozhikode,Tablet,31285,1211,55,12265.31
+DSH0167,2026-03-29,LinkedIn Ads,IN_LI_1018,IPL Promo | Grocery | Delhi NCR | Programmatic,Delhi NCR,New Delhi,Mobile,140352,1895,131,54269.33
+DSH0168,2026-02-23,LinkedIn Ads,IN_LI_1058,Summer Savings | EdTech | Rajasthan | Social,Rajasthan,Jodhpur,Tablet,156526,6087,89,162168.06
+DSH0169,2026-01-08,LinkedIn Ads,IN_LI_1067,Festive Cashback | Beauty | Uttar Pradesh | Social,Uttar Pradesh,Kanpur,Desktop,130825,1530,38,42381.96
+DSH0170,2026-01-12,LinkedIn Ads,,Wedding Season | Fashion | Rajasthan | Programmatic,Rajasthan,Jaipur,Desktop,30135,1005,63,16370.48
+DSH0171,2026-01-03,DV360,IN_DV_1045,Summer Savings | Beauty | Delhi NCR | Search,Delhi NCR,New Delhi,Desktop,198601,1812,162,76620.76
+DSH0172,2026-01-10,DV360,IN_DV_1049,New Year | Fashion | Maharashtra | Social,Maharashtra,Nagpur,Desktop,132581,6444,530,123011.38
+DSH0173,2026-03-29,LinkedIn Ads,IN_LI_1017,Republic Day | Electronics | Telangana | Social,Telangana,Karimnagar,Tablet,205803,11104,848,387323.57
+DSH0174,2026-01-26,Meta Ads,IN_EXTRA_2007,Back to College | Home Appliances | West Bengal | Search | Extra in Dashboard,West Bengal,Howrah,Tablet,117845,3997,236,56427.37
+DSH0175,2026-01-15,Google Ads,IN_GO_1077,Diwali Sale | Fashion | West Bengal | Social,West Bengal,Durgapur,Mobile,23801,663,41,26318.99
+DSH0176,2026-02-02,Google Ads,IN_GO_1065,Summer Savings | Beauty | West Bengal | Social,West Bengal,Howrah,Mobile,90828,1587,131,43497.41
+DSH0177,2026-03-15,LinkedIn Ads,IN_LI_1039,IPL Promo | Fashion | Gujarat | Programmatic,Gujarat,Surat,Desktop,87129,783,67,31326.36
+DSH0178,2026-01-23,DV360,IN_DV_1054,Diwali Sale | Grocery | Uttar Pradesh | Display,Uttar Pradesh,Agra,Tablet,122022,1624,63,56528.63
+DSH0179,2026-03-02,Meta Ads,IN_ME_1053,Monsoon Deals | EdTech | Tamil Nadu | Display,Tamil Nadu,Coimbatore,Tablet,124185,4136,78,56161.21
+DSH0180,2026-01-27,YouTube Ads,IN_YO_1035,Republic Day | Electronics | Karnataka | Programmatic,Karnataka,Hubballi,Mobile,113872,4442,255,176592.82
+DSH0181,2026-01-25,LinkedIn Ads,IN_LI_1028,Wedding Season | Fashion | Uttar Pradesh | Video,Uttar Pradesh,Kanpur,Mobile,64813,3444,60,154918.83
+DSH0182,2026-03-03,Meta Ads,IN_ME_1049,Summer Savings | Home Appliances | Kerala | Social,Kerala,Kozhikode,Desktop,137224,4411,165,63319.06
+DSH0183,2026-03-07,DV360,IN_DV_1041,Wedding Season | EdTech | Rajasthan | Video,Rajasthan,Jaipur,Desktop,123509,1017,80,34844.43
+DSH0184,2026-01-04,YouTube Ads,IN_YO_1049,IPL Promo | Fashion | Uttar Pradesh | Social,Uttar Pradesh,Agra,Mobile,164366,7698,376,236068.64
+DSH0185,2026-03-29,YouTube Ads,IN_YO_1018,Wedding Season | Home Appliances | Delhi NCR | Social,Delhi NCR,Faridabad,Mobile,203825,6681,154,269970.04
+DSH0186,2026-01-27,DV360,IN_DV_1071,IPL Promo | Grocery | West Bengal | Social,West Bengal,Durgapur,Tablet,151557,1816,86,28875.75
+DSH0187,2026-01-28,LinkedIn Ads,IN_LI_1063,Diwali Sale | Beauty | Rajasthan | Programmatic,Rajasthan,Udaipur,Tablet,19123,120,6,479.02
+DSH0188,2026-01-28,DV360,IN_DV_1072,Wedding Season | Fashion | West Bengal | Video,West Bengal,Durgapur,Mobile,159414,3037,164,122604.21
+DSH0189,2026-02-15,YouTube Ads,IN_YO_1029,Republic Day | Home Appliances | West Bengal | Display,West Bengal,Kolkata,Tablet,93636,3700,286,113331.12
+DSH0190,2026-03-25,Google Ads,IN_GO_1002,New Year | Home Appliances | Karnataka | Programmatic,Karnataka,Hubballi,Mobile,199246,2868,140,61682.79
+DSH0191,2026-02-12,LinkedIn Ads,IN_LI_1006,Summer Savings | Fashion | Karnataka | Programmatic,Karnataka,Bengaluru,Desktop,34489,1363,42,35486.76
+DSH0192,2026-03-27,Google Ads,IN_GO_1051,Diwali Sale | Fashion | Telangana | Programmatic,Telangana,Warangal,Tablet,35168,726,39,19614.98
+DSH0193,2026-02-19,LinkedIn Ads,IN_LI_1013,Monsoon Deals | EdTech | Gujarat | Search,Gujarat,Rajkot,Mobile,129580,2251,32,64411.25
+DSH0194,2026-03-20,LinkedIn Ads,IN_LI_1030,Diwali Sale | Travel | West Bengal | Video,West Bengal,Howrah,Desktop,108273,3583,138,40158.7
+DSH0195,2026-03-16,DV360,IN_DV_1020,Summer Savings | Travel | Karnataka | Search,Karnataka,Mangaluru,Desktop,114614,4684,280,160172.63
+DSH0196,2026-02-10,YouTube Ads,IN_YO_1014,Diwali Sale | Grocery | Karnataka | Display,Karnataka,Bengaluru,Desktop,49735,511,22,13600.2
+DSH0197,2026-03-07,DV360,IN_DV_1077,Holi Offer | Grocery | Karnataka | Programmatic,Karnataka,Bengaluru,Tablet,220635,4831,191,75419.95
+DSH0198,2026-02-19,Google Ads,IN_GO_1018,Festive Cashback | Beauty | Uttar Pradesh | Social,Uttar Pradesh,Kanpur,Mobile,85495,1774,85,10866.79
+DSH0199,2026-02-26,YouTube Ads,IN_YO_1032,Wedding Season | EdTech | West Bengal | Search,West Bengal,Howrah,Desktop,203979,7471,423,86777.54
+DSH0200,2026-01-14,Meta Ads,IN_ME_1057,New Year | Grocery | Delhi NCR | Programmatic,Delhi NCR,New Delhi,Desktop,102749,2784,210,84962.19
+DSH0201,2026-03-18,Meta Ads,IN_ME_1023,Festive Cashback | Travel | Delhi NCR | Social,Delhi NCR,Noida,Desktop,119396,6383,203,206430.99
+DSH0202,2026-03-04,LinkedIn Ads,IN_LI_1073,New Year | Grocery | Tamil Nadu | Display,Tamil Nadu,Coimbatore,Mobile,66702,2311,124,73495.24
+DSH0203,2026-03-12,Google Ads,IN_GO_1064,Summer Savings | Home Appliances | Rajasthan | Video,Rajasthan,Jodhpur,Desktop,51484,1906,53,58770.58
+DSH0204,2026-02-24,DV360,IN_DV_1065,Festive Cashback | Home Appliances | Karnataka | Programmatic,Karnataka,Hubballi,Tablet,242969,9692,509,351964.19
+DSH0205,2026-02-16,LinkedIn Ads,IN_LI_1079,Holi Offer | Electronics | Kerala | Social,Kerala,Kozhikode,Mobile,26612,894,54,27123.83
+DSH0206,2026-02-08,Google Ads,IN_EXTRA_2020,Festive Cashback | Fashion | Karnataka | Programmatic | Extra in Dashboard,Karnataka,Bengaluru,Tablet,36217,415,11,3205.2
+DSH0207,2026-01-20,YouTube Ads,IN_YO_1019,Holi Offer | Grocery | Maharashtra | Display,Maharashtra,Nashik,Mobile,106312,2262,102,27336.26
+DSH0208,2026-03-03,YouTube Ads,IN_YO_1039,Wedding Season | Travel | Rajasthan | Display,Rajasthan,Jaipur,Mobile,26713,1220,21,47263.98
+DSH0209,2026-03-24,Google Ads,IN_GO_1072,Summer Savings | Beauty | Telangana | Social,Telangana,Karimnagar,Desktop,126770,6714,181,136357.77
+DSH0210,2026-01-24,Meta Ads,IN_ME_1076,Diwali Sale | Travel | West Bengal | Programmatic,West Bengal,Howrah,Desktop,127604,3196,210,38480.02
+DSH0211,2026-01-09,LinkedIn Ads,IN_LI_1034,Republic Day | Grocery | Karnataka | Social,Karnataka,Mysuru,Mobile,194636,9486,472,268216.53
+DSH0212,2026-03-18,DV360,IN_DV_1080,Festive Cashback | Electronics | Kerala | Video,Kerala,Thiruvananthapuram,Desktop,60227,2762,181,43761.02
+DSH0213,2026-03-20,LinkedIn Ads,IN_LI_1024,Republic Day | Electronics | Karnataka | Social,Karnataka,Mysuru,Mobile,112859,4511,225,94085.58
+DSH0214,2026-01-18,LinkedIn Ads,IN_LI_1022,Monsoon Deals | Home Appliances | West Bengal | Programmatic,West Bengal,Howrah,Tablet,146223,2975,67,114391.85
+DSH0215,2026-03-22,Google Ads,IN_GO_1065,Wedding Season | Fashion | Gujarat | Social,Gujarat,Ahmedabad,Tablet,186198,5633,361,116877.22
+DSH0216,2026-02-26,DV360,IN_DV_1036,Festive Cashback | Electronics | Telangana | Social,Telangana,Hyderabad,Mobile,73941,2391,52,53746.9
+DSH0217,2026-03-05,LinkedIn Ads,IN_LI_1006,Festive Cashback | Electronics | Uttar Pradesh | Video,Uttar Pradesh,Lucknow,Tablet,214230,8832,466,393692.52
+DSH0218,2026-01-14,Meta Ads,IN_ME_1016,Wedding Season | Grocery | Delhi NCR | Video,Delhi NCR,New Delhi,Desktop,216143,10094,251,357985.77
+DSH0219,2026-03-30,YouTube Ads,IN_YO_1027,New Year | Fashion | Kerala | Programmatic,Kerala,Kozhikode,Mobile,226141,2014,74,30542.37
+DSH0220,2026-03-10,Meta Ads,IN_ME_1053,IPL Promo | Beauty | Gujarat | Video,Gujarat,Vadodara,Mobile,31151,1684,131,14913.88
+DSH0221,2026-01-17,Meta Ads,IN_ME_1019,Republic Day | EdTech | Telangana | Social,Telangana,Karimnagar,Desktop,166368,6153,365,117335.57
+DSH0222,2026-01-10,Google Ads,IN_GO_1042,IPL Promo | Travel | West Bengal | Video,West Bengal,Durgapur,Desktop,167556,1025,73,34755.75
+DSH0223,2026-02-28,YouTube Ads,IN_YO_1042,Summer Savings | Home Appliances | Karnataka | Social,Karnataka,Hubballi,Desktop,236787,4525,244,39955.27
+DSH0224,2026-03-04,YouTube Ads,IN_YO_1021,Holi Offer | Travel | Maharashtra | Display,Maharashtra,Mumbai,Mobile,130680,3707,331,78787.36
+DSH0225,2026-03-30,Meta Ads,IN_ME_1048,IPL Promo | Electronics | Delhi NCR | Video,Delhi NCR,Gurugram,Mobile,189196,9513,205,189766.99
+DSH0226,2026-02-09,Meta Ads,IN_ME_1062,Holi Offer | Travel | West Bengal | Search,West Bengal,Durgapur,Mobile,35431,442,11,14019.92
+DSH0227,2026-03-17,DV360,IN_EXTRA_2006,New Year | Travel | Karnataka | Video | Extra in Dashboard,Karnataka,Bengaluru,Mobile,64331,715,25,15756.81
+DSH0228,2026-02-17,YouTube Ads,IN_YO_1073,Monsoon Deals | Travel | Telangana | Social,Telangana,Warangal,Tablet,17221,618,13,11169.91
+DSH0229,2026-01-28,Meta Ads,IN_ME_1018,Wedding Season | EdTech | West Bengal | Social,West Bengal,Durgapur,Mobile,212249,2554,173,46198.61
+DSH0230,2026-02-24,YouTube Ads,IN_YO_1077,IPL Promo | Travel | Telangana | Search,Telangana,Hyderabad,Tablet,172288,7122,223,303134.32
+DSH0231,2026-01-04,YouTube Ads,IN_YO_1007,Festive Cashback | Beauty | Tamil Nadu | Social,Tamil Nadu,Madurai,Desktop,220468,11022,951,264945.08
+DSH0232,2026-01-15,Meta Ads,IN_ME_1041,Festive Cashback | Electronics | Rajasthan | Programmatic,Rajasthan,Jodhpur,Desktop,50589,1249,94,25156.7
+DSH0233,2026-03-12,Meta Ads,IN_ME_1028,Diwali Sale | Beauty | Rajasthan | Search,Rajasthan,Jaipur,Desktop,25440,1302,111,26060.78
+DSH0234,2026-02-06,LinkedIn Ads,IN_LI_1011,New Year | Electronics | West Bengal | Programmatic,West Bengal,Howrah,Desktop,96240,950,79,41737.31
+DSH0235,2026-01-21,LinkedIn Ads,,Festive Cashback | Travel | Gujarat | Search,Gujarat,Rajkot,Tablet,206354,10878,299,148440.21
+DSH0236,2026-02-25,Google Ads,IN_GO_1002,Festive Cashback | Electronics | Rajasthan | Video,Rajasthan,Jodhpur,Mobile,200571,2551,22,61482.0
+DSH0237,2026-02-14,LinkedIn Ads,IN_LI_1016,Monsoon Deals | Grocery | Uttar Pradesh | Social,Uttar Pradesh,Varanasi,Tablet,215052,11207,385,243547.45
+DSH0238,2026-03-09,Google Ads,IN_GO_1064,Wedding Season | Home Appliances | Delhi NCR | Programmatic,Delhi NCR,New Delhi,Mobile,240276,8115,309,114318.58
+DSH0239,2026-01-15,LinkedIn Ads,IN_LI_1006,Back to College | Electronics | Karnataka | Search,Karnataka,Mysuru,Mobile,138670,3305,275,36113.33
+DSH0240,2026-01-05,LinkedIn Ads,IN_LI_1010,Republic Day | Fashion | West Bengal | Display,West Bengal,Kolkata,Desktop,164824,3999,196,163681.28
+DSH0241,2026-01-23,Meta Ads,IN_ME_1042,New Year | Electronics | Uttar Pradesh | Display,Uttar Pradesh,Lucknow,Desktop,38397,1221,10,15032.25
+DSH0242,2026-03-14,YouTube Ads,IN_YO_1070,Wedding Season | Grocery | Kerala | Programmatic,Kerala,Kochi,Mobile,214355,9646,196,407008.12
+DSH0243,2026-01-04,Meta Ads,,Diwali Sale | Grocery | Uttar Pradesh | Search,Uttar Pradesh,Varanasi,Tablet,41826,684,60,13901.65
+DSH0244,2026-01-08,Meta Ads,IN_ME_1048,Diwali Sale | Fashion | Delhi NCR | Programmatic,Delhi NCR,New Delhi,Tablet,135182,7266,108,54251.19
+DSH0245,2026-01-18,DV360,IN_DV_1034,New Year | Travel | Karnataka | Social,Karnataka,Bengaluru,Desktop,238061,5102,375,166223.73
+DSH0246,2026-03-07,LinkedIn Ads,IN_EXTRA_2011,Monsoon Deals | Beauty | Maharashtra | Search | Extra in Dashboard,Maharashtra,Nagpur,Mobile,29154,471,29,4269.58
+DSH0247,2026-01-16,LinkedIn Ads,IN_LI_1012,Wedding Season | Grocery | Gujarat | Display,Gujarat,Surat,Mobile,56317,2566,84,84024.31
+DSH0248,2026-03-19,Google Ads,IN_GO_1066,Monsoon Deals | Electronics | Tamil Nadu | Social,Tamil Nadu,Coimbatore,Desktop,27832,1090,31,48628.26
+DSH0249,2026-01-04,DV360,IN_DV_1018,Back to College | Fashion | Rajasthan | Search,Rajasthan,Jodhpur,Mobile,46838,308,23,13637.17
+DSH0250,2026-01-17,Meta Ads,IN_ME_1003,Holi Offer | Beauty | West Bengal | Programmatic,West Bengal,Howrah,Mobile,31900,500,30,18542.95
+DSH0251,2026-01-12,YouTube Ads,IN_YO_1051,Wedding Season | Electronics | Karnataka | Social,Karnataka,Bengaluru,Tablet,143605,1089,69,11744.84
+DSH0252,2026-01-28,Meta Ads,IN_ME_1038,Wedding Season | Fashion | Delhi NCR | Search,Delhi NCR,Noida,Tablet,145781,3817,202,23018.92
+DSH0253,2026-02-05,DV360,IN_DV_1070,Summer Savings | Travel | Telangana | Programmatic,Telangana,Warangal,Tablet,223364,1553,61,51411.88
+DSH0254,2026-03-03,LinkedIn Ads,IN_LI_1024,Festive Cashback | Beauty | Rajasthan | Video,Rajasthan,Udaipur,Desktop,21832,472,12,19198.24
+DSH0255,2026-02-05,Google Ads,IN_GO_1013,Republic Day | EdTech | Rajasthan | Programmatic,Rajasthan,Jodhpur,Mobile,79974,3053,91,114108.42
+DSH0256,2026-01-08,Meta Ads,IN_ME_1076,Republic Day | EdTech | Kerala | Social,Kerala,Thiruvananthapuram,Mobile,98362,4475,291,185400.01
+DSH0257,2026-01-04,YouTube Ads,IN_YO_1040,Monsoon Deals | Beauty | Kerala | Social,Kerala,Kozhikode,Tablet,61021,1832,28,24097.89
+DSH0258,2026-01-29,Google Ads,IN_GO_1044,Diwali Sale | Grocery | Uttar Pradesh | Programmatic,Uttar Pradesh,Agra,Mobile,202940,2982,220,117881.47
+DSH0259,2026-01-08,Google Ads,IN_GO_1048,Monsoon Deals | EdTech | Telangana | Search,Telangana,Karimnagar,Mobile,203683,10518,421,81715.44
+DSH0260,2026-02-08,YouTube Ads,,New Year | EdTech | Telangana | Display,Telangana,Hyderabad,Mobile,196812,9759,569,178670.31
+DSH0261,2026-03-27,LinkedIn Ads,IN_LI_1001,IPL Promo | Travel | Telangana | Video,Telangana,Warangal,Mobile,199027,10446,419,467591.69
+DSH0262,2026-03-14,Google Ads,IN_GO_1073,Republic Day | EdTech | Telangana | Programmatic,Telangana,Karimnagar,Tablet,42291,2194,42,75543.26
+DSH0263,2026-01-31,YouTube Ads,IN_YO_1034,Holi Offer | EdTech | Gujarat | Video,Gujarat,Surat,Mobile,69967,1275,17,18042.91
+DSH0264,2026-01-14,Google Ads,IN_GO_1064,Wedding Season | Travel | Maharashtra | Display,Maharashtra,Nashik,Desktop,246150,6044,318,46594.92
+DSH0265,2026-03-03,LinkedIn Ads,IN_LI_1041,Wedding Season | Electronics | Tamil Nadu | Search,Tamil Nadu,Chennai,Mobile,83453,4392,61,46376.74
+DSH0266,2026-02-18,Meta Ads,IN_ME_1004,Republic Day | Beauty | Karnataka | Programmatic,Karnataka,Bengaluru,Tablet,128068,6682,143,270118.25
+DSH0267,2026-03-29,Meta Ads,IN_ME_1030,Summer Savings | Fashion | Rajasthan | Social,Rajasthan,Jodhpur,Mobile,68154,3197,244,58425.61
+DSH0268,2026-03-04,Meta Ads,IN_ME_1077,Diwali Sale | Home Appliances | Maharashtra | Search,Maharashtra,Nagpur,Tablet,143733,2179,22,22844.6
+DSH0269,2026-02-08,LinkedIn Ads,IN_LI_1066,Republic Day | Electronics | Delhi NCR | Programmatic,Delhi NCR,Faridabad,Tablet,120957,5749,447,35011.63
+DSH0270,2026-02-18,YouTube Ads,IN_YO_1029,Diwali Sale | Grocery | Telangana | Display,Telangana,Warangal,Desktop,234435,4491,58,155917.45
+DSH0271,2026-03-27,Google Ads,IN_GO_1008,Back to College | Home Appliances | Karnataka | Programmatic,Karnataka,Mangaluru,Tablet,235409,5877,298,256081.75
+DSH0272,2026-03-29,DV360,IN_DV_1005,Wedding Season | Grocery | Kerala | Search,Kerala,Kochi,Tablet,145155,5132,251,132908.13
+DSH0273,2026-03-21,Meta Ads,IN_ME_1006,Monsoon Deals | Fashion | Karnataka | Social,Karnataka,Hubballi,Mobile,125985,1239,79,14718.89
+DSH0274,2026-03-22,Meta Ads,IN_ME_1072,Republic Day | Travel | Kerala | Search,Kerala,Thiruvananthapuram,Desktop,119164,3938,308,98714.08
+DSH0275,2026-01-02,LinkedIn Ads,IN_LI_1073,New Year | Electronics | Kerala | Display,Kerala,Kozhikode,Mobile,169123,5843,509,44748.42
+DSH0276,2026-01-14,LinkedIn Ads,IN_LI_1063,Back to College | Grocery | Karnataka | Display,Karnataka,Mangaluru,Desktop,164952,5911,65,88249.38
+DSH0277,2026-01-19,LinkedIn Ads,IN_LI_1031,New Year | Electronics | Kerala | Display,Kerala,Kozhikode,Tablet,27921,1187,99,48342.71
+DSH0278,2026-01-03,YouTube Ads,IN_YO_1018,IPL Promo | EdTech | Delhi NCR | Display,Delhi NCR,Noida,Mobile,93769,5038,223,190293.66
+DSH0279,2026-02-04,DV360,IN_DV_1063,Holi Offer | Fashion | Kerala | Display,Kerala,Kozhikode,Desktop,214096,6703,259,39095.53
+DSH0280,2026-01-21,Google Ads,,Monsoon Deals | EdTech | Delhi NCR | Programmatic,Delhi NCR,Faridabad,Mobile,244423,11442,876,158515.7
+DSH0281,2026-02-28,Google Ads,IN_GO_1016,IPL Promo | Grocery | Gujarat | Display,Gujarat,Surat,Tablet,193565,1451,55,40849.73
+DSH0282,2026-01-23,DV360,IN_DV_1012,Republic Day | Grocery | Kerala | Social,Kerala,Kozhikode,Tablet,89729,659,7,25657.23
+DSH0283,2026-03-10,LinkedIn Ads,IN_EXTRA_2016,Wedding Season | Electronics | Karnataka | Search | Extra in Dashboard,Karnataka,Hubballi,Tablet,117327,1125,6,17377.08
+DSH0284,2026-01-02,Meta Ads,IN_ME_1033,IPL Promo | Home Appliances | Delhi NCR | Display,Delhi NCR,Noida,Desktop,71479,2146,132,80942.91
+DSH0285,2026-02-20,LinkedIn Ads,IN_LI_1014,Back to College | Travel | Karnataka | Video,Karnataka,Bengaluru,Desktop,141284,1289,114,38779.16
+DSH0286,2026-02-05,YouTube Ads,IN_YO_1052,Monsoon Deals | Beauty | Delhi NCR | Social,Delhi NCR,Gurugram,Tablet,188154,4075,79,18567.3
+DSH0287,2026-03-05,YouTube Ads,IN_YO_1029,New Year | Home Appliances | Delhi NCR | Search,Delhi NCR,Faridabad,Desktop,194914,6275,454,258033.33
+DSH0288,2026-03-27,YouTube Ads,IN_YO_1013,Monsoon Deals | EdTech | Uttar Pradesh | Programmatic,Uttar Pradesh,Varanasi,Desktop,138412,1698,49,62904.57
+DSH0289,2026-01-24,YouTube Ads,IN_YO_1048,Republic Day | Fashion | Karnataka | Video,Karnataka,Mysuru,Desktop,83304,2890,133,24241.12
+DSH0290,2026-01-26,Google Ads,IN_EXTRA_2002,Holi Offer | Beauty | Karnataka | Display | Extra in Dashboard,Karnataka,Hubballi,Mobile,35486,786,34,15992.49
+DSH0291,2026-01-18,Meta Ads,IN_ME_1024,Festive Cashback | Home Appliances | Gujarat | Social,Gujarat,Rajkot,Tablet,219194,2183,77,97024.69
+DSH0292,2026-02-11,Google Ads,IN_GO_1012,IPL Promo | Fashion | Maharashtra | Social,Maharashtra,Nashik,Desktop,48922,1766,105,35745.3
+DSH0293,2026-03-03,DV360,IN_DV_1068,Back to College | Fashion | Maharashtra | Video,Maharashtra,Mumbai,Desktop,64958,446,3,15139.26
+DSH0294,2026-01-29,YouTube Ads,,Holi Offer | Home Appliances | Delhi NCR | Programmatic,Delhi NCR,Gurugram,Mobile,228655,1960,163,43947.06
+DSH0295,2026-03-08,LinkedIn Ads,IN_LI_1046,New Year | Travel | Uttar Pradesh | Social,Uttar Pradesh,Varanasi,Desktop,211638,3223,276,134094.61
+DSH0296,2026-02-21,Google Ads,IN_GO_1047,Monsoon Deals | Fashion | Tamil Nadu | Search,Tamil Nadu,Chennai,Mobile,199398,7704,84,313303.93
+DSH0297,2026-02-02,LinkedIn Ads,IN_LI_1015,Festive Cashback | Electronics | Kerala | Search,Kerala,Kochi,Mobile,123012,3484,62,47295.59
+DSH0298,2026-03-31,Meta Ads,IN_ME_1067,Diwali Sale | Grocery | Tamil Nadu | Display,Tamil Nadu,Madurai,Tablet,85772,3132,205,65400.13
+DSH0299,2026-01-14,LinkedIn Ads,IN_LI_1078,IPL Promo | Electronics | Kerala | Search,Kerala,Kochi,Mobile,67363,2972,226,130424.64
+DSH0300,2026-02-15,DV360,IN_DV_1062,Diwali Sale | Beauty | Delhi NCR | Display,Delhi NCR,Gurugram,Tablet,101665,1778,16,12790.25
+DSH0301,2026-01-15,LinkedIn Ads,IN_LI_1013,Holi Offer | EdTech | Rajasthan | Programmatic,Rajasthan,Jaipur,Tablet,82080,3083,140,135829.5
+DSH0302,2026-02-03,DV360,IN_DV_1041,Monsoon Deals | EdTech | Maharashtra | Search,Maharashtra,Mumbai,Desktop,126672,5344,84,186855.45
+DSH0303,2026-01-06,Google Ads,IN_GO_1035,Monsoon Deals | Grocery | Telangana | Video,Telangana,Karimnagar,Tablet,242834,10590,396,191339.2
+DSH0304,2026-01-18,YouTube Ads,,Festive Cashback | Home Appliances | Karnataka | Video,Karnataka,Hubballi,Mobile,20084,270,23,1192.98
+DSH0305,2026-01-21,Google Ads,IN_GO_1079,Wedding Season | EdTech | West Bengal | Programmatic,West Bengal,Durgapur,Mobile,114549,5060,294,198842.29
+DSH0306,2026-01-17,DV360,IN_DV_1041,New Year | Home Appliances | Rajasthan | Search,Rajasthan,Jaipur,Desktop,18240,739,46,26125.45
+DSH0307,2026-03-15,LinkedIn Ads,IN_LI_1032,Republic Day | Beauty | Tamil Nadu | Programmatic,Tamil Nadu,Madurai,Desktop,141334,3242,205,63129.45
+DSH0308,2026-03-13,LinkedIn Ads,IN_LI_1010,Monsoon Deals | Beauty | Maharashtra | Display,Maharashtra,Mumbai,Mobile,211982,6378,177,279107.78
+DSH0309,2026-02-02,LinkedIn Ads,IN_LI_1015,Festive Cashback | Electronics | Kerala | Search,Kerala,Kochi,Mobile,123012,3484,62,47295.59
+DSH0310,2026-02-11,Google Ads,IN_GO_1072,Diwali Sale | Electronics | Rajasthan | Display,Rajasthan,Jodhpur,Mobile,158942,954,14,27260.01
+DSH0311,2026-03-21,YouTube Ads,IN_YO_1059,Wedding Season | Grocery | Uttar Pradesh | Video,Uttar Pradesh,Kanpur,Mobile,102024,3412,200,78936.78
+DSH0312,2026-03-26,YouTube Ads,IN_YO_1046,Holi Offer | EdTech | Rajasthan | Social,Rajasthan,Jaipur,Desktop,232549,8615,634,225964.21
+DSH0313,2026-02-18,Google Ads,IN_GO_1079,Wedding Season | Fashion | Maharashtra | Display,Maharashtra,Pune,Desktop,66359,1007,84,19943.84
+DSH0314,2026-02-28,Meta Ads,IN_ME_1059,New Year | Electronics | Gujarat | Programmatic,Gujarat,Ahmedabad,Desktop,191362,6608,322,276081.71
+DSH0315,2026-01-01,LinkedIn Ads,IN_LI_1075,Festive Cashback | Home Appliances | Maharashtra | Programmatic,Maharashtra,Nashik,Tablet,60521,2529,46,49511.07
+DSH0316,2026-03-18,LinkedIn Ads,IN_LI_1044,New Year | Beauty | Gujarat | Social,Gujarat,Rajkot,Desktop,92115,2596,49,53552.72
+DSH0317,2026-03-31,LinkedIn Ads,IN_LI_1080,Back to College | Travel | Delhi NCR | Social,Delhi NCR,Noida,Mobile,202271,4093,148,128534.56
+DSH0318,2026-03-25,Meta Ads,IN_ME_1074,Holi Offer | EdTech | Uttar Pradesh | Video,Uttar Pradesh,Varanasi,Tablet,189891,7746,490,314452.27
+DSH0319,2026-03-10,YouTube Ads,IN_YO_1007,Back to College | Electronics | West Bengal | Search,West Bengal,Kolkata,Mobile,190703,1673,50,60394.61
+DSH0320,2026-02-06,YouTube Ads,IN_YO_1058,IPL Promo | Fashion | Telangana | Programmatic,Telangana,Hyderabad,Desktop,41864,1515,96,40629.61
+DSH0321,2026-01-29,LinkedIn Ads,IN_LI_1050,Back to College | EdTech | West Bengal | Video,West Bengal,Kolkata,Desktop,124200,6567,578,108192.25
+DSH0322,2026-03-12,Google Ads,IN_GO_1048,Summer Savings | Beauty | Maharashtra | Display,Maharashtra,Nagpur,Tablet,212946,7417,508,86433.76
+DSH0323,2026-01-25,YouTube Ads,IN_YO_1006,Holi Offer | Fashion | Rajasthan | Social,Rajasthan,Jaipur,Desktop,127330,2505,74,25497.26
+DSH0324,2026-02-03,Google Ads,IN_GO_1007,Monsoon Deals | Electronics | Gujarat | Social,Gujarat,Rajkot,Tablet,217810,11257,658,348611.77
+DSH0325,2026-03-04,LinkedIn Ads,IN_LI_1067,Holi Offer | EdTech | Uttar Pradesh | Video,Uttar Pradesh,Varanasi,Mobile,32872,1463,30,38093.34
+DSH0326,2026-02-14,DV360,IN_DV_1060,Back to College | Beauty | Telangana | Search,Telangana,Warangal,Mobile,47118,900,25,6765.92
+DSH0327,2026-03-13,Google Ads,IN_GO_1042,Wedding Season | Fashion | Karnataka | Programmatic,Karnataka,Mangaluru,Mobile,117273,5732,500,111853.79
+DSH0328,2026-03-11,YouTube Ads,IN_YO_1006,Back to College | EdTech | Maharashtra | Programmatic,Maharashtra,Nagpur,Desktop,92708,4636,110,115096.26
+DSH0329,2026-01-13,Meta Ads,IN_ME_1027,Holi Offer | Fashion | Uttar Pradesh | Social,Uttar Pradesh,Lucknow,Mobile,155969,7269,581,249087.29
+DSH0330,2026-02-25,Google Ads,IN_GO_1010,Wedding Season | Travel | Telangana | Video,Telangana,Hyderabad,Mobile,29226,430,12,2762.04
+DSH0331,2026-01-30,YouTube Ads,IN_YO_1003,Wedding Season | Travel | West Bengal | Display,West Bengal,Howrah,Desktop,117105,4566,236,137523.55
+DSH0332,2026-03-21,Google Ads,,Holi Offer | Grocery | Kerala | Programmatic,Kerala,Kochi,Desktop,174007,1781,126,38582.8
+DSH0333,2026-02-20,Google Ads,IN_GO_1038,Back to College | Fashion | Rajasthan | Social,Rajasthan,Jaipur,Tablet,181211,2366,150,98042.33
+DSH0334,2026-03-24,YouTube Ads,IN_YO_1071,Holi Offer | Electronics | Maharashtra | Search,Maharashtra,Pune,Tablet,37315,780,54,31977.8
+DSH0335,2026-02-14,Meta Ads,IN_ME_1079,Back to College | Fashion | West Bengal | Social,West Bengal,Durgapur,Mobile,233824,4298,74,134723.32
+DSH0336,2026-03-14,Google Ads,IN_GO_1013,Back to College | Electronics | Uttar Pradesh | Video,Uttar Pradesh,Agra,Desktop,66751,2773,132,47779.66
+DSH0337,2026-01-17,Meta Ads,IN_ME_1058,Festive Cashback | Electronics | Karnataka | Social,Karnataka,Mangaluru,Desktop,101073,3658,120,101484.08
+DSH0338,2026-03-14,LinkedIn Ads,IN_LI_1029,New Year | Fashion | Gujarat | Search,Gujarat,Vadodara,Mobile,201698,8521,372,326904.48
+DSH0339,2026-01-18,YouTube Ads,IN_YO_1014,Wedding Season | Grocery | Rajasthan | Video,Rajasthan,Udaipur,Tablet,61077,2298,33,34804.5
+DSH0340,2026-01-18,LinkedIn Ads,IN_LI_1004,Holi Offer | Travel | Tamil Nadu | Search,Tamil Nadu,Coimbatore,Tablet,228029,7869,324,220225.82
+DSH0341,2026-01-05,LinkedIn Ads,IN_LI_1038,Monsoon Deals | Grocery | Delhi NCR | Display,Delhi NCR,Faridabad,Tablet,50096,1441,71,28771.85
+DSH0342,2026-03-06,Google Ads,,Monsoon Deals | EdTech | Tamil Nadu | Programmatic,Tamil Nadu,Madurai,Desktop,61961,2091,113,83004.54
+DSH0343,2026-01-19,DV360,IN_DV_1034,Summer Savings | EdTech | Gujarat | Display,Gujarat,Ahmedabad,Mobile,111845,1953,122,48809.84
+DSH0344,2026-02-16,DV360,IN_DV_1067,Diwali Sale | Electronics | Rajasthan | Video,Rajasthan,Udaipur,Tablet,181085,8448,645,121884.51
+DSH0345,2026-03-11,LinkedIn Ads,IN_LI_1033,New Year | Grocery | Telangana | Programmatic,Telangana,Warangal,Tablet,113652,6098,160,124048.27
+DSH0346,2026-02-14,DV360,IN_DV_1030,Diwali Sale | Beauty | Rajasthan | Social,Rajasthan,Jodhpur,Mobile,35208,1098,34,10689.0
+DSH0347,2026-01-21,YouTube Ads,IN_YO_1015,Holi Offer | Travel | Kerala | Social,Kerala,Kozhikode,Desktop,141226,5519,260,154630.36
+DSH0348,2026-01-14,Meta Ads,IN_EXTRA_2015,Summer Savings | EdTech | Telangana | Social | Extra in Dashboard,Telangana,Karimnagar,Tablet,114216,4157,186,124470.91
+DSH0349,2026-01-24,LinkedIn Ads,IN_LI_1028,Festive Cashback | Travel | West Bengal | Search,West Bengal,Durgapur,Mobile,132755,4741,221,111362.48
+DSH0350,2026-01-29,DV360,IN_DV_1044,Festive Cashback | EdTech | Kerala | Social,Kerala,Kochi,Mobile,133874,4716,64,90527.26
+DSH0351,2026-01-17,Google Ads,IN_GO_1078,Back to College | EdTech | Maharashtra | Programmatic,Maharashtra,Pune,Mobile,40244,591,48,16779.83
+DSH0352,2026-03-10,LinkedIn Ads,IN_LI_1056,Wedding Season | Travel | Karnataka | Social,Karnataka,Bengaluru,Tablet,151850,4041,322,131139.25
+DSH0353,2026-03-01,Meta Ads,IN_EXTRA_2008,Monsoon Deals | Grocery | Maharashtra | Video | Extra in Dashboard,Maharashtra,Mumbai,Desktop,93958,3213,114,79086.03
+DSH0354,2026-02-06,LinkedIn Ads,IN_LI_1067,IPL Promo | Fashion | Uttar Pradesh | Search,Uttar Pradesh,Agra,Tablet,45888,1444,55,17363.92
+DSH0355,2026-02-11,DV360,IN_DV_1069,Monsoon Deals | Home Appliances | Gujarat | Programmatic,Gujarat,Ahmedabad,Desktop,126034,4243,246,189490.87
+DSH0356,2026-02-20,Meta Ads,IN_ME_1072,Back to College | Home Appliances | West Bengal | Social,West Bengal,Durgapur,Tablet,141814,2614,86,46505.12
+DSH0357,2026-02-20,Meta Ads,IN_ME_1066,Wedding Season | EdTech | Karnataka | Social,Karnataka,Mysuru,Mobile,118803,5395,393,157918.57
+DSH0358,2026-03-29,Google Ads,IN_GO_1077,Diwali Sale | EdTech | Telangana | Search,Telangana,Warangal,Desktop,129131,1332,39,25161.02
+DSH0359,2026-03-19,Google Ads,IN_GO_1077,Festive Cashback | Travel | West Bengal | Programmatic,West Bengal,Howrah,Tablet,30063,1573,118,47303.4
+DSH0360,2026-02-26,Google Ads,IN_GO_1066,Back to College | Grocery | Tamil Nadu | Social,Tamil Nadu,Madurai,Tablet,150217,6042,353,190153.9
+DSH0361,2026-02-16,Meta Ads,IN_ME_1051,Holi Offer | Grocery | Maharashtra | Display,Maharashtra,Pune,Tablet,121286,4210,212,143486.95
+DSH0362,2026-01-09,Google Ads,,Back to College | Beauty | Uttar Pradesh | Video,Uttar Pradesh,Varanasi,Desktop,173954,9252,419,187484.32
+DSH0363,2026-01-01,YouTube Ads,IN_YO_1038,Back to College | Electronics | Telangana | Programmatic,Telangana,Warangal,Tablet,104120,5456,402,235717.96
+DSH0364,2026-03-10,LinkedIn Ads,IN_LI_1059,New Year | Beauty | Delhi NCR | Display,Delhi NCR,Faridabad,Desktop,193675,5534,310,25650.39
+DSH0365,2026-01-15,YouTube Ads,IN_YO_1046,Summer Savings | Travel | Karnataka | Social,Karnataka,Hubballi,Desktop,150398,4849,317,69966.28
+DSH0366,2026-02-06,Google Ads,IN_GO_1041,Republic Day | Electronics | West Bengal | Programmatic,West Bengal,Durgapur,Desktop,107677,1799,99,19942.91
+DSH0367,2026-03-29,Meta Ads,IN_ME_1030,Summer Savings | Fashion | Rajasthan | Social,Rajasthan,Jodhpur,Mobile,68154,3197,244,58425.61
+DSH0368,2026-01-14,Google Ads,IN_GO_1048,Festive Cashback | Electronics | Karnataka | Programmatic,Karnataka,Hubballi,Desktop,177704,3812,311,152712.42
+DSH0369,2026-03-16,YouTube Ads,IN_YO_1017,Back to College | Grocery | Rajasthan | Display,Rajasthan,Jaipur,Tablet,29194,927,39,39393.48
+DSH0370,2026-01-05,LinkedIn Ads,IN_LI_1002,Monsoon Deals | Home Appliances | Gujarat | Search,Gujarat,Rajkot,Desktop,18098,706,27,5422.81
+DSH0371,2026-02-16,LinkedIn Ads,IN_LI_1079,Back to College | Grocery | Delhi NCR | Social,Delhi NCR,Gurugram,Desktop,104940,2511,122,30727.35
+DSH0372,2026-03-31,YouTube Ads,IN_YO_1030,IPL Promo | Home Appliances | Gujarat | Social,Gujarat,Rajkot,Tablet,228435,2488,74,33055.36
+DSH0373,2026-02-25,DV360,IN_DV_1064,Monsoon Deals | Home Appliances | Tamil Nadu | Search,Tamil Nadu,Chennai,Desktop,50250,2752,213,68678.33
+DSH0374,2026-03-27,YouTube Ads,IN_EXTRA_2003,New Year | Grocery | West Bengal | Display | Extra in Dashboard,West Bengal,Kolkata,Desktop,58867,319,8,4543.38
+DSH0375,2026-02-16,LinkedIn Ads,IN_EXTRA_2010,New Year | EdTech | Rajasthan | Video | Extra in Dashboard,Rajasthan,Jodhpur,Desktop,92312,2677,182,79101.13
+DSH0376,2026-03-28,LinkedIn Ads,IN_LI_1046,Festive Cashback | Travel | Tamil Nadu | Programmatic,Tamil Nadu,Madurai,Desktop,102224,3946,187,130433.32
+DSH0377,2026-01-11,DV360,IN_DV_1044,Wedding Season | Travel | Kerala | Social,Kerala,Thiruvananthapuram,Tablet,124320,4776,254,184975.78
+DSH0378,2026-01-10,Google Ads,IN_GO_1035,Summer Savings | Grocery | Telangana | Video,Telangana,Warangal,Tablet,173698,6528,197,143376.31
+DSH0379,2026-02-16,LinkedIn Ads,,New Year | Fashion | Uttar Pradesh | Social,Uttar Pradesh,Agra,Mobile,188545,3456,238,119626.67
+DSH0380,2026-01-27,Meta Ads,IN_ME_1051,Holi Offer | Electronics | West Bengal | Display,West Bengal,Kolkata,Mobile,152358,6625,98,95345.47
+DSH0381,2026-01-20,Google Ads,IN_GO_1017,Summer Savings | Fashion | West Bengal | Video,West Bengal,Howrah,Tablet,49413,1571,34,7790.48
+DSH0382,2026-02-15,YouTube Ads,IN_YO_1070,Back to College | Grocery | Rajasthan | Programmatic,Rajasthan,Udaipur,Mobile,61409,2146,97,74208.32
+DSH0383,2026-03-14,DV360,IN_DV_1057,Republic Day | Home Appliances | Uttar Pradesh | Programmatic,Uttar Pradesh,Varanasi,Mobile,95705,2289,67,36848.95
+DSH0384,2026-01-01,LinkedIn Ads,IN_LI_1063,IPL Promo | Home Appliances | Telangana | Programmatic,Telangana,Warangal,Tablet,213042,6258,54,133690.06
+DSH0385,2026-02-07,LinkedIn Ads,IN_LI_1056,Back to College | Grocery | Tamil Nadu | Social,Tamil Nadu,Chennai,Tablet,118481,2161,143,65496.92
+DSH0386,2026-02-18,Meta Ads,IN_ME_1069,New Year | Travel | Delhi NCR | Social,Delhi NCR,New Delhi,Desktop,227024,4352,101,27597.14
+DSH0387,2026-01-18,YouTube Ads,,Festive Cashback | Home Appliances | Karnataka | Video,Karnataka,Hubballi,Mobile,20084,270,23,1192.98
+DSH0388,2026-01-14,YouTube Ads,IN_YO_1020,Wedding Season | Travel | Delhi NCR | Search,Delhi NCR,Gurugram,Mobile,18860,569,20,9348.92
+DSH0389,2026-03-05,YouTube Ads,IN_YO_1035,Diwali Sale | Grocery | Rajasthan | Search,Rajasthan,Jodhpur,Mobile,218332,5508,289,60789.35
+DSH0390,2026-01-03,DV360,IN_DV_1061,Diwali Sale | Fashion | Karnataka | Search,Karnataka,Bengaluru,Desktop,196497,2400,47,35386.59
+DSH0391,2026-01-27,DV360,IN_DV_1071,IPL Promo | Grocery | West Bengal | Social,West Bengal,Durgapur,Tablet,151557,1816,86,28875.75
+DSH0392,2026-02-16,Google Ads,IN_GO_1022,Summer Savings | Travel | Tamil Nadu | Display,Tamil Nadu,Chennai,Mobile,223244,4359,77,158011.43
+DSH0393,2026-01-02,Google Ads,IN_GO_1012,Wedding Season | Travel | Kerala | Programmatic,Kerala,Kozhikode,Desktop,80201,1100,17,32091.14
+DSH0394,2026-03-22,Google Ads,,Monsoon Deals | Travel | Maharashtra | Programmatic,Maharashtra,Nagpur,Mobile,75234,1602,87,50452.61
+DSH0395,2026-02-14,DV360,IN_DV_1063,New Year | Grocery | Tamil Nadu | Social,Tamil Nadu,Chennai,Mobile,200237,5494,176,178154.31
+DSH0396,2026-01-25,LinkedIn Ads,IN_LI_1071,Republic Day | Grocery | Telangana | Display,Telangana,Karimnagar,Tablet,57033,534,11,8421.4
+DSH0397,2026-02-03,LinkedIn Ads,IN_LI_1024,Diwali Sale | EdTech | Gujarat | Programmatic,Gujarat,Rajkot,Tablet,246455,1704,133,60840.79
+DSH0398,2026-01-31,YouTube Ads,IN_YO_1037,Summer Savings | Beauty | Karnataka | Display,Karnataka,Hubballi,Tablet,99567,2596,89,19456.08
+DSH0399,2026-03-26,Google Ads,IN_GO_1063,Monsoon Deals | EdTech | Maharashtra | Search,Maharashtra,Pune,Mobile,65231,707,38,27011.95
+DSH0400,2026-03-26,DV360,IN_DV_1027,Diwali Sale | Grocery | Uttar Pradesh | Social,Uttar Pradesh,Varanasi,Mobile,186900,5621,455,38325.14
+DSH0401,2026-03-23,Google Ads,IN_GO_1006,Republic Day | EdTech | Gujarat | Search,Gujarat,Rajkot,Tablet,207492,1960,64,83694.05
+DSH0402,2026-03-08,Google Ads,IN_GO_1032,Back to College | Home Appliances | Karnataka | Social,Karnataka,Mysuru,Tablet,164429,6024,136,208379.59
+DSH0403,2026-02-23,Google Ads,IN_GO_1024,Wedding Season | Travel | Kerala | Display,Kerala,Thiruvananthapuram,Mobile,159170,4086,145,41122.82
+DSH0404,2026-03-18,DV360,IN_DV_1056,Back to College | Grocery | Gujarat | Video,Gujarat,Vadodara,Tablet,231571,9625,557,258628.61
+DSH0405,2026-01-28,DV360,IN_DV_1005,Republic Day | Home Appliances | Uttar Pradesh | Display,Uttar Pradesh,Varanasi,Mobile,88679,3088,158,145207.59
+DSH0406,2026-02-08,Google Ads,IN_GO_1036,Summer Savings | EdTech | Delhi NCR | Video,Delhi NCR,Gurugram,Tablet,160139,4972,272,135347.24
+DSH0407,2026-01-13,Google Ads,IN_GO_1032,Monsoon Deals | Fashion | Rajasthan | Video,Rajasthan,Udaipur,Tablet,77599,1382,46,40261.44
+DSH0408,2026-03-14,Meta Ads,IN_ME_1039,Wedding Season | Fashion | Karnataka | Display,Karnataka,Mangaluru,Tablet,24796,1036,57,7000.06
+DSH0409,2026-01-08,YouTube Ads,IN_YO_1078,New Year | EdTech | Gujarat | Search,Gujarat,Rajkot,Tablet,17817,652,39,3750.5
+DSH0410,2026-03-21,Meta Ads,IN_EXTRA_2001,Holi Offer | Grocery | Rajasthan | Search | Extra in Dashboard,Rajasthan,Udaipur,Desktop,89711,2462,105,28717.55
+DSH0411,2026-02-25,YouTube Ads,IN_YO_1007,Monsoon Deals | Grocery | West Bengal | Search,West Bengal,Kolkata,Tablet,158694,4056,60,98664.87
+DSH0412,2026-03-31,Meta Ads,IN_ME_1074,Back to College | Fashion | Telangana | Display,Telangana,Warangal,Tablet,66406,2224,199,56169.97
+DSH0413,2026-02-01,Google Ads,IN_GO_1053,Republic Day | Travel | Delhi NCR | Programmatic,Delhi NCR,Faridabad,Mobile,126028,3011,71,53589.13
+DSH0414,2026-03-25,Google Ads,IN_GO_1006,Republic Day | Beauty | Delhi NCR | Display,Delhi NCR,Gurugram,Desktop,229478,4002,256,39914.49
+DSH0415,2026-01-11,Google Ads,IN_GO_1015,Festive Cashback | Fashion | Maharashtra | Video,Maharashtra,Pune,Desktop,96883,2690,26,33404.2
+DSH0416,2026-03-10,Meta Ads,IN_ME_1019,Back to College | EdTech | Tamil Nadu | Video,Tamil Nadu,Madurai,Tablet,197208,7935,75,219757.49
+DSH0417,2026-03-26,DV360,IN_DV_1036,Republic Day | EdTech | Tamil Nadu | Programmatic,Tamil Nadu,Chennai,Mobile,165496,2826,122,75680.5
+DSH0418,2026-02-19,YouTube Ads,IN_YO_1066,Diwali Sale | Grocery | Gujarat | Display,Gujarat,Ahmedabad,Desktop,201040,2187,74,86323.23
+DSH0419,2026-03-10,Google Ads,IN_GO_1032,Back to College | Home Appliances | Telangana | Programmatic,Telangana,Hyderabad,Mobile,153783,3220,155,110742.93
+DSH0420,2026-01-03,YouTube Ads,IN_YO_1033,IPL Promo | Fashion | Gujarat | Programmatic,Gujarat,Vadodara,Mobile,245339,6126,551,273219.64
+DSH0421,2026-03-13,YouTube Ads,IN_YO_1049,Republic Day | Home Appliances | Tamil Nadu | Social,Tamil Nadu,Chennai,Tablet,149987,8120,468,241589.59
+DSH0422,2026-01-30,DV360,IN_DV_1070,Monsoon Deals | Home Appliances | Tamil Nadu | Video,Tamil Nadu,Madurai,Desktop,49543,799,15,20746.98
+DSH0423,2026-01-26,Meta Ads,IN_ME_1009,New Year | EdTech | Delhi NCR | Social,Delhi NCR,Gurugram,Desktop,161103,5173,346,57635.56
+DSH0424,2026-01-19,Google Ads,IN_GO_1025,New Year | Grocery | Gujarat | Display,Gujarat,Rajkot,Mobile,42989,535,5,23763.18
+DSH0425,2026-03-20,YouTube Ads,IN_YO_1004,Festive Cashback | Fashion | Kerala | Programmatic,Kerala,Kozhikode,Mobile,109178,1080,77,9789.76
+DSH0426,2026-03-19,DV360,IN_DV_1025,New Year | Home Appliances | Gujarat | Display,Gujarat,Surat,Mobile,74316,563,39,2321.3
+DSH0427,2026-02-04,DV360,IN_DV_1057,Summer Savings | EdTech | Tamil Nadu | Social,Tamil Nadu,Madurai,Mobile,242312,8780,565,346556.77
+DSH0428,2026-02-01,DV360,IN_DV_1079,Festive Cashback | Travel | West Bengal | Display,West Bengal,Kolkata,Desktop,209633,7132,370,214800.46
+DSH0429,2026-01-05,LinkedIn Ads,IN_LI_1069,Wedding Season | EdTech | Karnataka | Search,Karnataka,Hubballi,Tablet,121081,6305,72,132256.41
+DSH0430,2026-03-22,Google Ads,IN_GO_1022,Wedding Season | Home Appliances | Tamil Nadu | Video,Tamil Nadu,Coimbatore,Desktop,125745,2568,214,82517.67
+DSH0431,2026-01-19,DV360,IN_DV_1053,Back to College | Electronics | Rajasthan | Social,Rajasthan,Jaipur,Desktop,99793,2803,63,78478.65
+DSH0432,2026-01-26,DV360,IN_DV_1015,Republic Day | Travel | Karnataka | Social,Karnataka,Mangaluru,Mobile,200133,5607,211,141511.81
+DSH0433,2026-02-19,LinkedIn Ads,IN_LI_1043,New Year | Beauty | Kerala | Display,Kerala,Kochi,Mobile,163240,7948,625,81293.34
+DSH0434,2026-01-19,Meta Ads,IN_ME_1024,IPL Promo | Grocery | Maharashtra | Display,Maharashtra,Nashik,Tablet,45816,2292,198,8358.04
+DSH0435,2026-02-02,Google Ads,IN_GO_1028,Wedding Season | Beauty | Rajasthan | Search,Rajasthan,Udaipur,Mobile,169366,6489,293,141705.66
+DSH0436,2026-03-18,LinkedIn Ads,IN_LI_1024,Back to College | Grocery | Maharashtra | Programmatic,Maharashtra,Pune,Mobile,53864,468,17,4461.46
+DSH0437,2026-01-06,LinkedIn Ads,IN_LI_1023,Republic Day | Electronics | Kerala | Search,Kerala,Thiruvananthapuram,Desktop,57293,2230,129,71801.13
+DSH0438,2026-03-18,LinkedIn Ads,IN_LI_1012,Wedding Season | Travel | Uttar Pradesh | Programmatic,Uttar Pradesh,Kanpur,Mobile,220789,4517,170,83417.89
+DSH0439,2026-01-09,DV360,IN_DV_1036,IPL Promo | Home Appliances | Uttar Pradesh | Social,Uttar Pradesh,Lucknow,Tablet,103326,3319,164,101220.31
+DSH0440,2026-03-20,Google Ads,IN_GO_1078,Wedding Season | Travel | Karnataka | Programmatic,Karnataka,Bengaluru,Desktop,237245,5102,260,228536.49
+DSH0441,2026-02-15,Meta Ads,IN_ME_1079,Wedding Season | Beauty | Kerala | Display,Kerala,Kozhikode,Mobile,76006,3095,273,11035.56
+DSH0442,2026-01-04,DV360,IN_DV_1045,Festive Cashback | Home Appliances | Karnataka | Display,Karnataka,Mysuru,Desktop,160289,7439,187,226043.19
+DSH0443,2026-03-30,YouTube Ads,IN_YO_1015,IPL Promo | Grocery | Delhi NCR | Programmatic,Delhi NCR,New Delhi,Mobile,194787,4349,176,117902.45
+DSH0444,2026-01-04,Meta Ads,IN_ME_1018,Republic Day | Travel | Tamil Nadu | Display,Tamil Nadu,Coimbatore,Mobile,141221,1922,87,75739.89
+DSH0445,2026-02-12,DV360,IN_DV_1041,Diwali Sale | EdTech | West Bengal | Programmatic,West Bengal,Durgapur,Tablet,160536,5178,129,165426.6
+DSH0446,2026-02-15,Google Ads,IN_GO_1078,Diwali Sale | Grocery | Telangana | Display,Telangana,Warangal,Tablet,117122,1778,31,63949.81
+DSH0447,2026-02-09,YouTube Ads,IN_YO_1058,New Year | Electronics | Maharashtra | Display,Maharashtra,Nagpur,Desktop,237085,12588,314,202000.27
+DSH0448,2026-01-15,YouTube Ads,IN_YO_1065,Holi Offer | Home Appliances | Maharashtra | Programmatic,Maharashtra,Pune,Desktop,55390,848,71,28744.07
+DSH0449,2026-03-09,YouTube Ads,IN_YO_1005,Holi Offer | EdTech | Gujarat | Programmatic,Gujarat,Surat,Mobile,135420,3384,267,28111.54
+DSH0450,2026-02-09,Google Ads,IN_GO_1040,Republic Day | Home Appliances | Kerala | Search,Kerala,Kochi,Tablet,20893,716,24,29014.92
+DSH0451,2026-02-11,Meta Ads,IN_ME_1016,IPL Promo | Beauty | Tamil Nadu | Video,Tamil Nadu,Coimbatore,Tablet,86474,1151,35,4757.26
+DSH0452,2026-03-21,LinkedIn Ads,IN_LI_1019,Summer Savings | Beauty | Uttar Pradesh | Video,Uttar Pradesh,Lucknow,Desktop,199642,9062,499,96128.89
+DSH0453,2026-02-09,LinkedIn Ads,IN_LI_1007,Diwali Sale | Fashion | Gujarat | Search,Gujarat,Rajkot,Tablet,42768,1060,15,20950.42
+DSH0454,2026-03-19,LinkedIn Ads,IN_LI_1069,Republic Day | Grocery | Rajasthan | Video,Rajasthan,Jodhpur,Tablet,35590,1911,133,43621.17
+DSH0455,2026-01-06,DV360,IN_DV_1020,Summer Savings | Grocery | Kerala | Programmatic,Kerala,Kozhikode,Tablet,31219,876,65,33508.01
+DSH0456,2026-02-20,Meta Ads,IN_ME_1015,Wedding Season | Home Appliances | Gujarat | Search,Gujarat,Vadodara,Desktop,107128,3155,244,47999.16
+DSH0457,2026-02-14,LinkedIn Ads,IN_LI_1072,Back to College | Electronics | Kerala | Display,Kerala,Kochi,Desktop,183396,1807,57,38524.96
+DSH0458,2026-03-17,DV360,IN_DV_1009,Summer Savings | Beauty | Tamil Nadu | Social,Tamil Nadu,Madurai,Desktop,104316,1690,109,36153.6
+DSH0459,2026-02-25,LinkedIn Ads,,Monsoon Deals | Travel | Gujarat | Search,Gujarat,Surat,Mobile,171257,4912,262,184759.76
+DSH0460,2026-01-23,YouTube Ads,IN_YO_1064,Festive Cashback | Electronics | West Bengal | Programmatic,West Bengal,Kolkata,Desktop,182239,6917,108,269336.37
+DSH0461,2026-01-07,YouTube Ads,IN_EXTRA_2012,Republic Day | Electronics | Gujarat | Video | Extra in Dashboard,Gujarat,Rajkot,Tablet,48228,1135,74,23172.15
+DSH0462,2026-02-08,LinkedIn Ads,IN_LI_1066,Republic Day | Electronics | Delhi NCR | Programmatic,Delhi NCR,Faridabad,Tablet,120957,5749,447,35011.63
+DSH0463,2026-03-12,Google Ads,IN_GO_1056,Holi Offer | EdTech | Maharashtra | Video,Maharashtra,Nagpur,Mobile,199083,6951,411,229651.35
+DSH0464,2026-02-21,DV360,IN_DV_1025,Summer Savings | Travel | West Bengal | Social,West Bengal,Durgapur,Mobile,163812,4109,334,149989.22
+DSH0465,2026-03-13,Google Ads,IN_EXTRA_2004,Wedding Season | Travel | Tamil Nadu | Display | Extra in Dashboard,Tamil Nadu,Madurai,Desktop,115340,2363,36,63422.97
+DSH0466,2026-03-24,DV360,IN_DV_1066,Festive Cashback | Home Appliances | Rajasthan | Programmatic,Rajasthan,Jodhpur,Desktop,126181,4170,187,76082.69
+DSH0467,2026-01-24,DV360,IN_DV_1070,Festive Cashback | Home Appliances | Kerala | Social,Kerala,Kochi,Desktop,166087,3983,351,107852.5
+DSH0468,2026-02-17,Google Ads,IN_GO_1067,Holi Offer | Fashion | Kerala | Programmatic,Kerala,Thiruvananthapuram,Desktop,36218,1134,65,15820.16
+DSH0469,2026-03-22,Google Ads,IN_GO_1059,Festive Cashback | Electronics | Uttar Pradesh | Video,Uttar Pradesh,Varanasi,Desktop,149391,7528,414,129916.95
+DSH0470,2026-02-15,YouTube Ads,IN_YO_1073,Diwali Sale | Travel | Delhi NCR | Programmatic,Delhi NCR,Gurugram,Tablet,83273,750,35,7887.59
+DSH0471,2026-01-07,YouTube Ads,IN_YO_1010,IPL Promo | Home Appliances | Kerala | Search,Kerala,Kochi,Tablet,238201,10577,303,307321.16
+DSH0472,2026-02-05,YouTube Ads,IN_YO_1058,Festive Cashback | Fashion | Maharashtra | Programmatic,Maharashtra,Mumbai,Tablet,111932,5102,150,166234.17
+DSH0473,2026-02-23,Meta Ads,IN_EXTRA_2005,Holi Offer | Fashion | Kerala | Social | Extra in Dashboard,Kerala,Kozhikode,Mobile,49745,1075,65,37194.09
+DSH0474,2026-01-22,Meta Ads,IN_ME_1022,Republic Day | Electronics | Kerala | Video,Kerala,Kozhikode,Mobile,136638,3489,114,120249.25
+DSH0475,2026-03-10,Meta Ads,IN_ME_1056,New Year | Home Appliances | West Bengal | Video,West Bengal,Durgapur,Tablet,17927,356,26,7255.89
+DSH0476,2026-02-11,LinkedIn Ads,,Back to College | Travel | Maharashtra | Video,Maharashtra,Mumbai,Tablet,102809,1978,145,27883.42
+DSH0477,2026-03-16,DV360,IN_DV_1044,Summer Savings | Travel | Rajasthan | Programmatic,Rajasthan,Jodhpur,Tablet,192659,7672,174,201205.27
+DSH0478,2026-03-28,Google Ads,IN_GO_1058,New Year | Electronics | Karnataka | Programmatic,Karnataka,Bengaluru,Tablet,107147,1794,56,20653.96
+DSH0479,2026-01-04,LinkedIn Ads,IN_LI_1016,Festive Cashback | Travel | Karnataka | Social,Karnataka,Bengaluru,Tablet,37645,1805,33,55486.38
+DSH0480,2026-03-24,LinkedIn Ads,IN_LI_1010,Monsoon Deals | Grocery | Telangana | Video,Telangana,Hyderabad,Tablet,182452,5148,461,182385.42
+DSH0481,2026-03-30,YouTube Ads,IN_YO_1043,Holi Offer | Grocery | Delhi NCR | Search,Delhi NCR,Gurugram,Desktop,30744,573,42,6236.57
+DSH0482,2026-01-09,DV360,IN_DV_1070,New Year | Fashion | Tamil Nadu | Display,Tamil Nadu,Madurai,Mobile,216512,5874,342,46459.6
+DSH0483,2026-02-26,YouTube Ads,IN_YO_1003,Holi Offer | Electronics | Karnataka | Programmatic,Karnataka,Bengaluru,Desktop,145469,1933,116,81601.77
+DSH0484,2026-03-27,DV360,,Republic Day | Home Appliances | Delhi NCR | Programmatic,Delhi NCR,Gurugram,Tablet,140341,3840,296,137890.13
+DSH0485,2026-01-09,LinkedIn Ads,IN_LI_1069,New Year | Travel | Tamil Nadu | Display,Tamil Nadu,Chennai,Tablet,107997,2509,79,14811.14
+DSH0486,2026-03-24,Google Ads,,Holi Offer | EdTech | Gujarat | Display,Gujarat,Vadodara,Tablet,61299,2033,177,62861.3
+DSH0487,2026-02-08,DV360,IN_DV_1005,Wedding Season | Electronics | Karnataka | Display,Karnataka,Mangaluru,Mobile,65618,475,42,6363.64
+DSH0488,2026-02-19,Google Ads,IN_GO_1044,Wedding Season | Beauty | Uttar Pradesh | Display,Uttar Pradesh,Varanasi,Mobile,29397,655,44,13871.82
+DSH0489,2026-01-28,LinkedIn Ads,IN_LI_1005,Back to College | Fashion | Rajasthan | Programmatic,Rajasthan,Jodhpur,Mobile,207796,2688,165,61973.49
+DSH0490,2026-03-21,Google Ads,IN_GO_1013,Monsoon Deals | Electronics | Tamil Nadu | Social,Tamil Nadu,Madurai,Desktop,134586,4838,370,29774.22
+DSH0491,2026-01-14,Google Ads,IN_GO_1044,Festive Cashback | Fashion | Rajasthan | Search,Rajasthan,Jodhpur,Desktop,227735,10694,732,215840.82
+DSH0492,2026-01-16,LinkedIn Ads,IN_LI_1023,Republic Day | EdTech | Uttar Pradesh | Social,Uttar Pradesh,Kanpur,Tablet,102950,936,28,32702.28
+DSH0493,2026-01-22,YouTube Ads,IN_YO_1013,Wedding Season | Fashion | Uttar Pradesh | Programmatic,Uttar Pradesh,Kanpur,Mobile,222369,10567,615,378012.85
+DSH0494,2026-01-03,DV360,IN_DV_1061,Diwali Sale | Fashion | Karnataka | Search,Karnataka,Bengaluru,Desktop,196497,2400,47,35386.59
+DSH0495,2026-02-27,DV360,IN_DV_1064,Festive Cashback | Travel | Tamil Nadu | Search,Tamil Nadu,Chennai,Tablet,175445,9222,548,331781.7
+DSH0496,2026-02-14,DV360,IN_DV_1047,Summer Savings | Electronics | Maharashtra | Programmatic,Maharashtra,Pune,Tablet,241159,10441,545,131556.18
+DSH0497,2026-03-22,Meta Ads,,Summer Savings | Electronics | Delhi NCR | Social,Delhi NCR,New Delhi,Desktop,58017,2164,25,68853.59
+DSH0498,2026-02-06,Meta Ads,IN_ME_1007,Republic Day | Beauty | West Bengal | Display,West Bengal,Howrah,Mobile,155865,2278,164,53829.25
+DSH0499,2026-01-15,Google Ads,IN_GO_1026,Wedding Season | Beauty | Tamil Nadu | Programmatic,Tamil Nadu,Madurai,Desktop,210844,8257,286,295827.45
+DSH0500,2026-02-12,Meta Ads,,New Year | EdTech | Karnataka | Social,Karnataka,Mysuru,Mobile,138467,4800,59,103624.32
