@@ -1,4 +1,4 @@
-If You Find This Useful
+## If You Find This Useful
 
 If this repository helps you understand real-world data engineering investigations, consider giving it a star.
 
@@ -108,7 +108,7 @@ Programmatic Ads
 
 This is treated as the source of truth.
 
-###2. Dashboard Export Campaign Data
+### 2. Dashboard Export Campaign Data
 
 File:
 
@@ -125,7 +125,7 @@ Excel reporting dashboard
 
 This data is expected to match the source platform data, but it contains intentional mismatches for investigation practice.
 
-###3. Campaign Mapping Reference Data
+### 3. Campaign Mapping Reference Data
 
 File:
 
@@ -148,74 +148,26 @@ Incorrect or missing mapping can cause records to be excluded or classified wron
 Example Columns Used
 
 The datasets contain beginner-friendly marketing analytics columns such as:
+<img width="738" height="650" alt="image" src="https://github.com/user-attachments/assets/df4cef1d-a3f9-428a-8664-c4fbe8287d98" />
 
-| Column Name   | Description                        |
-| ------------- | ---------------------------------- |
-| campaign_id   | Unique campaign identifier         |
-| campaign_name | Name of the marketing campaign     |
-| campaign_date | Date of campaign activity          |
-| platform      | Marketing platform name            |
-| channel       | Marketing channel                  |
-| city          | Indian city                        |
-| state         | Indian state                       |
-| impressions   | Number of ad impressions           |
-| clicks        | Number of clicks                   |
-| spend_inr     | Campaign spend in Indian Rupees    |
-| conversions   | Number of conversions              |
-| revenue_inr   | Revenue generated in Indian Rupees |
 
 These columns are commonly used in marketing analytics and data engineering validation projects.
 
 
 Repository Structure
 
-dashboard-vs-source-data-mismatch-investigation/
-│
-├── README.md
-├── project-overview.md
-├── business-problem.md
-├── investigation-summary.md
-├── root-cause-analysis.md
-├── final-recommendations.md
-│
-├── data/
-│   ├── source_platform_campaign_data.csv
-│   ├── dashboard_export_campaign_data.csv
-│   ├── campaign_mapping_reference_data.csv
-│   ├── DATA_DICTIONARY.md
-│   └── README.md
-│
-├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_compare_record_counts.sql
-│   ├── 03_compare_total_metrics.sql
-│   ├── 04_find_missing_campaigns.sql
-│   ├── 05_check_duplicate_records.sql
-│   └── 06_final_reconciliation_query.sql
-│
-├── docs/
-│   ├── common-root-causes.md
-│   └── investigation-framework.md
-│
-├── templates/
-│   ├── investigation-checklist.md
-│   ├── root-cause-template.md
-│   └── stakeholder-update-template.md
-│
-├── .gitignore
-└── LICENSE
+
+<img width="916" height="1008" alt="image" src="https://github.com/user-attachments/assets/6d6be5da-025a-42fc-a3dd-2c3b6f80e7c7" />
 
 
 
 
 
-
-
-##Investigation Workflow
+## Investigation Workflow
 
 This project follows a simple 8-step investigation process.
 
-###Step 1: Understand the Business Issue
+### Step 1: Understand the Business Issue
 
 Before writing SQL, the first step is to clearly understand the problem.
 
@@ -231,7 +183,7 @@ When was the issue first noticed?
 
 This step is important because many data investigations fail when the problem is not clearly defined.
 
-###Step 2: Review the Datasets
+### Step 2: Review the Datasets
 
 The next step is to understand the available data.
 
@@ -260,7 +212,7 @@ Campaign identifiers
 Platform names
 Mapping columns
 
-###Step 3: Compare Record Counts
+### Step 3: Compare Record Counts
 
 The first SQL check is usually a record count comparison.
 
@@ -272,7 +224,7 @@ If the source table has 500 rows but the dashboard export has fewer rows, this m
 
 This check helps identify high-level data loss.
 
-###Step 4: Compare Total Metrics
+### Step 4: Compare Total Metrics
 
 After checking record counts, we compare key metrics.
 
@@ -290,7 +242,7 @@ Are the total business numbers matching between source and dashboard?
 
 If the totals do not match, we need to investigate at a more detailed level.
 
-###Step 5: Find Missing Campaigns
+### Step 5: Find Missing Campaigns
 
 Sometimes the total numbers do not match because some campaigns exist in the source data but are missing from the dashboard export.
 
@@ -303,7 +255,7 @@ Campaigns excluded because of join/filter conditions
 
 This is one of the most common reasons for dashboard mismatch issues.
 
-###Step 6: Check Duplicate Records
+### Step 6: Check Duplicate Records
 
 Duplicate records can increase spend, clicks, impressions, conversions, and revenue.
 
@@ -317,7 +269,7 @@ If duplicate records exist, the dashboard may show inflated numbers.
 
 This is a very common issue in data pipelines and reporting systems.
 
-###Step 7: Validate Aggregation Logic
+### Step 7: Validate Aggregation Logic
 
 Sometimes the source data and dashboard data both contain the correct rows, but the numbers still do not match because the aggregation logic is different.
 
@@ -332,7 +284,7 @@ Dashboard uses rounded spend values
 
 This project shows how SQL can be used to compare metrics at different grouping levels.
 
-###Step 8: Prepare Final Reconciliation Report
+### Step 8: Prepare Final Reconciliation Report
 
 The final step is to prepare a clean explanation for business stakeholders.
 
@@ -354,7 +306,7 @@ investigation-checklist.md
 
 These templates help explain technical issues in a business-friendly way.
 
-##SQL Files Included
+## SQL Files Included
 
 The sql/ folder contains step-by-step SQL scripts.
 
@@ -368,7 +320,7 @@ File	Purpose
 
 These scripts are designed for learning and can be adapted for BigQuery, Azure SQL, Synapse, or other SQL-based platforms.
 
-##What Viewers Will Learn
+## What Viewers Will Learn
 
 After going through this project, viewers will understand:
 
@@ -385,7 +337,7 @@ How data engineers investigate real production-style issues
 
 This project is especially useful for people who want to move beyond basic SQL practice and understand real-world data engineering work.
 
-##Who This Project Is For
+## Who This Project Is For
 
 This project is useful for:
 
@@ -399,7 +351,7 @@ SQL learners
 Marketing analytics learners
 Anyone building a real-world GitHub portfolio
 
-##Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates the following skills:
 
@@ -415,7 +367,7 @@ Azure/Synapse-style investigation thinking
 Technical documentation
 Stakeholder communication
 
-##Real-World Use Case
+## Real-World Use Case
 
 In real companies, dashboards are often built on top of several layers:
 
@@ -444,7 +396,7 @@ Dashboard may apply hidden filters
 
 This project helps viewers understand how to move through these layers logically.
 
-##Example Root Cause
+## Example Root Cause
 
 A possible root cause in this project could be:
 
@@ -464,19 +416,19 @@ Monitor source data refresh status
 Maintain a data quality checklist
 Notify stakeholders when mismatches exceed an acceptable threshold
 
-##How to Use This Repository
+## How to Use This Repository
 
 You can use this repository in three ways:
 
-###1. Learn the Investigation Flow
+### 1. Learn the Investigation Flow
 
 Start with the README and understand the full mismatch investigation process.
 
-###2. Explore the Datasets
+### 2. Explore the Datasets
 
 Open the files inside the data/ folder and understand the source, dashboard, and mapping datasets.
 
-###3. Run the SQL Checks
+### 3. Run the SQL Checks
 
 Use the SQL files in the sql/ folder to practice comparing datasets and identifying mismatch causes.
 
@@ -489,7 +441,7 @@ PostgreSQL
 MySQL
 SQLite, with small syntax changes
 
-##Future Improvements
+## Future Improvements
 
 Planned future improvements for this repository:
 
@@ -503,7 +455,7 @@ Add dashboard screenshots using dummy data
 Add automated data quality checklist
 Add interview-style explanation notes
 
-##Disclaimer
+## Disclaimer
 
 This project uses only dummy/sample data created for learning purposes.
 
@@ -518,9 +470,10 @@ Production system information
 
 The purpose of this repository is educational. It is designed to help learners understand how real-world data mismatch investigations are handled by data engineers and analytics teams.
 
-##Author
+## Author
 
-Created by ###Sai Kiran Kommagoni
+Created by 
+### Sai Kiran Kommagoni
 
 This repository is part of a real-world data engineering portfolio focused on:
 
@@ -533,7 +486,7 @@ Data quality
 Dashboard validation
 Data issue investigation
 
-##If You Find This Useful
+## If You Find This Useful
 
 If this repository helps you understand real-world data engineering investigations, consider giving it a star.
 
