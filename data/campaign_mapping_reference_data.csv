@@ -1,1 +1,501 @@
-
+mapping_row_id,campaign_id,campaign_name,normalized_campaign_name,business_unit,marketing_channel,funnel_stage,region,state,account_manager,mapping_status,mapping_comment
+MAP0001,IN_GO_1070,Summer Savings | Fashion | Maharashtra | Social,summer_savings_fashion_maharashtra_social,Fashion,Social,Awareness,India,Maharashtra,Ananya Singh,Mapped,Standard mapping applied
+MAP0002,IN_LI_1058,Back to College | Fashion | Kerala | Programmatic,back_to_college_fashion_kerala_programmatic,Electronics,Programmatic,Retention,India,Kerala,Neha Gupta,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0003,IN_DV_1049,Monsoon Deals | Fashion | Gujarat | Video,monsoon_deals_fashion_gujarat_video,Fashion,Video,Consideration,India,Gujarat,Meera Nair,Mapped,Standard mapping applied
+MAP0004,IN_DV_1080,New Year | Electronics | Uttar Pradesh | Programmatic,new_year_electronics_uttar_pradesh_programmatic,Electronics,Programmatic,Awareness,India,Uttar Pradesh,Rohan Patel,Mapped,Standard mapping applied
+MAP0005,IN_ME_1059,Summer Savings | EdTech | Delhi NCR | Search,summer_savings_edtech_delhi_ncr_search,EdTech,Search,Conversion,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0006,IN_YO_1049,Back to College | Travel | Karnataka | Social,back_to_college_travel_karnataka_social,Travel,Social,Consideration,India,Karnataka,Sanjay Verma,Mapped,Standard mapping applied
+MAP0007,IN_YO_1009,Diwali Sale | EdTech | Maharashtra | Video,diwali_sale_edtech_maharashtra_video,EdTech,Video,Retention,India,Maharashtra,Priya Reddy,Mapped,Standard mapping applied
+MAP0008,IN_DV_1072,Wedding Season | Fashion | West Bengal | Video,wedding_season_fashion_west_bengal_video,Fashion,Video,Conversion,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0009,IN_YO_1020,Back to College | Home Appliances | Tamil Nadu | Search,back_to_college_home_appliances_tamil_nadu_search,Home Appliances,Search,Awareness,India,Tamil Nadu,Sanjay Verma,Mapped,Standard mapping applied
+MAP0010,IN_DV_1015,Back to College | Grocery | Kerala | Programmatic,back_to_college_grocery_kerala_programmatic,Grocery,Programmatic,Retention,India,Kerala,Neha Gupta,Mapped,Standard mapping applied
+MAP0011,IN_GO_1023,Monsoon Deals | Home Appliances | Delhi NCR | Search,monsoon_deals_home_appliances_delhi_ncr_search,Home Appliances,Search,Conversion,India,Delhi NCR,Sanjay Verma,Mapped,Standard mapping applied
+MAP0012,IN_LI_1042,Monsoon Deals | Grocery | Kerala | Social,monsoon_deals_grocery_kerala_social,Beauty,Social,Awareness,India,Kerala,Priya Reddy,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0013,IN_ME_1069,Festive Cashback | Electronics | Maharashtra | Search,festive_cashback_electronics_maharashtra_search,Electronics,Search,Retention,India,Maharashtra,Priya Reddy,Mapped,Standard mapping applied
+MAP0014,IN_YO_1048,Summer Savings | Beauty | Uttar Pradesh | Social,summer_savings_beauty_uttar_pradesh_social,Beauty,Social,Conversion,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0015,IN_YO_1008,Festive Cashback | Fashion | Maharashtra | Search,festive_cashback_fashion_maharashtra_search,Fashion,Search,Conversion,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0016,IN_ME_1061,Summer Savings | Beauty | Delhi NCR | Social,summer_savings_beauty_delhi_ncr_social,Beauty,Social,Retention,India,Delhi NCR,Vikram Iyer,Mapped,Standard mapping applied
+MAP0017,IN_DV_1044,Diwali Sale | Travel | West Bengal | Search,diwali_sale_travel_west_bengal_search,Travel,Search,Retention,India,West Bengal,Ananya Singh,Mapped,Standard mapping applied
+MAP0018,IN_ME_1071,IPL Promo | Home Appliances | West Bengal | Social,ipl_promo_home_appliances_west_bengal_social,Home Appliances,Social,Awareness,India,West Bengal,Meera Nair,Mapped,Standard mapping applied
+MAP0019,IN_ME_1022,Wedding Season | Home Appliances | Telangana | Social,wedding_season_home_appliances_telangana_social,Home Appliances,Social,Conversion,India,Telangana,Rohan Patel,Mapped,Standard mapping applied
+MAP0020,IN_YO_1038,Back to College | Travel | West Bengal | Display,back_to_college_travel_west_bengal_display,Travel,Display,Retention,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0021,IN_GO_1066,Back to College | EdTech | Maharashtra | Programmatic,back_to_college_edtech_maharashtra_programmatic,EdTech,Programmatic,Retention,India,Maharashtra,Sanjay Verma,Mapped,Standard mapping applied
+MAP0022,IN_DV_1075,Festive Cashback | Beauty | Karnataka | Search,festive_cashback_beauty_karnataka_search,Beauty,Search,Awareness,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0023,IN_ME_1010,Monsoon Deals | Travel | Delhi NCR | Video,monsoon_deals_travel_delhi_ncr_video,Travel,Video,Retention,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0024,IN_LI_1048,IPL Promo | Fashion | Tamil Nadu | Video,ipl_promo_fashion_tamil_nadu_video,Fashion,Video,Awareness,India,Tamil Nadu,Rohan Patel,Mapped,Standard mapping applied
+MAP0025,IN_LI_1071,Holi Offer | Fashion | Maharashtra | Video,holi_offer_fashion_maharashtra_video,Fashion,Video,Conversion,India,Maharashtra,Ananya Singh,Mapped,Standard mapping applied
+MAP0026,IN_YO_1055,IPL Promo | EdTech | Uttar Pradesh | Search,ipl_promo_edtech_uttar_pradesh_search,EdTech,Search,Consideration,India,Uttar Pradesh,Divya Menon,Mapped,Standard mapping applied
+MAP0027,IN_YO_1010,Wedding Season | Beauty | Telangana | Display,wedding_season_beauty_telangana_display,Home Appliances,Display,Retention,India,Telangana,Priya Reddy,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0028,IN_LI_1006,New Year | Fashion | Uttar Pradesh | Search,new_year_fashion_uttar_pradesh_search,Fashion,Search,Retention,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0029,IN_DV_1004,Monsoon Deals | Fashion | Kerala | Social,monsoon_deals_fashion_kerala_social,Fashion,Social,Conversion,India,Kerala,Karthik Rao,Mapped,Standard mapping applied
+MAP0030,IN_ME_1026,Holi Offer | Home Appliances | Delhi NCR | Search,holi_offer_home_appliances_delhi_ncr_search,Home Appliances,Search,Retention,India,Delhi NCR,Divya Menon,Mapped,Standard mapping applied
+MAP0031,IN_ME_1045,New Year | Grocery | Maharashtra | Video,new_year_grocery_maharashtra_video,Grocery,Video,Retention,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0032,IN_GO_1077,Monsoon Deals | Beauty | Karnataka | Video,monsoon_deals_beauty_karnataka_video,Beauty,Video,Conversion,India,Karnataka,Rohan Patel,Mapped,Standard mapping applied
+MAP0033,IN_GO_1067,Summer Savings | Grocery | West Bengal | Search,summer_savings_grocery_west_bengal_search,Grocery,Search,Retention,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0034,IN_ME_1016,Holi Offer | Travel | Gujarat | Video,holi_offer_travel_gujarat_video,,,Conversion,India,Gujarat,Meera Nair,Missing Mapping,Business unit/channel not mapped
+MAP0035,IN_DV_1073,Summer Savings | Home Appliances | Delhi NCR | Display,summer_savings_home_appliances_delhi_ncr_display,Home Appliances,Display,Consideration,India,Delhi NCR,Rohan Patel,Mapped,Standard mapping applied
+MAP0036,IN_DV_1028,Republic Day | Home Appliances | Kerala | Display,republic_day_home_appliances_kerala_display,Home Appliances,Display,Awareness,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0037,IN_GO_1026,Holi Offer | EdTech | Delhi NCR | Social,holi_offer_edtech_delhi_ncr_social,EdTech,Social,Awareness,India,Delhi NCR,Meera Nair,Mapped,Standard mapping applied
+MAP0038,IN_DV_1032,Festive Cashback | Fashion | West Bengal | Display,festive_cashback_fashion_west_bengal_display,Fashion,Display,Awareness,India,West Bengal,Rohan Patel,Mapped,Standard mapping applied
+MAP0039,IN_DV_1059,Back to College | Home Appliances | Tamil Nadu | Search,back_to_college_home_appliances_tamil_nadu_search,Home Appliances,Search,Conversion,India,Tamil Nadu,Rohan Patel,Mapped,Standard mapping applied
+MAP0040,IN_YO_1061,Back to College | Home Appliances | Rajasthan | Programmatic,back_to_college_home_appliances_rajasthan_programmatic,Home Appliances,Programmatic,Awareness,India,Rajasthan,Priya Reddy,Mapped,Standard mapping applied
+MAP0041,IN_DV_1043,Wedding Season | Electronics | Tamil Nadu | Video,wedding_season_electronics_tamil_nadu_video,Electronics,Video,Retention,India,Tamil Nadu,Meera Nair,Mapped,Standard mapping applied
+MAP0042,IN_ME_1008,New Year | Home Appliances | Tamil Nadu | Video,new_year_home_appliances_tamil_nadu_video,Home Appliances,Video,Conversion,India,Tamil Nadu,Meera Nair,Mapped,Standard mapping applied
+MAP0043,IN_GO_1054,Wedding Season | Electronics | Kerala | Video,wedding_season_electronics_kerala_video,Electronics,Video,Conversion,India,Kerala,Sanjay Verma,Mapped,Standard mapping applied
+MAP0044,IN_DV_1052,New Year | Home Appliances | Tamil Nadu | Search,new_year_home_appliances_tamil_nadu_search,Home Appliances,Search,Awareness,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0045,IN_LI_1055,Festive Cashback | Beauty | Maharashtra | Search,festive_cashback_beauty_maharashtra_search,Beauty,Search,Awareness,India,Maharashtra,Karthik Rao,Mapped,Standard mapping applied
+MAP0046,IN_ME_1033,Republic Day | EdTech | Rajasthan | Display,republic_day_edtech_rajasthan_display,EdTech,Display,Conversion,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0047,IN_ME_1020,Diwali Sale | Fashion | Karnataka | Social,diwali_sale_fashion_karnataka_social,Fashion,Social,Retention,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0048,IN_DV_1040,Monsoon Deals | Beauty | Delhi NCR | Programmatic,monsoon_deals_beauty_delhi_ncr_programmatic,Beauty,Programmatic,Consideration,India,Delhi NCR,Sanjay Verma,Mapped,Standard mapping applied
+MAP0049,IN_DV_1039,Festive Cashback | Travel | Tamil Nadu | Social,festive_cashback_travel_tamil_nadu_social,Travel,Social,Conversion,India,Tamil Nadu,Rohan Patel,Mapped,Standard mapping applied
+MAP0050,IN_GO_1054,Republic Day | Electronics | Gujarat | Programmatic,republic_day_electronics_gujarat_programmatic,Electronics,Programmatic,Retention,India,Gujarat,Rohan Patel,Mapped,Standard mapping applied
+MAP0051,IN_ME_1056,Back to College | Travel | West Bengal | Video,back_to_college_travel_west_bengal_video,Travel,Video,Retention,India,West Bengal,Meera Nair,Mapped,Standard mapping applied
+MAP0052,IN_YO_1004,Wedding Season | Beauty | Rajasthan | Programmatic,wedding_season_beauty_rajasthan_programmatic,Beauty,Programmatic,Awareness,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0053,IN_YO_1031,Back to College | Electronics | Delhi NCR | Programmatic,back_to_college_electronics_delhi_ncr_programmatic,Electronics,Programmatic,Retention,India,Delhi NCR,Sanjay Verma,Mapped,Standard mapping applied
+MAP0054,IN_DV_1032,Holi Offer | Grocery | Rajasthan | Social,holi_offer_grocery_rajasthan_social,Grocery,Social,Retention,India,Rajasthan,Meera Nair,Mapped,Standard mapping applied
+MAP0055,IN_DV_1033,Republic Day | Travel | Uttar Pradesh | Display,republic_day_travel_uttar_pradesh_display,Travel,Display,Consideration,India,Uttar Pradesh,Sanjay Verma,Mapped,Standard mapping applied
+MAP0056,IN_ME_1025,Wedding Season | Grocery | Tamil Nadu | Programmatic,wedding_season_grocery_tamil_nadu_programmatic,Grocery,Programmatic,Retention,India,Tamil Nadu,Vikram Iyer,Mapped,Standard mapping applied
+MAP0057,IN_ME_1063,Diwali Sale | Beauty | Delhi NCR | Video,diwali_sale_beauty_delhi_ncr_video,,,Retention,India,Delhi NCR,Divya Menon,Missing Mapping,Business unit/channel not mapped
+MAP0058,IN_YO_1052,IPL Promo | EdTech | Telangana | Display,ipl_promo_edtech_telangana_display,EdTech,Display,Conversion,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0059,IN_LI_1077,Summer Savings | Electronics | Delhi NCR | Programmatic,summer_savings_electronics_delhi_ncr_programmatic,Electronics,Programmatic,Awareness,India,Delhi NCR,Aarav Sharma,Mapped,Standard mapping applied
+MAP0060,IN_YO_1013,IPL Promo | Beauty | Kerala | Programmatic,ipl_promo_beauty_kerala_programmatic,Beauty,Programmatic,Awareness,India,Kerala,Rohan Patel,Mapped,Standard mapping applied
+MAP0061,IN_ME_1077,Holi Offer | Fashion | Telangana | Search,holi_offer_fashion_telangana_search,Fashion,Search,Conversion,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0062,IN_DV_1015,IPL Promo | EdTech | Karnataka | Programmatic,ipl_promo_edtech_karnataka_programmatic,EdTech,Programmatic,Awareness,India,Karnataka,Neha Gupta,Mapped,Standard mapping applied
+MAP0063,IN_GO_1016,IPL Promo | Beauty | Maharashtra | Programmatic,ipl_promo_beauty_maharashtra_programmatic,Beauty,Programmatic,Awareness,India,Maharashtra,Karthik Rao,Mapped,Standard mapping applied
+MAP0064,IN_LI_1042,Holi Offer | Beauty | Rajasthan | Search,holi_offer_beauty_rajasthan_search,Beauty,Search,Conversion,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0065,IN_LI_1057,Festive Cashback | Electronics | Maharashtra | Social,festive_cashback_electronics_maharashtra_social,Electronics,Social,Awareness,India,Maharashtra,Ananya Singh,Mapped,Standard mapping applied
+MAP0066,IN_GO_1043,New Year | Grocery | Rajasthan | Video,new_year_grocery_rajasthan_video,,,Consideration,India,Rajasthan,Vikram Iyer,Missing Mapping,Business unit/channel not mapped
+MAP0067,IN_GO_1066,Republic Day | Grocery | Rajasthan | Video,republic_day_grocery_rajasthan_video,Grocery,Video,Awareness,India,Rajasthan,Priya Reddy,Mapped,Standard mapping applied
+MAP0068,IN_GO_1027,Republic Day | Beauty | Tamil Nadu | Display,republic_day_beauty_tamil_nadu_display,Beauty,Display,Conversion,India,Tamil Nadu,Priya Reddy,Mapped,Standard mapping applied
+MAP0069,IN_DV_1071,Festive Cashback | EdTech | Karnataka | Social,festive_cashback_edtech_karnataka_social,EdTech,Social,Consideration,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0070,IN_DV_1062,Wedding Season | Travel | Karnataka | Video,wedding_season_travel_karnataka_video,Travel,Video,Conversion,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0071,IN_LI_1035,IPL Promo | EdTech | Telangana | Display,ipl_promo_edtech_telangana_display,EdTech,Display,Retention,India,Telangana,Divya Menon,Mapped,Standard mapping applied
+MAP0072,IN_DV_1070,Back to College | Home Appliances | Telangana | Video,back_to_college_home_appliances_telangana_video,Home Appliances,Video,Retention,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0073,IN_ME_1061,Summer Savings | EdTech | Kerala | Display,summer_savings_edtech_kerala_display,EdTech,Display,Retention,India,Kerala,Divya Menon,Mapped,Standard mapping applied
+MAP0074,IN_ME_1057,Monsoon Deals | Beauty | Rajasthan | Programmatic,monsoon_deals_beauty_rajasthan_programmatic,Beauty,Programmatic,Conversion,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0075,IN_ME_1011,IPL Promo | Grocery | Karnataka | Programmatic,ipl_promo_grocery_karnataka_programmatic,Grocery,Programmatic,Retention,India,Karnataka,Neha Gupta,Mapped,Standard mapping applied
+MAP0076,IN_DV_1012,Festive Cashback | Electronics | Uttar Pradesh | Social,festive_cashback_electronics_uttar_pradesh_social,Electronics,Social,Awareness,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0077,IN_DV_1038,IPL Promo | Electronics | Telangana | Search,ipl_promo_electronics_telangana_search,Electronics,Search,Consideration,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0078,IN_ME_1075,Holi Offer | Beauty | Telangana | Display,holi_offer_beauty_telangana_display,Beauty,Display,Conversion,India,Telangana,Rohan Patel,Mapped,Standard mapping applied
+MAP0079,IN_GO_1076,Back to College | Fashion | Rajasthan | Search,back_to_college_fashion_rajasthan_search,Fashion,Search,Conversion,India,Rajasthan,Neha Gupta,Mapped,Standard mapping applied
+MAP0080,IN_ME_1038,Holi Offer | Fashion | West Bengal | Display,holi_offer_fashion_west_bengal_display,Fashion,Display,Retention,India,West Bengal,Ananya Singh,Mapped,Standard mapping applied
+MAP0081,IN_GO_1078,Diwali Sale | Beauty | Kerala | Display,diwali_sale_beauty_kerala_display,Beauty,Display,Awareness,India,Kerala,Sanjay Verma,Mapped,Standard mapping applied
+MAP0082,IN_ME_1047,IPL Promo | EdTech | Karnataka | Display,ipl_promo_edtech_karnataka_display,EdTech,Display,Conversion,India,Karnataka,Vikram Iyer,Mapped,Standard mapping applied
+MAP0083,IN_ME_1033,Back to College | Grocery | Tamil Nadu | Programmatic,back_to_college_grocery_tamil_nadu_programmatic,Grocery,Programmatic,Conversion,India,Tamil Nadu,Divya Menon,Mapped,Standard mapping applied
+MAP0084,IN_GO_1047,Monsoon Deals | EdTech | Rajasthan | Social,monsoon_deals_edtech_rajasthan_social,EdTech,Social,Consideration,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0085,IN_YO_1080,Republic Day | Electronics | Delhi NCR | Social,republic_day_electronics_delhi_ncr_social,Electronics,Social,Awareness,India,Delhi NCR,Divya Menon,Mapped,Standard mapping applied
+MAP0086,IN_GO_1006,IPL Promo | Travel | Rajasthan | Display,ipl_promo_travel_rajasthan_display,Travel,Display,Conversion,India,Rajasthan,Vikram Iyer,Mapped,Standard mapping applied
+MAP0087,IN_ME_1020,Republic Day | Travel | West Bengal | Programmatic,republic_day_travel_west_bengal_programmatic,Travel,Programmatic,Retention,India,West Bengal,Karthik Rao,Mapped,Standard mapping applied
+MAP0088,IN_YO_1013,Summer Savings | Home Appliances | Maharashtra | Display,summer_savings_home_appliances_maharashtra_display,,,Conversion,India,Maharashtra,Priya Reddy,Missing Mapping,Business unit/channel not mapped
+MAP0089,IN_DV_1028,Holi Offer | EdTech | Delhi NCR | Display,holi_offer_edtech_delhi_ncr_display,EdTech,Display,Conversion,India,Delhi NCR,Sanjay Verma,Mapped,Standard mapping applied
+MAP0090,IN_ME_1028,Summer Savings | Electronics | Telangana | Programmatic,summer_savings_electronics_telangana_programmatic,,,Conversion,India,Telangana,Karthik Rao,Missing Mapping,Business unit/channel not mapped
+MAP0091,IN_GO_1004,Monsoon Deals | Beauty | Delhi NCR | Video,monsoon_deals_beauty_delhi_ncr_video,Beauty,Video,Conversion,India,Delhi NCR,Ananya Singh,Mapped,Standard mapping applied
+MAP0092,IN_GO_1009,Diwali Sale | Fashion | Telangana | Display,diwali_sale_fashion_telangana_display,Fashion,Display,Retention,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0093,IN_LI_1004,Diwali Sale | Travel | Tamil Nadu | Programmatic,diwali_sale_travel_tamil_nadu_programmatic,Travel,Programmatic,Retention,India,Tamil Nadu,Sanjay Verma,Mapped,Standard mapping applied
+MAP0094,IN_DV_1017,Holi Offer | Grocery | Rajasthan | Programmatic,holi_offer_grocery_rajasthan_programmatic,Grocery,Programmatic,Awareness,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0095,IN_LI_1015,Wedding Season | Beauty | Uttar Pradesh | Programmatic,wedding_season_beauty_uttar_pradesh_programmatic,Beauty,Programmatic,Consideration,India,Uttar Pradesh,Divya Menon,Mapped,Standard mapping applied
+MAP0096,IN_DV_1013,New Year | Grocery | Rajasthan | Display,new_year_grocery_rajasthan_display,Grocery,Display,Consideration,India,Rajasthan,Meera Nair,Mapped,Standard mapping applied
+MAP0097,IN_DV_1048,Holi Offer | Electronics | Karnataka | Display,holi_offer_electronics_karnataka_display,Electronics,Display,Retention,India,Karnataka,Divya Menon,Mapped,Standard mapping applied
+MAP0098,IN_YO_1077,Republic Day | EdTech | Karnataka | Display,republic_day_edtech_karnataka_display,EdTech,Display,Awareness,India,Karnataka,Sanjay Verma,Mapped,Standard mapping applied
+MAP0099,IN_DV_1036,Republic Day | EdTech | Tamil Nadu | Programmatic,republic_day_edtech_tamil_nadu_programmatic,,,Conversion,India,Tamil Nadu,Meera Nair,Missing Mapping,Business unit/channel not mapped
+MAP0100,IN_LI_1035,Festive Cashback | Travel | Uttar Pradesh | Video,festive_cashback_travel_uttar_pradesh_video,,,Consideration,India,Uttar Pradesh,Rohan Patel,Missing Mapping,Business unit/channel not mapped
+MAP0101,IN_ME_1068,New Year | Electronics | Kerala | Social,new_year_electronics_kerala_social,,,Conversion,India,Kerala,Karthik Rao,Missing Mapping,Business unit/channel not mapped
+MAP0102,IN_YO_1007,Holi Offer | Electronics | Kerala | Social,holi_offer_electronics_kerala_social,Electronics,Social,Conversion,India,Kerala,Priya Reddy,Mapped,Standard mapping applied
+MAP0103,IN_DV_1056,Summer Savings | EdTech | West Bengal | Programmatic,summer_savings_edtech_west_bengal_programmatic,EdTech,Programmatic,Consideration,India,West Bengal,Karthik Rao,Mapped,Standard mapping applied
+MAP0104,IN_YO_1039,New Year | Beauty | Maharashtra | Search,new_year_beauty_maharashtra_search,Beauty,Search,Conversion,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0105,IN_GO_1030,New Year | Fashion | Rajasthan | Social,new_year_fashion_rajasthan_social,Fashion,Social,Consideration,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0106,IN_GO_1052,Wedding Season | Electronics | West Bengal | Video,wedding_season_electronics_west_bengal_video,Electronics,Video,Awareness,India,West Bengal,Rohan Patel,Mapped,Standard mapping applied
+MAP0107,IN_ME_1056,Republic Day | Electronics | Kerala | Display,republic_day_electronics_kerala_display,Electronics,Display,Awareness,India,Kerala,Ananya Singh,Mapped,Standard mapping applied
+MAP0108,IN_ME_1045,Holi Offer | Beauty | Gujarat | Search,holi_offer_beauty_gujarat_search,Beauty,Search,Conversion,India,Gujarat,Meera Nair,Mapped,Standard mapping applied
+MAP0109,IN_ME_1064,Monsoon Deals | Beauty | Delhi NCR | Social,monsoon_deals_beauty_delhi_ncr_social,Beauty,Social,Retention,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0110,IN_LI_1039,Monsoon Deals | Home Appliances | Gujarat | Search,monsoon_deals_home_appliances_gujarat_search,Home Appliances,Search,Awareness,India,Gujarat,Ananya Singh,Mapped,Standard mapping applied
+MAP0111,IN_DV_1012,Diwali Sale | Grocery | Rajasthan | Video,diwali_sale_grocery_rajasthan_video,Grocery,Video,Conversion,India,Rajasthan,Rohan Patel,Mapped,Standard mapping applied
+MAP0112,IN_DV_1020,Summer Savings | Grocery | Kerala | Programmatic,summer_savings_grocery_kerala_programmatic,Grocery,Programmatic,Conversion,India,Kerala,Vikram Iyer,Mapped,Standard mapping applied
+MAP0113,IN_LI_1067,Summer Savings | Travel | Telangana | Display,summer_savings_travel_telangana_display,Travel,Display,Consideration,India,Telangana,Aarav Sharma,Mapped,Standard mapping applied
+MAP0114,IN_YO_1050,Republic Day | Electronics | Kerala | Video,republic_day_electronics_kerala_video,Electronics,Video,Retention,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0115,IN_ME_1051,Festive Cashback | Travel | Gujarat | Social,festive_cashback_travel_gujarat_social,Travel,Social,Awareness,India,Gujarat,Neha Gupta,Mapped,Standard mapping applied
+MAP0116,IN_YO_1047,Back to College | Electronics | Telangana | Display,back_to_college_electronics_telangana_display,Electronics,Display,Conversion,India,Telangana,Priya Reddy,Mapped,Standard mapping applied
+MAP0117,IN_ME_1070,Monsoon Deals | Electronics | Tamil Nadu | Video,monsoon_deals_electronics_tamil_nadu_video,,,Retention,India,Tamil Nadu,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0118,IN_ME_1057,Monsoon Deals | Fashion | Kerala | Social,monsoon_deals_fashion_kerala_social,Fashion,Social,Awareness,India,Kerala,Karthik Rao,Mapped,Standard mapping applied
+MAP0119,IN_LI_1025,Summer Savings | Beauty | Delhi NCR | Social,summer_savings_beauty_delhi_ncr_social,Beauty,Social,Consideration,India,Delhi NCR,Ananya Singh,Mapped,Standard mapping applied
+MAP0120,IN_DV_1007,Monsoon Deals | EdTech | Uttar Pradesh | Social,monsoon_deals_edtech_uttar_pradesh_social,EdTech,Social,Awareness,India,Uttar Pradesh,Sanjay Verma,Mapped,Standard mapping applied
+MAP0121,IN_GO_1012,Monsoon Deals | Grocery | Delhi NCR | Display,monsoon_deals_grocery_delhi_ncr_display,Grocery,Display,Conversion,India,Delhi NCR,Meera Nair,Mapped,Standard mapping applied
+MAP0122,IN_GO_1029,Republic Day | Fashion | West Bengal | Display,republic_day_fashion_west_bengal_display,Fashion,Display,Awareness,India,West Bengal,Ananya Singh,Mapped,Standard mapping applied
+MAP0123,IN_ME_1061,IPL Promo | EdTech | Telangana | Display,ipl_promo_edtech_telangana_display,EdTech,Display,Awareness,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0124,IN_ME_1016,Holi Offer | EdTech | Uttar Pradesh | Video,holi_offer_edtech_uttar_pradesh_video,EdTech,Video,Retention,India,Uttar Pradesh,Ananya Singh,Mapped,Standard mapping applied
+MAP0125,IN_GO_1019,Back to College | Electronics | Rajasthan | Programmatic,back_to_college_electronics_rajasthan_programmatic,Electronics,Programmatic,Retention,India,Rajasthan,Ananya Singh,Mapped,Standard mapping applied
+MAP0126,IN_ME_1061,Holi Offer | Beauty | Karnataka | Programmatic,holi_offer_beauty_karnataka_programmatic,Beauty,Programmatic,Awareness,India,Karnataka,Rohan Patel,Mapped,Standard mapping applied
+MAP0127,IN_YO_1006,Summer Savings | Travel | Karnataka | Search,summer_savings_travel_karnataka_search,Travel,Search,Conversion,India,Karnataka,Meera Nair,Mapped,Standard mapping applied
+MAP0128,IN_DV_1059,Monsoon Deals | EdTech | Rajasthan | Social,monsoon_deals_edtech_rajasthan_social,EdTech,Social,Conversion,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0129,IN_YO_1025,Back to College | Home Appliances | Delhi NCR | Video,back_to_college_home_appliances_delhi_ncr_video,Home Appliances,Video,Retention,India,Delhi NCR,Sanjay Verma,Mapped,Standard mapping applied
+MAP0130,IN_YO_1024,New Year | Home Appliances | Karnataka | Display,new_year_home_appliances_karnataka_display,Travel,Display,Awareness,India,Karnataka,Neha Gupta,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0131,IN_GO_1014,New Year | Beauty | West Bengal | Social,new_year_beauty_west_bengal_social,Beauty,Social,Retention,India,West Bengal,Meera Nair,Mapped,Standard mapping applied
+MAP0132,IN_ME_1008,Wedding Season | Electronics | Rajasthan | Video,wedding_season_electronics_rajasthan_video,Electronics,Video,Consideration,India,Rajasthan,Vikram Iyer,Mapped,Standard mapping applied
+MAP0133,IN_ME_1009,Festive Cashback | Travel | Maharashtra | Display,festive_cashback_travel_maharashtra_display,,,Consideration,India,Maharashtra,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0134,IN_GO_1074,Wedding Season | Grocery | Kerala | Video,wedding_season_grocery_kerala_video,Grocery,Video,Conversion,India,Kerala,Vikram Iyer,Mapped,Standard mapping applied
+MAP0135,IN_GO_1034,Wedding Season | Beauty | Maharashtra | Display,wedding_season_beauty_maharashtra_display,Beauty,Display,Awareness,India,Maharashtra,Aarav Sharma,Mapped,Standard mapping applied
+MAP0136,IN_ME_1041,Holi Offer | Home Appliances | Karnataka | Social,holi_offer_home_appliances_karnataka_social,Home Appliances,Social,Consideration,India,Karnataka,Vikram Iyer,Mapped,Standard mapping applied
+MAP0137,IN_ME_1031,Back to College | Fashion | Telangana | Search,back_to_college_fashion_telangana_search,Fashion,Search,Retention,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0138,IN_LI_1062,Holi Offer | Electronics | Telangana | Video,holi_offer_electronics_telangana_video,Electronics,Video,Conversion,India,Telangana,Priya Reddy,Mapped,Standard mapping applied
+MAP0139,IN_YO_1071,Wedding Season | Travel | Karnataka | Programmatic,wedding_season_travel_karnataka_programmatic,Travel,Programmatic,Consideration,India,Karnataka,Meera Nair,Mapped,Standard mapping applied
+MAP0140,IN_GO_1029,IPL Promo | Fashion | Karnataka | Social,ipl_promo_fashion_karnataka_social,Fashion,Social,Awareness,India,Karnataka,Karthik Rao,Mapped,Standard mapping applied
+MAP0141,IN_YO_1069,Back to College | Grocery | Tamil Nadu | Social,back_to_college_grocery_tamil_nadu_social,,,Conversion,India,Tamil Nadu,Vikram Iyer,Missing Mapping,Business unit/channel not mapped
+MAP0142,IN_ME_1011,Festive Cashback | Grocery | Kerala | Programmatic,festive_cashback_grocery_kerala_programmatic,Grocery,Programmatic,Consideration,India,Kerala,Vikram Iyer,Mapped,Standard mapping applied
+MAP0143,IN_LI_1039,Diwali Sale | Home Appliances | West Bengal | Programmatic,diwali_sale_home_appliances_west_bengal_programmatic,,,Consideration,India,West Bengal,Meera Nair,Missing Mapping,Business unit/channel not mapped
+MAP0144,IN_GO_1044,Wedding Season | Home Appliances | Maharashtra | Display,wedding_season_home_appliances_maharashtra_display,Home Appliances,Display,Conversion,India,Maharashtra,Karthik Rao,Mapped,Standard mapping applied
+MAP0145,IN_DV_1060,Back to College | Beauty | Telangana | Search,back_to_college_beauty_telangana_search,Beauty,Search,Awareness,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0146,IN_DV_1041,Summer Savings | EdTech | Kerala | Social,summer_savings_edtech_kerala_social,EdTech,Social,Awareness,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0147,IN_YO_1028,Holi Offer | Home Appliances | Rajasthan | Programmatic,holi_offer_home_appliances_rajasthan_programmatic,Home Appliances,Programmatic,Retention,India,Rajasthan,Neha Gupta,Mapped,Standard mapping applied
+MAP0148,IN_DV_1047,Holi Offer | Home Appliances | Delhi NCR | Social,holi_offer_home_appliances_delhi_ncr_social,Home Appliances,Social,Retention,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0149,IN_ME_1036,Holi Offer | Home Appliances | Gujarat | Programmatic,holi_offer_home_appliances_gujarat_programmatic,Home Appliances,Programmatic,Consideration,India,Gujarat,Vikram Iyer,Mapped,Standard mapping applied
+MAP0150,IN_DV_1066,Back to College | Grocery | Gujarat | Social,back_to_college_grocery_gujarat_social,Grocery,Social,Awareness,India,Gujarat,Neha Gupta,Mapped,Standard mapping applied
+MAP0151,IN_DV_1079,Monsoon Deals | Beauty | Uttar Pradesh | Programmatic,monsoon_deals_beauty_uttar_pradesh_programmatic,Beauty,Programmatic,Conversion,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0152,IN_LI_1043,Festive Cashback | Grocery | Gujarat | Display,festive_cashback_grocery_gujarat_display,Grocery,Display,Awareness,India,Gujarat,Aarav Sharma,Mapped,Standard mapping applied
+MAP0153,IN_GO_1007,IPL Promo | Travel | Kerala | Programmatic,ipl_promo_travel_kerala_programmatic,Travel,Programmatic,Consideration,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0154,IN_ME_1057,Festive Cashback | Travel | Tamil Nadu | Search,festive_cashback_travel_tamil_nadu_search,Travel,Search,Consideration,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0155,IN_LI_1042,Diwali Sale | Travel | Rajasthan | Social,diwali_sale_travel_rajasthan_social,Travel,Social,Consideration,India,Rajasthan,Vikram Iyer,Mapped,Standard mapping applied
+MAP0156,IN_LI_1036,IPL Promo | Beauty | Gujarat | Display,ipl_promo_beauty_gujarat_display,Beauty,Display,Awareness,India,Gujarat,Priya Reddy,Mapped,Standard mapping applied
+MAP0157,IN_ME_1016,Wedding Season | Grocery | Rajasthan | Programmatic,wedding_season_grocery_rajasthan_programmatic,Grocery,Programmatic,Consideration,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0158,IN_ME_1033,IPL Promo | Travel | Delhi NCR | Search,ipl_promo_travel_delhi_ncr_search,Travel,Search,Consideration,India,Delhi NCR,Divya Menon,Mapped,Standard mapping applied
+MAP0159,IN_YO_1007,Festive Cashback | Travel | Telangana | Programmatic,festive_cashback_travel_telangana_programmatic,Travel,Programmatic,Retention,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0160,IN_DV_1021,Holi Offer | Travel | Gujarat | Social,holi_offer_travel_gujarat_social,Travel,Social,Retention,India,Gujarat,Rohan Patel,Mapped,Standard mapping applied
+MAP0161,IN_ME_1074,IPL Promo | Travel | Delhi NCR | Search,ipl_promo_travel_delhi_ncr_search,Travel,Search,Consideration,India,Delhi NCR,Divya Menon,Mapped,Standard mapping applied
+MAP0162,IN_DV_1038,New Year | EdTech | Telangana | Display,new_year_edtech_telangana_display,EdTech,Display,Conversion,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0163,IN_YO_1060,Back to College | Beauty | Rajasthan | Display,back_to_college_beauty_rajasthan_display,Beauty,Display,Awareness,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0164,IN_YO_1079,Republic Day | EdTech | Telangana | Video,republic_day_edtech_telangana_video,EdTech,Video,Consideration,India,Telangana,Karthik Rao,Mapped,Standard mapping applied
+MAP0165,IN_GO_1032,Holi Offer | Fashion | West Bengal | Social,holi_offer_fashion_west_bengal_social,Fashion,Social,Retention,India,West Bengal,Divya Menon,Mapped,Standard mapping applied
+MAP0166,IN_YO_1031,Festive Cashback | Electronics | Kerala | Video,festive_cashback_electronics_kerala_video,Electronics,Video,Awareness,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0167,IN_LI_1018,IPL Promo | Grocery | Delhi NCR | Programmatic,ipl_promo_grocery_delhi_ncr_programmatic,Grocery,Programmatic,Consideration,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0168,IN_LI_1058,Summer Savings | EdTech | Rajasthan | Social,summer_savings_edtech_rajasthan_social,EdTech,Social,Retention,India,Rajasthan,Ananya Singh,Mapped,Standard mapping applied
+MAP0169,IN_LI_1067,Festive Cashback | Beauty | Uttar Pradesh | Social,festive_cashback_beauty_uttar_pradesh_social,Beauty,Social,Consideration,India,Uttar Pradesh,Aarav Sharma,Mapped,Standard mapping applied
+MAP0170,IN_LI_1073,Wedding Season | Fashion | Rajasthan | Programmatic,wedding_season_fashion_rajasthan_programmatic,Fashion,Programmatic,Retention,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0171,IN_DV_1045,Summer Savings | Beauty | Delhi NCR | Search,summer_savings_beauty_delhi_ncr_search,Beauty,Search,Consideration,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0172,IN_DV_1049,New Year | Fashion | Maharashtra | Social,new_year_fashion_maharashtra_social,Fashion,Social,Conversion,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0173,IN_LI_1017,Republic Day | Electronics | Telangana | Social,republic_day_electronics_telangana_social,Electronics,Social,Awareness,India,Telangana,Aarav Sharma,Mapped,Standard mapping applied
+MAP0174,IN_DV_1045,Back to College | Home Appliances | Uttar Pradesh | Social,back_to_college_home_appliances_uttar_pradesh_social,Home Appliances,Social,Retention,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0175,IN_GO_1077,Diwali Sale | Fashion | West Bengal | Social,diwali_sale_fashion_west_bengal_social,Fashion,Social,Retention,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0176,IN_GO_1065,Summer Savings | Beauty | West Bengal | Social,summer_savings_beauty_west_bengal_social,Beauty,Social,Consideration,India,West Bengal,Ananya Singh,Mapped,Standard mapping applied
+MAP0177,IN_LI_1039,IPL Promo | Fashion | Gujarat | Programmatic,ipl_promo_fashion_gujarat_programmatic,Fashion,Programmatic,Conversion,India,Gujarat,Vikram Iyer,Mapped,Standard mapping applied
+MAP0178,IN_DV_1054,Diwali Sale | Grocery | Uttar Pradesh | Display,diwali_sale_grocery_uttar_pradesh_display,Grocery,Display,Retention,India,Uttar Pradesh,Karthik Rao,Mapped,Standard mapping applied
+MAP0179,IN_ME_1053,Monsoon Deals | EdTech | Tamil Nadu | Display,monsoon_deals_edtech_tamil_nadu_display,EdTech,Display,Retention,India,Tamil Nadu,Ananya Singh,Mapped,Standard mapping applied
+MAP0180,IN_YO_1035,Republic Day | Electronics | Karnataka | Programmatic,republic_day_electronics_karnataka_programmatic,Electronics,Programmatic,Consideration,India,Karnataka,Vikram Iyer,Mapped,Standard mapping applied
+MAP0181,IN_LI_1028,Wedding Season | Fashion | Uttar Pradesh | Video,wedding_season_fashion_uttar_pradesh_video,Fashion,Video,Consideration,India,Uttar Pradesh,Karthik Rao,Mapped,Standard mapping applied
+MAP0182,IN_ME_1049,Summer Savings | Home Appliances | Kerala | Social,summer_savings_home_appliances_kerala_social,Home Appliances,Social,Retention,India,Kerala,Rohan Patel,Mapped,Standard mapping applied
+MAP0183,IN_DV_1041,Wedding Season | EdTech | Rajasthan | Video,wedding_season_edtech_rajasthan_video,EdTech,Video,Conversion,India,Rajasthan,Vikram Iyer,Mapped,Standard mapping applied
+MAP0184,IN_YO_1049,IPL Promo | Fashion | Uttar Pradesh | Social,ipl_promo_fashion_uttar_pradesh_social,Fashion,Social,Retention,India,Uttar Pradesh,Ananya Singh,Mapped,Standard mapping applied
+MAP0185,IN_YO_1018,Wedding Season | Home Appliances | Delhi NCR | Social,wedding_season_home_appliances_delhi_ncr_social,Home Appliances,Social,Retention,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0186,IN_GO_1018,Holi Offer | EdTech | Uttar Pradesh | Search,holi_offer_edtech_uttar_pradesh_search,EdTech,Search,Retention,India,Uttar Pradesh,Rohan Patel,Mapped,Standard mapping applied
+MAP0187,IN_LI_1063,Diwali Sale | Beauty | Rajasthan | Programmatic,diwali_sale_beauty_rajasthan_programmatic,Beauty,Programmatic,Conversion,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0188,IN_YO_1013,Diwali Sale | Beauty | Uttar Pradesh | Display,diwali_sale_beauty_uttar_pradesh_display,Beauty,Display,Consideration,India,Uttar Pradesh,Karthik Rao,Mapped,Standard mapping applied
+MAP0189,IN_YO_1029,Republic Day | Home Appliances | West Bengal | Display,republic_day_home_appliances_west_bengal_display,Home Appliances,Display,Retention,India,West Bengal,Divya Menon,Mapped,Standard mapping applied
+MAP0190,IN_GO_1002,New Year | Home Appliances | Karnataka | Programmatic,new_year_home_appliances_karnataka_programmatic,Home Appliances,Programmatic,Awareness,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0191,IN_LI_1006,Summer Savings | Fashion | Karnataka | Programmatic,summer_savings_fashion_karnataka_programmatic,Fashion,Programmatic,Awareness,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0192,IN_GO_1051,Diwali Sale | Fashion | Telangana | Programmatic,diwali_sale_fashion_telangana_programmatic,Fashion,Programmatic,Consideration,India,Telangana,Meera Nair,Mapped,Standard mapping applied
+MAP0193,IN_LI_1013,Monsoon Deals | EdTech | Gujarat | Search,monsoon_deals_edtech_gujarat_search,EdTech,Search,Conversion,India,Gujarat,Divya Menon,Mapped,Standard mapping applied
+MAP0194,IN_LI_1030,Diwali Sale | Travel | West Bengal | Video,diwali_sale_travel_west_bengal_video,Travel,Video,Awareness,India,West Bengal,Aarav Sharma,Mapped,Standard mapping applied
+MAP0195,IN_DV_1020,Summer Savings | Travel | Karnataka | Search,summer_savings_travel_karnataka_search,Travel,Search,Retention,India,Karnataka,Vikram Iyer,Mapped,Standard mapping applied
+MAP0196,IN_YO_1014,Diwali Sale | Grocery | Karnataka | Display,diwali_sale_grocery_karnataka_display,Grocery,Display,Conversion,India,Karnataka,Rohan Patel,Mapped,Standard mapping applied
+MAP0197,IN_DV_1077,Holi Offer | Grocery | Karnataka | Programmatic,holi_offer_grocery_karnataka_programmatic,Grocery,Programmatic,Awareness,India,Karnataka,Divya Menon,Mapped,Standard mapping applied
+MAP0198,IN_GO_1018,Festive Cashback | Beauty | Uttar Pradesh | Social,festive_cashback_beauty_uttar_pradesh_social,Beauty,Social,Conversion,India,Uttar Pradesh,Rohan Patel,Mapped,Standard mapping applied
+MAP0199,IN_YO_1032,Wedding Season | EdTech | West Bengal | Search,wedding_season_edtech_west_bengal_search,EdTech,Search,Retention,India,West Bengal,Neha Gupta,Mapped,Standard mapping applied
+MAP0200,IN_ME_1057,New Year | Grocery | Delhi NCR | Programmatic,new_year_grocery_delhi_ncr_programmatic,Grocery,Programmatic,Retention,India,Delhi NCR,Rohan Patel,Mapped,Standard mapping applied
+MAP0201,IN_ME_1023,Festive Cashback | Travel | Delhi NCR | Social,festive_cashback_travel_delhi_ncr_social,Travel,Social,Conversion,India,Delhi NCR,Sanjay Verma,Mapped,Standard mapping applied
+MAP0202,IN_LI_1073,New Year | Grocery | Tamil Nadu | Display,new_year_grocery_tamil_nadu_display,Grocery,Display,Consideration,India,Tamil Nadu,Vikram Iyer,Mapped,Standard mapping applied
+MAP0203,IN_GO_1064,Summer Savings | Home Appliances | Rajasthan | Video,summer_savings_home_appliances_rajasthan_video,,,Conversion,India,Rajasthan,Aarav Sharma,Missing Mapping,Business unit/channel not mapped
+MAP0204,IN_DV_1065,Festive Cashback | Home Appliances | Karnataka | Programmatic,festive_cashback_home_appliances_karnataka_programmatic,Home Appliances,Programmatic,Retention,India,Karnataka,Vikram Iyer,Mapped,Standard mapping applied
+MAP0205,IN_LI_1079,Holi Offer | Electronics | Kerala | Social,holi_offer_electronics_kerala_social,Electronics,Social,Conversion,India,Kerala,Karthik Rao,Mapped,Standard mapping applied
+MAP0206,IN_DV_1048,Holi Offer | Grocery | Karnataka | Social,holi_offer_grocery_karnataka_social,Grocery,Social,Conversion,India,Karnataka,Divya Menon,Mapped,Standard mapping applied
+MAP0207,IN_YO_1019,Holi Offer | Grocery | Maharashtra | Display,holi_offer_grocery_maharashtra_display,Grocery,Display,Conversion,India,Maharashtra,Sanjay Verma,Mapped,Standard mapping applied
+MAP0208,IN_YO_1039,Wedding Season | Travel | Rajasthan | Display,wedding_season_travel_rajasthan_display,Travel,Display,Retention,India,Rajasthan,Rohan Patel,Mapped,Standard mapping applied
+MAP0209,IN_GO_1072,Summer Savings | Beauty | Telangana | Social,summer_savings_beauty_telangana_social,Beauty,Social,Retention,India,Telangana,Rohan Patel,Mapped,Standard mapping applied
+MAP0210,IN_ME_1076,Diwali Sale | Travel | West Bengal | Programmatic,diwali_sale_travel_west_bengal_programmatic,Travel,Programmatic,Retention,India,West Bengal,Aarav Sharma,Mapped,Standard mapping applied
+MAP0211,IN_LI_1034,Republic Day | Grocery | Karnataka | Social,republic_day_grocery_karnataka_social,Grocery,Social,Consideration,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0212,IN_DV_1080,Festive Cashback | Electronics | Kerala | Video,festive_cashback_electronics_kerala_video,Electronics,Video,Consideration,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0213,IN_LI_1024,Republic Day | Electronics | Karnataka | Social,republic_day_electronics_karnataka_social,Electronics,Social,Conversion,India,Karnataka,Rohan Patel,Mapped,Standard mapping applied
+MAP0214,IN_LI_1022,Monsoon Deals | Home Appliances | West Bengal | Programmatic,monsoon_deals_home_appliances_west_bengal_programmatic,Home Appliances,Programmatic,Retention,India,West Bengal,Karthik Rao,Mapped,Standard mapping applied
+MAP0215,IN_GO_1065,Wedding Season | Fashion | Gujarat | Social,wedding_season_fashion_gujarat_social,Fashion,Social,Retention,India,Gujarat,Aarav Sharma,Mapped,Standard mapping applied
+MAP0216,IN_DV_1036,Festive Cashback | Electronics | Telangana | Social,festive_cashback_electronics_telangana_social,Electronics,Social,Conversion,India,Telangana,Sanjay Verma,Mapped,Standard mapping applied
+MAP0217,IN_LI_1006,Festive Cashback | Electronics | Uttar Pradesh | Video,festive_cashback_electronics_uttar_pradesh_video,Electronics,Video,Retention,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0218,IN_ME_1016,Wedding Season | Grocery | Delhi NCR | Video,wedding_season_grocery_delhi_ncr_video,Grocery,Video,Consideration,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0219,IN_YO_1027,New Year | Fashion | Kerala | Programmatic,new_year_fashion_kerala_programmatic,Grocery,Programmatic,Awareness,India,Kerala,Ananya Singh,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0220,IN_ME_1053,IPL Promo | Beauty | Gujarat | Video,ipl_promo_beauty_gujarat_video,Beauty,Video,Conversion,India,Gujarat,Rohan Patel,Mapped,Standard mapping applied
+MAP0221,IN_ME_1019,Republic Day | EdTech | Telangana | Social,republic_day_edtech_telangana_social,EdTech,Social,Consideration,India,Telangana,Sanjay Verma,Mapped,Standard mapping applied
+MAP0222,IN_GO_1042,IPL Promo | Travel | West Bengal | Video,ipl_promo_travel_west_bengal_video,Travel,Video,Conversion,India,West Bengal,Divya Menon,Mapped,Standard mapping applied
+MAP0223,IN_YO_1042,Summer Savings | Home Appliances | Karnataka | Social,summer_savings_home_appliances_karnataka_social,Home Appliances,Social,Consideration,India,Karnataka,Divya Menon,Mapped,Standard mapping applied
+MAP0224,IN_YO_1021,Holi Offer | Travel | Maharashtra | Display,holi_offer_travel_maharashtra_display,Travel,Display,Awareness,India,Maharashtra,Sanjay Verma,Mapped,Standard mapping applied
+MAP0225,IN_ME_1048,IPL Promo | Electronics | Delhi NCR | Video,ipl_promo_electronics_delhi_ncr_video,Electronics,Video,Consideration,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0226,IN_ME_1062,Holi Offer | Travel | West Bengal | Search,holi_offer_travel_west_bengal_search,Travel,Search,Awareness,India,West Bengal,Ananya Singh,Mapped,Standard mapping applied
+MAP0227,IN_GO_1030,New Year | Travel | Gujarat | Social,new_year_travel_gujarat_social,Travel,Social,Retention,India,Gujarat,Priya Reddy,Mapped,Standard mapping applied
+MAP0228,IN_YO_1073,Monsoon Deals | Travel | Telangana | Social,monsoon_deals_travel_telangana_social,Travel,Social,Conversion,India,Telangana,Aarav Sharma,Mapped,Standard mapping applied
+MAP0229,IN_ME_1018,Wedding Season | EdTech | West Bengal | Social,wedding_season_edtech_west_bengal_social,EdTech,Social,Awareness,India,West Bengal,Karthik Rao,Mapped,Standard mapping applied
+MAP0230,IN_YO_1077,IPL Promo | Travel | Telangana | Search,ipl_promo_travel_telangana_search,Travel,Search,Awareness,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0231,IN_YO_1007,Festive Cashback | Beauty | Tamil Nadu | Social,festive_cashback_beauty_tamil_nadu_social,Beauty,Social,Awareness,India,Tamil Nadu,Priya Reddy,Mapped,Standard mapping applied
+MAP0232,IN_ME_1041,Festive Cashback | Electronics | Rajasthan | Programmatic,festive_cashback_electronics_rajasthan_programmatic,Electronics,Programmatic,Retention,India,Rajasthan,Meera Nair,Mapped,Standard mapping applied
+MAP0233,IN_ME_1028,Diwali Sale | Beauty | Rajasthan | Search,diwali_sale_beauty_rajasthan_search,Travel,Search,Conversion,India,Rajasthan,Divya Menon,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0234,IN_LI_1011,New Year | Electronics | West Bengal | Programmatic,new_year_electronics_west_bengal_programmatic,Electronics,Programmatic,Awareness,India,West Bengal,Neha Gupta,Mapped,Standard mapping applied
+MAP0235,IN_LI_1056,Festive Cashback | Travel | Gujarat | Search,festive_cashback_travel_gujarat_search,Travel,Search,Awareness,India,Gujarat,Divya Menon,Mapped,Standard mapping applied
+MAP0236,IN_GO_1002,Festive Cashback | Electronics | Rajasthan | Video,festive_cashback_electronics_rajasthan_video,Electronics,Video,Retention,India,Rajasthan,Neha Gupta,Mapped,Standard mapping applied
+MAP0237,IN_LI_1016,Monsoon Deals | Grocery | Uttar Pradesh | Social,monsoon_deals_grocery_uttar_pradesh_social,Grocery,Social,Consideration,India,Uttar Pradesh,Ananya Singh,Mapped,Standard mapping applied
+MAP0238,IN_GO_1064,Wedding Season | Home Appliances | Delhi NCR | Programmatic,wedding_season_home_appliances_delhi_ncr_programmatic,Home Appliances,Programmatic,Awareness,India,Delhi NCR,Vikram Iyer,Mapped,Standard mapping applied
+MAP0239,IN_LI_1006,Back to College | Electronics | Karnataka | Search,back_to_college_electronics_karnataka_search,Electronics,Search,Awareness,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0240,IN_LI_1010,Republic Day | Fashion | West Bengal | Display,republic_day_fashion_west_bengal_display,Fashion,Display,Retention,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0241,IN_ME_1042,New Year | Electronics | Uttar Pradesh | Display,new_year_electronics_uttar_pradesh_display,Electronics,Display,Conversion,India,Uttar Pradesh,Rohan Patel,Mapped,Standard mapping applied
+MAP0242,IN_YO_1070,Wedding Season | Grocery | Kerala | Programmatic,wedding_season_grocery_kerala_programmatic,Grocery,Programmatic,Retention,India,Kerala,Priya Reddy,Mapped,Standard mapping applied
+MAP0243,IN_ME_1040,Diwali Sale | Grocery | Uttar Pradesh | Search,diwali_sale_grocery_uttar_pradesh_search,Grocery,Search,Consideration,India,Uttar Pradesh,Rohan Patel,Mapped,Standard mapping applied
+MAP0244,IN_ME_1048,Diwali Sale | Fashion | Delhi NCR | Programmatic,diwali_sale_fashion_delhi_ncr_programmatic,Fashion,Programmatic,Retention,India,Delhi NCR,Vikram Iyer,Mapped,Standard mapping applied
+MAP0245,IN_DV_1034,New Year | Travel | Karnataka | Social,new_year_travel_karnataka_social,Travel,Social,Consideration,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0246,IN_YO_1014,Summer Savings | Electronics | Rajasthan | Social,summer_savings_electronics_rajasthan_social,Electronics,Social,Retention,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0247,IN_LI_1012,Wedding Season | Grocery | Gujarat | Display,wedding_season_grocery_gujarat_display,Grocery,Display,Conversion,India,Gujarat,Divya Menon,Mapped,Standard mapping applied
+MAP0248,IN_GO_1066,Monsoon Deals | Electronics | Tamil Nadu | Social,monsoon_deals_electronics_tamil_nadu_social,Electronics,Social,Conversion,India,Tamil Nadu,Priya Reddy,Mapped,Standard mapping applied
+MAP0249,IN_DV_1018,Back to College | Fashion | Rajasthan | Search,back_to_college_fashion_rajasthan_search,Fashion,Search,Conversion,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0250,IN_ME_1003,Holi Offer | Beauty | West Bengal | Programmatic,holi_offer_beauty_west_bengal_programmatic,Beauty,Programmatic,Retention,India,West Bengal,Meera Nair,Mapped,Standard mapping applied
+MAP0251,IN_YO_1051,Wedding Season | Electronics | Karnataka | Social,wedding_season_electronics_karnataka_social,Electronics,Social,Retention,India,Karnataka,Meera Nair,Mapped,Standard mapping applied
+MAP0252,IN_ME_1038,Wedding Season | Fashion | Delhi NCR | Search,wedding_season_fashion_delhi_ncr_search,Fashion,Search,Retention,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0253,IN_DV_1070,Summer Savings | Travel | Telangana | Programmatic,summer_savings_travel_telangana_programmatic,,,Retention,India,Telangana,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0254,IN_LI_1024,Festive Cashback | Beauty | Rajasthan | Video,festive_cashback_beauty_rajasthan_video,Beauty,Video,Consideration,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0255,IN_GO_1013,Republic Day | EdTech | Rajasthan | Programmatic,republic_day_edtech_rajasthan_programmatic,EdTech,Programmatic,Retention,India,Rajasthan,Priya Reddy,Mapped,Standard mapping applied
+MAP0256,IN_ME_1076,Republic Day | EdTech | Kerala | Social,republic_day_edtech_kerala_social,EdTech,Social,Conversion,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0257,IN_YO_1040,Monsoon Deals | Beauty | Kerala | Social,monsoon_deals_beauty_kerala_social,,,Consideration,India,Kerala,Rohan Patel,Missing Mapping,Business unit/channel not mapped
+MAP0258,IN_GO_1044,Diwali Sale | Grocery | Uttar Pradesh | Programmatic,diwali_sale_grocery_uttar_pradesh_programmatic,Grocery,Programmatic,Retention,India,Uttar Pradesh,Sanjay Verma,Mapped,Standard mapping applied
+MAP0259,IN_GO_1048,Monsoon Deals | EdTech | Telangana | Search,monsoon_deals_edtech_telangana_search,EdTech,Search,Awareness,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0260,IN_YO_1072,New Year | EdTech | Telangana | Display,new_year_edtech_telangana_display,EdTech,Display,Retention,India,Telangana,Priya Reddy,Mapped,Standard mapping applied
+MAP0261,IN_LI_1001,IPL Promo | Travel | Telangana | Video,ipl_promo_travel_telangana_video,Travel,Video,Retention,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0262,IN_GO_1073,Republic Day | EdTech | Telangana | Programmatic,republic_day_edtech_telangana_programmatic,EdTech,Programmatic,Consideration,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0263,IN_YO_1034,Holi Offer | EdTech | Gujarat | Video,holi_offer_edtech_gujarat_video,EdTech,Video,Consideration,India,Gujarat,Sanjay Verma,Mapped,Standard mapping applied
+MAP0264,IN_GO_1064,Wedding Season | Travel | Maharashtra | Display,wedding_season_travel_maharashtra_display,Travel,Display,Conversion,India,Maharashtra,Divya Menon,Mapped,Standard mapping applied
+MAP0265,IN_LI_1041,Wedding Season | Electronics | Tamil Nadu | Search,wedding_season_electronics_tamil_nadu_search,Electronics,Search,Awareness,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0266,IN_ME_1004,Republic Day | Beauty | Karnataka | Programmatic,republic_day_beauty_karnataka_programmatic,Beauty,Programmatic,Awareness,India,Karnataka,Sanjay Verma,Mapped,Standard mapping applied
+MAP0267,IN_GO_1037,Summer Savings | Fashion | Karnataka | Display,summer_savings_fashion_karnataka_display,Fashion,Display,Retention,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0268,IN_ME_1077,Diwali Sale | Home Appliances | Maharashtra | Search,diwali_sale_home_appliances_maharashtra_search,,,Conversion,India,Maharashtra,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0269,IN_GO_1034,IPL Promo | EdTech | Rajasthan | Display,ipl_promo_edtech_rajasthan_display,EdTech,Display,Awareness,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0270,IN_YO_1029,Diwali Sale | Grocery | Telangana | Display,diwali_sale_grocery_telangana_display,Grocery,Display,Awareness,India,Telangana,Meera Nair,Mapped,Standard mapping applied
+MAP0271,IN_GO_1008,Back to College | Home Appliances | Karnataka | Programmatic,back_to_college_home_appliances_karnataka_programmatic,Home Appliances,Programmatic,Consideration,India,Karnataka,Karthik Rao,Mapped,Standard mapping applied
+MAP0272,IN_DV_1005,Wedding Season | Grocery | Kerala | Search,wedding_season_grocery_kerala_search,Grocery,Search,Awareness,India,Kerala,Karthik Rao,Mapped,Standard mapping applied
+MAP0273,IN_ME_1006,Monsoon Deals | Fashion | Karnataka | Social,monsoon_deals_fashion_karnataka_social,Electronics,Social,Conversion,India,Karnataka,Neha Gupta,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0274,IN_ME_1072,Republic Day | Travel | Kerala | Search,republic_day_travel_kerala_search,Travel,Search,Retention,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0275,IN_LI_1073,New Year | Electronics | Kerala | Display,new_year_electronics_kerala_display,Electronics,Display,Conversion,India,Kerala,Neha Gupta,Mapped,Standard mapping applied
+MAP0276,IN_LI_1063,Back to College | Grocery | Karnataka | Display,back_to_college_grocery_karnataka_display,Grocery,Display,Consideration,India,Karnataka,Ananya Singh,Mapped,Standard mapping applied
+MAP0277,IN_LI_1031,New Year | Electronics | Kerala | Display,new_year_electronics_kerala_display,Electronics,Display,Awareness,India,Kerala,Divya Menon,Mapped,Standard mapping applied
+MAP0278,IN_YO_1018,IPL Promo | EdTech | Delhi NCR | Display,ipl_promo_edtech_delhi_ncr_display,EdTech,Display,Awareness,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0279,IN_DV_1063,Holi Offer | Fashion | Kerala | Display,holi_offer_fashion_kerala_display,Fashion,Display,Awareness,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0280,IN_GO_1025,Monsoon Deals | EdTech | Delhi NCR | Programmatic,monsoon_deals_edtech_delhi_ncr_programmatic,EdTech,Programmatic,Awareness,India,Delhi NCR,Aarav Sharma,Mapped,Standard mapping applied
+MAP0281,IN_GO_1016,IPL Promo | Grocery | Gujarat | Display,ipl_promo_grocery_gujarat_display,Grocery,Display,Retention,India,Gujarat,Meera Nair,Mapped,Standard mapping applied
+MAP0282,IN_DV_1012,Republic Day | Grocery | Kerala | Social,republic_day_grocery_kerala_social,Grocery,Social,Retention,India,Kerala,Divya Menon,Mapped,Standard mapping applied
+MAP0283,IN_ME_1002,Summer Savings | Grocery | Tamil Nadu | Display,summer_savings_grocery_tamil_nadu_display,,,Retention,India,Tamil Nadu,Vikram Iyer,Missing Mapping,Business unit/channel not mapped
+MAP0284,IN_ME_1033,IPL Promo | Home Appliances | Delhi NCR | Display,ipl_promo_home_appliances_delhi_ncr_display,Home Appliances,Display,Conversion,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0285,IN_LI_1014,Back to College | Travel | Karnataka | Video,back_to_college_travel_karnataka_video,Travel,Video,Conversion,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0286,IN_YO_1052,Monsoon Deals | Beauty | Delhi NCR | Social,monsoon_deals_beauty_delhi_ncr_social,Beauty,Social,Consideration,India,Delhi NCR,Aarav Sharma,Mapped,Standard mapping applied
+MAP0287,IN_YO_1029,New Year | Home Appliances | Delhi NCR | Search,new_year_home_appliances_delhi_ncr_search,Beauty,Search,Awareness,India,Delhi NCR,Aarav Sharma,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0288,IN_YO_1013,Monsoon Deals | EdTech | Uttar Pradesh | Programmatic,monsoon_deals_edtech_uttar_pradesh_programmatic,EdTech,Programmatic,Consideration,India,Uttar Pradesh,Aarav Sharma,Mapped,Standard mapping applied
+MAP0289,IN_YO_1048,Republic Day | Fashion | Karnataka | Video,republic_day_fashion_karnataka_video,Fashion,Video,Retention,India,Karnataka,Rohan Patel,Mapped,Standard mapping applied
+MAP0290,IN_LI_1049,Holi Offer | Home Appliances | Kerala | Social,holi_offer_home_appliances_kerala_social,,,Consideration,India,Kerala,Karthik Rao,Missing Mapping,Business unit/channel not mapped
+MAP0291,IN_ME_1024,Festive Cashback | Home Appliances | Gujarat | Social,festive_cashback_home_appliances_gujarat_social,Home Appliances,Social,Consideration,India,Gujarat,Priya Reddy,Mapped,Standard mapping applied
+MAP0292,IN_GO_1012,IPL Promo | Fashion | Maharashtra | Social,ipl_promo_fashion_maharashtra_social,,,Retention,India,Maharashtra,Rohan Patel,Missing Mapping,Business unit/channel not mapped
+MAP0293,IN_DV_1068,Back to College | Fashion | Maharashtra | Video,back_to_college_fashion_maharashtra_video,Fashion,Video,Retention,India,Maharashtra,Aarav Sharma,Mapped,Standard mapping applied
+MAP0294,IN_YO_1009,Holi Offer | Home Appliances | Delhi NCR | Programmatic,holi_offer_home_appliances_delhi_ncr_programmatic,Home Appliances,Programmatic,Consideration,India,Delhi NCR,Rohan Patel,Mapped,Standard mapping applied
+MAP0295,IN_LI_1046,New Year | Travel | Uttar Pradesh | Social,new_year_travel_uttar_pradesh_social,Travel,Social,Retention,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0296,IN_GO_1047,Monsoon Deals | Fashion | Tamil Nadu | Search,monsoon_deals_fashion_tamil_nadu_search,Fashion,Search,Awareness,India,Tamil Nadu,Meera Nair,Mapped,Standard mapping applied
+MAP0297,IN_LI_1015,Festive Cashback | Electronics | Kerala | Search,festive_cashback_electronics_kerala_search,Electronics,Search,Consideration,India,Kerala,Ananya Singh,Mapped,Standard mapping applied
+MAP0298,IN_ME_1067,Diwali Sale | Grocery | Tamil Nadu | Display,diwali_sale_grocery_tamil_nadu_display,Grocery,Display,Retention,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0299,IN_LI_1078,IPL Promo | Electronics | Kerala | Search,ipl_promo_electronics_kerala_search,Electronics,Search,Awareness,India,Kerala,Priya Reddy,Mapped,Standard mapping applied
+MAP0300,IN_DV_1062,Diwali Sale | Beauty | Delhi NCR | Display,diwali_sale_beauty_delhi_ncr_display,Beauty,Display,Retention,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0301,IN_LI_1013,Holi Offer | EdTech | Rajasthan | Programmatic,holi_offer_edtech_rajasthan_programmatic,EdTech,Programmatic,Retention,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0302,IN_DV_1041,Monsoon Deals | EdTech | Maharashtra | Search,monsoon_deals_edtech_maharashtra_search,,,Conversion,India,Maharashtra,Aarav Sharma,Missing Mapping,Business unit/channel not mapped
+MAP0303,IN_GO_1035,Monsoon Deals | Grocery | Telangana | Video,monsoon_deals_grocery_telangana_video,Grocery,Video,Retention,India,Telangana,Meera Nair,Mapped,Standard mapping applied
+MAP0304,IN_DV_1022,IPL Promo | EdTech | West Bengal | Display,ipl_promo_edtech_west_bengal_display,EdTech,Display,Retention,India,West Bengal,Ananya Singh,Mapped,Standard mapping applied
+MAP0305,IN_GO_1079,Wedding Season | EdTech | West Bengal | Programmatic,wedding_season_edtech_west_bengal_programmatic,EdTech,Programmatic,Awareness,India,West Bengal,Sanjay Verma,Mapped,Standard mapping applied
+MAP0306,IN_DV_1041,New Year | Home Appliances | Rajasthan | Search,new_year_home_appliances_rajasthan_search,Home Appliances,Search,Retention,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0307,IN_LI_1032,Republic Day | Beauty | Tamil Nadu | Programmatic,republic_day_beauty_tamil_nadu_programmatic,Beauty,Programmatic,Awareness,India,Tamil Nadu,Vikram Iyer,Mapped,Standard mapping applied
+MAP0308,IN_LI_1010,Monsoon Deals | Beauty | Maharashtra | Display,monsoon_deals_beauty_maharashtra_display,Beauty,Display,Retention,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0309,IN_LI_1057,New Year | Home Appliances | Tamil Nadu | Social,new_year_home_appliances_tamil_nadu_social,,,Retention,India,Tamil Nadu,Divya Menon,Missing Mapping,Business unit/channel not mapped
+MAP0310,IN_GO_1072,Diwali Sale | Electronics | Rajasthan | Display,diwali_sale_electronics_rajasthan_display,Electronics,Display,Conversion,India,Rajasthan,Meera Nair,Mapped,Standard mapping applied
+MAP0311,IN_YO_1059,Wedding Season | Grocery | Uttar Pradesh | Video,wedding_season_grocery_uttar_pradesh_video,Grocery,Video,Retention,India,Uttar Pradesh,Aarav Sharma,Mapped,Standard mapping applied
+MAP0312,IN_YO_1046,Holi Offer | EdTech | Rajasthan | Social,holi_offer_edtech_rajasthan_social,EdTech,Social,Conversion,India,Rajasthan,Ananya Singh,Mapped,Standard mapping applied
+MAP0313,IN_GO_1079,Wedding Season | Fashion | Maharashtra | Display,wedding_season_fashion_maharashtra_display,Fashion,Display,Conversion,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0314,IN_ME_1059,New Year | Electronics | Gujarat | Programmatic,new_year_electronics_gujarat_programmatic,Electronics,Programmatic,Consideration,India,Gujarat,Divya Menon,Mapped,Standard mapping applied
+MAP0315,IN_LI_1075,Festive Cashback | Home Appliances | Maharashtra | Programmatic,festive_cashback_home_appliances_maharashtra_programmatic,EdTech,Programmatic,Conversion,India,Maharashtra,Divya Menon,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0316,IN_LI_1044,New Year | Beauty | Gujarat | Social,new_year_beauty_gujarat_social,Beauty,Social,Retention,India,Gujarat,Rohan Patel,Mapped,Standard mapping applied
+MAP0317,IN_LI_1080,Back to College | Travel | Delhi NCR | Social,back_to_college_travel_delhi_ncr_social,Travel,Social,Conversion,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0318,IN_ME_1074,Holi Offer | EdTech | Uttar Pradesh | Video,holi_offer_edtech_uttar_pradesh_video,EdTech,Video,Retention,India,Uttar Pradesh,Neha Gupta,Mapped,Standard mapping applied
+MAP0319,IN_YO_1007,Back to College | Electronics | West Bengal | Search,back_to_college_electronics_west_bengal_search,Electronics,Search,Retention,India,West Bengal,Rohan Patel,Mapped,Standard mapping applied
+MAP0320,IN_YO_1058,IPL Promo | Fashion | Telangana | Programmatic,ipl_promo_fashion_telangana_programmatic,Fashion,Programmatic,Consideration,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0321,IN_LI_1050,Back to College | EdTech | West Bengal | Video,back_to_college_edtech_west_bengal_video,EdTech,Video,Awareness,India,West Bengal,Meera Nair,Mapped,Standard mapping applied
+MAP0322,IN_GO_1048,Summer Savings | Beauty | Maharashtra | Display,summer_savings_beauty_maharashtra_display,Beauty,Display,Consideration,India,Maharashtra,Ananya Singh,Mapped,Standard mapping applied
+MAP0323,IN_YO_1006,Holi Offer | Fashion | Rajasthan | Social,holi_offer_fashion_rajasthan_social,Fashion,Social,Retention,India,Rajasthan,Priya Reddy,Mapped,Standard mapping applied
+MAP0324,IN_GO_1007,Monsoon Deals | Electronics | Gujarat | Social,monsoon_deals_electronics_gujarat_social,Electronics,Social,Retention,India,Gujarat,Meera Nair,Mapped,Standard mapping applied
+MAP0325,IN_LI_1067,Holi Offer | EdTech | Uttar Pradesh | Video,holi_offer_edtech_uttar_pradesh_video,EdTech,Video,Consideration,India,Uttar Pradesh,Ananya Singh,Mapped,Standard mapping applied
+MAP0326,IN_GO_1038,Summer Savings | Travel | Gujarat | Video,summer_savings_travel_gujarat_video,Travel,Video,Awareness,India,Gujarat,Aarav Sharma,Mapped,Standard mapping applied
+MAP0327,IN_GO_1042,Wedding Season | Fashion | Karnataka | Programmatic,wedding_season_fashion_karnataka_programmatic,,,Conversion,India,Karnataka,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0328,IN_YO_1006,Back to College | EdTech | Maharashtra | Programmatic,back_to_college_edtech_maharashtra_programmatic,EdTech,Programmatic,Consideration,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0329,IN_ME_1027,Holi Offer | Fashion | Uttar Pradesh | Social,holi_offer_fashion_uttar_pradesh_social,Electronics,Social,Awareness,India,Uttar Pradesh,Priya Reddy,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0330,IN_GO_1010,Wedding Season | Travel | Telangana | Video,wedding_season_travel_telangana_video,Travel,Video,Retention,India,Telangana,Priya Reddy,Mapped,Standard mapping applied
+MAP0331,IN_YO_1003,Wedding Season | Travel | West Bengal | Display,wedding_season_travel_west_bengal_display,Travel,Display,Consideration,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0332,IN_GO_1039,Holi Offer | Grocery | Kerala | Programmatic,holi_offer_grocery_kerala_programmatic,Grocery,Programmatic,Consideration,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0333,IN_GO_1038,Back to College | Fashion | Rajasthan | Social,back_to_college_fashion_rajasthan_social,Travel,Social,Conversion,India,Rajasthan,Neha Gupta,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0334,IN_YO_1071,Holi Offer | Electronics | Maharashtra | Search,holi_offer_electronics_maharashtra_search,Electronics,Search,Awareness,India,Maharashtra,Sanjay Verma,Mapped,Standard mapping applied
+MAP0335,IN_ME_1079,Back to College | Fashion | West Bengal | Social,back_to_college_fashion_west_bengal_social,Fashion,Social,Consideration,India,West Bengal,Sanjay Verma,Mapped,Standard mapping applied
+MAP0336,IN_GO_1013,Back to College | Electronics | Uttar Pradesh | Video,back_to_college_electronics_uttar_pradesh_video,Electronics,Video,Awareness,India,Uttar Pradesh,Aarav Sharma,Mapped,Standard mapping applied
+MAP0337,IN_ME_1058,Festive Cashback | Electronics | Karnataka | Social,festive_cashback_electronics_karnataka_social,Electronics,Social,Retention,India,Karnataka,Meera Nair,Mapped,Standard mapping applied
+MAP0338,IN_LI_1029,New Year | Fashion | Gujarat | Search,new_year_fashion_gujarat_search,,,Awareness,India,Gujarat,Priya Reddy,Missing Mapping,Business unit/channel not mapped
+MAP0339,IN_YO_1014,Wedding Season | Grocery | Rajasthan | Video,wedding_season_grocery_rajasthan_video,Grocery,Video,Awareness,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0340,IN_LI_1004,Holi Offer | Travel | Tamil Nadu | Search,holi_offer_travel_tamil_nadu_search,Travel,Search,Awareness,India,Tamil Nadu,Rohan Patel,Mapped,Standard mapping applied
+MAP0341,IN_LI_1038,Monsoon Deals | Grocery | Delhi NCR | Display,monsoon_deals_grocery_delhi_ncr_display,Grocery,Display,Awareness,India,Delhi NCR,Ananya Singh,Mapped,Standard mapping applied
+MAP0342,IN_GO_1021,Monsoon Deals | EdTech | Tamil Nadu | Programmatic,monsoon_deals_edtech_tamil_nadu_programmatic,EdTech,Programmatic,Conversion,India,Tamil Nadu,Rohan Patel,Mapped,Standard mapping applied
+MAP0343,IN_DV_1034,Summer Savings | EdTech | Gujarat | Display,summer_savings_edtech_gujarat_display,EdTech,Display,Conversion,India,Gujarat,Meera Nair,Mapped,Standard mapping applied
+MAP0344,IN_DV_1067,Diwali Sale | Electronics | Rajasthan | Video,diwali_sale_electronics_rajasthan_video,Electronics,Video,Retention,India,Rajasthan,Priya Reddy,Mapped,Standard mapping applied
+MAP0345,IN_LI_1033,New Year | Grocery | Telangana | Programmatic,new_year_grocery_telangana_programmatic,Grocery,,Conversion,India,Telangana,Neha Gupta,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0346,IN_DV_1030,Diwali Sale | Beauty | Rajasthan | Social,diwali_sale_beauty_rajasthan_social,Beauty,Social,Consideration,India,Rajasthan,Priya Reddy,Mapped,Standard mapping applied
+MAP0347,IN_YO_1015,Holi Offer | Travel | Kerala | Social,holi_offer_travel_kerala_social,Travel,Social,Consideration,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0348,IN_DV_1066,Diwali Sale | Fashion | Maharashtra | Programmatic,diwali_sale_fashion_maharashtra_programmatic,Home Appliances,Programmatic,Retention,India,Maharashtra,Aarav Sharma,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0349,IN_LI_1028,Festive Cashback | Travel | West Bengal | Search,festive_cashback_travel_west_bengal_search,Home Appliances,Search,Retention,India,West Bengal,Neha Gupta,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0350,IN_DV_1044,Festive Cashback | EdTech | Kerala | Social,festive_cashback_edtech_kerala_social,,,Consideration,India,Kerala,Priya Reddy,Missing Mapping,Business unit/channel not mapped
+MAP0351,IN_GO_1078,Back to College | EdTech | Maharashtra | Programmatic,back_to_college_edtech_maharashtra_programmatic,EdTech,Programmatic,Conversion,India,Maharashtra,Karthik Rao,Mapped,Standard mapping applied
+MAP0352,IN_LI_1056,Wedding Season | Travel | Karnataka | Social,wedding_season_travel_karnataka_social,Travel,Social,Consideration,India,Karnataka,Rohan Patel,Mapped,Standard mapping applied
+MAP0353,IN_ME_1018,Republic Day | Beauty | Rajasthan | Programmatic,republic_day_beauty_rajasthan_programmatic,Beauty,Programmatic,Retention,India,Rajasthan,Ananya Singh,Mapped,Standard mapping applied
+MAP0354,IN_LI_1067,IPL Promo | Fashion | Uttar Pradesh | Search,ipl_promo_fashion_uttar_pradesh_search,Fashion,Search,Retention,India,Uttar Pradesh,Karthik Rao,Mapped,Standard mapping applied
+MAP0355,IN_DV_1069,Monsoon Deals | Home Appliances | Gujarat | Programmatic,monsoon_deals_home_appliances_gujarat_programmatic,Grocery,Programmatic,Retention,India,Gujarat,Meera Nair,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0356,IN_ME_1072,Back to College | Home Appliances | West Bengal | Social,back_to_college_home_appliances_west_bengal_social,Home Appliances,Social,Conversion,India,West Bengal,Aarav Sharma,Mapped,Standard mapping applied
+MAP0357,IN_ME_1066,Wedding Season | EdTech | Karnataka | Social,wedding_season_edtech_karnataka_social,EdTech,Social,Consideration,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0358,IN_GO_1077,Diwali Sale | EdTech | Telangana | Search,diwali_sale_edtech_telangana_search,EdTech,Search,Awareness,India,Telangana,Priya Reddy,Mapped,Standard mapping applied
+MAP0359,IN_GO_1077,Festive Cashback | Travel | West Bengal | Programmatic,festive_cashback_travel_west_bengal_programmatic,Travel,Programmatic,Conversion,India,West Bengal,Karthik Rao,Mapped,Standard mapping applied
+MAP0360,IN_GO_1066,Back to College | Grocery | Tamil Nadu | Social,back_to_college_grocery_tamil_nadu_social,Grocery,Social,Consideration,India,Tamil Nadu,Karthik Rao,Mapped,Standard mapping applied
+MAP0361,IN_ME_1051,Holi Offer | Grocery | Maharashtra | Display,holi_offer_grocery_maharashtra_display,Grocery,Display,Retention,India,Maharashtra,Aarav Sharma,Mapped,Standard mapping applied
+MAP0362,IN_GO_1029,Back to College | Beauty | Uttar Pradesh | Video,back_to_college_beauty_uttar_pradesh_video,Beauty,Video,Consideration,India,Uttar Pradesh,Divya Menon,Mapped,Standard mapping applied
+MAP0363,IN_YO_1038,Back to College | Electronics | Telangana | Programmatic,back_to_college_electronics_telangana_programmatic,Electronics,Programmatic,Conversion,India,Telangana,Karthik Rao,Mapped,Standard mapping applied
+MAP0364,IN_LI_1059,New Year | Beauty | Delhi NCR | Display,new_year_beauty_delhi_ncr_display,Beauty,Display,Conversion,India,Delhi NCR,Neha Gupta,Mapped,Standard mapping applied
+MAP0365,IN_YO_1046,Summer Savings | Travel | Karnataka | Social,summer_savings_travel_karnataka_social,Travel,Social,Conversion,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0366,IN_GO_1041,Republic Day | Electronics | West Bengal | Programmatic,republic_day_electronics_west_bengal_programmatic,Electronics,Programmatic,Conversion,India,West Bengal,Sanjay Verma,Mapped,Standard mapping applied
+MAP0367,IN_ME_1030,Summer Savings | Fashion | Rajasthan | Social,summer_savings_fashion_rajasthan_social,Fashion,Social,Consideration,India,Rajasthan,Karthik Rao,Mapped,Standard mapping applied
+MAP0368,IN_GO_1048,Festive Cashback | Electronics | Karnataka | Programmatic,festive_cashback_electronics_karnataka_programmatic,Electronics,Programmatic,Consideration,India,Karnataka,Sanjay Verma,Mapped,Standard mapping applied
+MAP0369,IN_YO_1017,Back to College | Grocery | Rajasthan | Display,back_to_college_grocery_rajasthan_display,Grocery,Display,Retention,India,Rajasthan,Neha Gupta,Mapped,Standard mapping applied
+MAP0370,IN_LI_1002,Monsoon Deals | Home Appliances | Gujarat | Search,monsoon_deals_home_appliances_gujarat_search,Home Appliances,Search,Retention,India,Gujarat,Ananya Singh,Mapped,Standard mapping applied
+MAP0371,IN_LI_1079,Back to College | Grocery | Delhi NCR | Social,back_to_college_grocery_delhi_ncr_social,Grocery,Social,Conversion,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0372,IN_YO_1030,IPL Promo | Home Appliances | Gujarat | Social,ipl_promo_home_appliances_gujarat_social,Home Appliances,Social,Conversion,India,Gujarat,Karthik Rao,Mapped,Standard mapping applied
+MAP0373,IN_DV_1064,Monsoon Deals | Home Appliances | Tamil Nadu | Search,monsoon_deals_home_appliances_tamil_nadu_search,Home Appliances,Search,Consideration,India,Tamil Nadu,Sanjay Verma,Mapped,Standard mapping applied
+MAP0374,IN_DV_1013,Back to College | EdTech | Delhi NCR | Programmatic,back_to_college_edtech_delhi_ncr_programmatic,,,Conversion,India,Delhi NCR,Ananya Singh,Missing Mapping,Business unit/channel not mapped
+MAP0375,IN_GO_1072,Republic Day | Grocery | Rajasthan | Video,republic_day_grocery_rajasthan_video,Grocery,Video,Conversion,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0376,IN_LI_1046,Festive Cashback | Travel | Tamil Nadu | Programmatic,festive_cashback_travel_tamil_nadu_programmatic,Travel,Programmatic,Consideration,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0377,IN_DV_1044,Wedding Season | Travel | Kerala | Social,wedding_season_travel_kerala_social,Travel,Social,Conversion,India,Kerala,Ananya Singh,Mapped,Standard mapping applied
+MAP0378,IN_GO_1035,Summer Savings | Grocery | Telangana | Video,summer_savings_grocery_telangana_video,Grocery,Video,Conversion,India,Telangana,Karthik Rao,Mapped,Standard mapping applied
+MAP0379,IN_LI_1031,New Year | Fashion | Uttar Pradesh | Social,new_year_fashion_uttar_pradesh_social,,,Awareness,India,Uttar Pradesh,Aarav Sharma,Missing Mapping,Business unit/channel not mapped
+MAP0380,IN_ME_1051,Holi Offer | Electronics | West Bengal | Display,holi_offer_electronics_west_bengal_display,Electronics,Display,Conversion,India,West Bengal,Vikram Iyer,Mapped,Standard mapping applied
+MAP0381,IN_GO_1017,Summer Savings | Fashion | West Bengal | Video,summer_savings_fashion_west_bengal_video,Fashion,Video,Conversion,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0382,IN_YO_1070,Back to College | Grocery | Rajasthan | Programmatic,back_to_college_grocery_rajasthan_programmatic,,,Awareness,India,Rajasthan,Meera Nair,Missing Mapping,Business unit/channel not mapped
+MAP0383,IN_DV_1057,Republic Day | Home Appliances | Uttar Pradesh | Programmatic,republic_day_home_appliances_uttar_pradesh_programmatic,Home Appliances,Programmatic,Awareness,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0384,IN_LI_1063,IPL Promo | Home Appliances | Telangana | Programmatic,ipl_promo_home_appliances_telangana_programmatic,Home Appliances,Programmatic,Consideration,India,Telangana,Divya Menon,Mapped,Standard mapping applied
+MAP0385,IN_LI_1056,Back to College | Grocery | Tamil Nadu | Social,back_to_college_grocery_tamil_nadu_social,Grocery,Social,Consideration,India,Tamil Nadu,Neha Gupta,Mapped,Standard mapping applied
+MAP0386,IN_ME_1069,New Year | Travel | Delhi NCR | Social,new_year_travel_delhi_ncr_social,Travel,Social,Conversion,India,Delhi NCR,Divya Menon,Mapped,Standard mapping applied
+MAP0387,IN_YO_1042,Festive Cashback | Home Appliances | Karnataka | Video,festive_cashback_home_appliances_karnataka_video,Home Appliances,Video,Consideration,India,Karnataka,Karthik Rao,Mapped,Standard mapping applied
+MAP0388,IN_YO_1020,Wedding Season | Travel | Delhi NCR | Search,wedding_season_travel_delhi_ncr_search,Travel,Search,Consideration,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0389,IN_YO_1035,Diwali Sale | Grocery | Rajasthan | Search,diwali_sale_grocery_rajasthan_search,Grocery,Search,Consideration,India,Rajasthan,Neha Gupta,Mapped,Standard mapping applied
+MAP0390,IN_DV_1005,Summer Savings | Home Appliances | Maharashtra | Display,summer_savings_home_appliances_maharashtra_display,Home Appliances,Display,Awareness,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0391,IN_DV_1071,IPL Promo | Grocery | West Bengal | Social,ipl_promo_grocery_west_bengal_social,Grocery,Social,Retention,India,West Bengal,Karthik Rao,Mapped,Standard mapping applied
+MAP0392,IN_GO_1022,Summer Savings | Travel | Tamil Nadu | Display,summer_savings_travel_tamil_nadu_display,Travel,Display,Awareness,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0393,IN_GO_1012,Wedding Season | Travel | Kerala | Programmatic,wedding_season_travel_kerala_programmatic,Travel,Programmatic,Consideration,India,Kerala,Meera Nair,Mapped,Standard mapping applied
+MAP0394,IN_GO_1063,Monsoon Deals | Travel | Maharashtra | Programmatic,monsoon_deals_travel_maharashtra_programmatic,Travel,Programmatic,Retention,India,Maharashtra,Priya Reddy,Mapped,Standard mapping applied
+MAP0395,IN_DV_1063,New Year | Grocery | Tamil Nadu | Social,new_year_grocery_tamil_nadu_social,Grocery,Social,Retention,India,Tamil Nadu,Divya Menon,Mapped,Standard mapping applied
+MAP0396,IN_LI_1071,Republic Day | Grocery | Telangana | Display,republic_day_grocery_telangana_display,Grocery,Display,Retention,India,Telangana,Vikram Iyer,Mapped,Standard mapping applied
+MAP0397,IN_LI_1024,Diwali Sale | EdTech | Gujarat | Programmatic,diwali_sale_edtech_gujarat_programmatic,EdTech,Programmatic,Retention,India,Gujarat,Karthik Rao,Mapped,Standard mapping applied
+MAP0398,IN_YO_1037,Summer Savings | Beauty | Karnataka | Display,summer_savings_beauty_karnataka_display,Beauty,Display,Retention,India,Karnataka,Karthik Rao,Mapped,Standard mapping applied
+MAP0399,IN_GO_1063,Monsoon Deals | EdTech | Maharashtra | Search,monsoon_deals_edtech_maharashtra_search,EdTech,Search,Consideration,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0400,IN_DV_1027,Diwali Sale | Grocery | Uttar Pradesh | Social,diwali_sale_grocery_uttar_pradesh_social,Grocery,Social,Consideration,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0401,IN_GO_1006,Republic Day | EdTech | Gujarat | Search,republic_day_edtech_gujarat_search,,,Retention,India,Gujarat,Rohan Patel,Missing Mapping,Business unit/channel not mapped
+MAP0402,IN_GO_1032,Back to College | Home Appliances | Karnataka | Social,back_to_college_home_appliances_karnataka_social,Home Appliances,Social,Awareness,India,Karnataka,Ananya Singh,Mapped,Standard mapping applied
+MAP0403,IN_GO_1024,Wedding Season | Travel | Kerala | Display,wedding_season_travel_kerala_display,Travel,Display,Retention,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0404,IN_DV_1056,Back to College | Grocery | Gujarat | Video,back_to_college_grocery_gujarat_video,Grocery,Video,Consideration,India,Gujarat,Sanjay Verma,Mapped,Standard mapping applied
+MAP0405,IN_DV_1005,Republic Day | Home Appliances | Uttar Pradesh | Display,republic_day_home_appliances_uttar_pradesh_display,Home Appliances,Display,Awareness,India,Uttar Pradesh,Divya Menon,Mapped,Standard mapping applied
+MAP0406,IN_GO_1036,Summer Savings | EdTech | Delhi NCR | Video,summer_savings_edtech_delhi_ncr_video,EdTech,Video,Retention,India,Delhi NCR,Priya Reddy,Mapped,Standard mapping applied
+MAP0407,IN_GO_1032,Monsoon Deals | Fashion | Rajasthan | Video,monsoon_deals_fashion_rajasthan_video,Fashion,Video,Conversion,India,Rajasthan,Divya Menon,Mapped,Standard mapping applied
+MAP0408,IN_ME_1039,Wedding Season | Fashion | Karnataka | Display,wedding_season_fashion_karnataka_display,Fashion,Display,Awareness,India,Karnataka,Sanjay Verma,Mapped,Standard mapping applied
+MAP0409,IN_YO_1078,New Year | EdTech | Gujarat | Search,new_year_edtech_gujarat_search,EdTech,Search,Awareness,India,Gujarat,Neha Gupta,Mapped,Standard mapping applied
+MAP0410,IN_GO_1051,Republic Day | Beauty | Gujarat | Social,republic_day_beauty_gujarat_social,Beauty,Social,Conversion,India,Gujarat,Vikram Iyer,Mapped,Standard mapping applied
+MAP0411,IN_YO_1007,Monsoon Deals | Grocery | West Bengal | Search,monsoon_deals_grocery_west_bengal_search,Grocery,Search,Retention,India,West Bengal,Aarav Sharma,Mapped,Standard mapping applied
+MAP0412,IN_ME_1074,Back to College | Fashion | Telangana | Display,back_to_college_fashion_telangana_display,Fashion,Display,Consideration,India,Telangana,Rohan Patel,Mapped,Standard mapping applied
+MAP0413,IN_GO_1053,Republic Day | Travel | Delhi NCR | Programmatic,republic_day_travel_delhi_ncr_programmatic,Travel,Programmatic,Retention,India,Delhi NCR,Aarav Sharma,Mapped,Standard mapping applied
+MAP0414,IN_GO_1006,Republic Day | Beauty | Delhi NCR | Display,republic_day_beauty_delhi_ncr_display,Beauty,Display,Conversion,India,Delhi NCR,Vikram Iyer,Mapped,Standard mapping applied
+MAP0415,IN_GO_1015,Festive Cashback | Fashion | Maharashtra | Video,festive_cashback_fashion_maharashtra_video,Fashion,Video,Consideration,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0416,IN_ME_1019,Back to College | EdTech | Tamil Nadu | Video,back_to_college_edtech_tamil_nadu_video,EdTech,Video,Awareness,India,Tamil Nadu,Sanjay Verma,Mapped,Standard mapping applied
+MAP0417,IN_LI_1080,Monsoon Deals | Electronics | Maharashtra | Video,monsoon_deals_electronics_maharashtra_video,Electronics,Video,Awareness,India,Maharashtra,Aarav Sharma,Mapped,Standard mapping applied
+MAP0418,IN_YO_1066,Diwali Sale | Grocery | Gujarat | Display,diwali_sale_grocery_gujarat_display,Grocery,Display,Retention,India,Gujarat,Divya Menon,Mapped,Standard mapping applied
+MAP0419,IN_GO_1032,Back to College | Home Appliances | Telangana | Programmatic,back_to_college_home_appliances_telangana_programmatic,Home Appliances,Programmatic,Retention,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0420,IN_YO_1033,IPL Promo | Fashion | Gujarat | Programmatic,ipl_promo_fashion_gujarat_programmatic,Fashion,Programmatic,Retention,India,Gujarat,Meera Nair,Mapped,Standard mapping applied
+MAP0421,IN_YO_1049,Republic Day | Home Appliances | Tamil Nadu | Social,republic_day_home_appliances_tamil_nadu_social,,,Consideration,India,Tamil Nadu,Rohan Patel,Missing Mapping,Business unit/channel not mapped
+MAP0422,IN_DV_1070,Monsoon Deals | Home Appliances | Tamil Nadu | Video,monsoon_deals_home_appliances_tamil_nadu_video,Home Appliances,Video,Retention,India,Tamil Nadu,Meera Nair,Mapped,Standard mapping applied
+MAP0423,IN_ME_1009,New Year | EdTech | Delhi NCR | Social,new_year_edtech_delhi_ncr_social,EdTech,Social,Retention,India,Delhi NCR,Rohan Patel,Mapped,Standard mapping applied
+MAP0424,IN_GO_1025,New Year | Grocery | Gujarat | Display,new_year_grocery_gujarat_display,Grocery,Display,Conversion,India,Gujarat,Priya Reddy,Mapped,Standard mapping applied
+MAP0425,IN_YO_1004,Festive Cashback | Fashion | Kerala | Programmatic,festive_cashback_fashion_kerala_programmatic,Fashion,Programmatic,Retention,India,Kerala,Karthik Rao,Mapped,Standard mapping applied
+MAP0426,IN_DV_1025,New Year | Home Appliances | Gujarat | Display,new_year_home_appliances_gujarat_display,Home Appliances,Display,Retention,India,Gujarat,Neha Gupta,Mapped,Standard mapping applied
+MAP0427,IN_DV_1057,Summer Savings | EdTech | Tamil Nadu | Social,summer_savings_edtech_tamil_nadu_social,EdTech,Social,Awareness,India,Tamil Nadu,Meera Nair,Mapped,Standard mapping applied
+MAP0428,IN_DV_1079,Festive Cashback | Travel | West Bengal | Display,festive_cashback_travel_west_bengal_display,Travel,Display,Conversion,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0429,IN_LI_1069,Wedding Season | EdTech | Karnataka | Search,wedding_season_edtech_karnataka_search,EdTech,Search,Consideration,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
+MAP0430,IN_GO_1022,Wedding Season | Home Appliances | Tamil Nadu | Video,wedding_season_home_appliances_tamil_nadu_video,Home Appliances,Video,Conversion,India,Tamil Nadu,Sanjay Verma,Mapped,Standard mapping applied
+MAP0431,IN_DV_1053,Back to College | Electronics | Rajasthan | Social,back_to_college_electronics_rajasthan_social,Electronics,Social,Awareness,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0432,IN_DV_1015,Republic Day | Travel | Karnataka | Social,republic_day_travel_karnataka_social,Travel,Social,Consideration,India,Karnataka,Divya Menon,Mapped,Standard mapping applied
+MAP0433,IN_LI_1043,New Year | Beauty | Kerala | Display,new_year_beauty_kerala_display,Beauty,Display,Awareness,India,Kerala,Divya Menon,Mapped,Standard mapping applied
+MAP0434,IN_ME_1024,IPL Promo | Grocery | Maharashtra | Display,ipl_promo_grocery_maharashtra_display,Grocery,Display,Consideration,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0435,IN_GO_1028,Wedding Season | Beauty | Rajasthan | Search,wedding_season_beauty_rajasthan_search,,,Awareness,India,Rajasthan,Priya Reddy,Missing Mapping,Business unit/channel not mapped
+MAP0436,IN_LI_1024,Back to College | Grocery | Maharashtra | Programmatic,back_to_college_grocery_maharashtra_programmatic,Grocery,Programmatic,Consideration,India,Maharashtra,Aarav Sharma,Mapped,Standard mapping applied
+MAP0437,IN_LI_1023,Republic Day | Electronics | Kerala | Search,republic_day_electronics_kerala_search,Electronics,Search,Consideration,India,Kerala,Ananya Singh,Mapped,Standard mapping applied
+MAP0438,IN_LI_1012,Wedding Season | Travel | Uttar Pradesh | Programmatic,wedding_season_travel_uttar_pradesh_programmatic,Grocery,Programmatic,Retention,India,Uttar Pradesh,Priya Reddy,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0439,IN_DV_1036,IPL Promo | Home Appliances | Uttar Pradesh | Social,ipl_promo_home_appliances_uttar_pradesh_social,,,Conversion,India,Uttar Pradesh,Karthik Rao,Missing Mapping,Business unit/channel not mapped
+MAP0440,IN_GO_1078,Wedding Season | Travel | Karnataka | Programmatic,wedding_season_travel_karnataka_programmatic,Travel,Programmatic,Awareness,India,Karnataka,Meera Nair,Mapped,Standard mapping applied
+MAP0441,IN_ME_1079,Wedding Season | Beauty | Kerala | Display,wedding_season_beauty_kerala_display,Beauty,Display,Awareness,India,Kerala,Neha Gupta,Mapped,Standard mapping applied
+MAP0442,IN_DV_1045,Festive Cashback | Home Appliances | Karnataka | Display,festive_cashback_home_appliances_karnataka_display,Home Appliances,Display,Consideration,India,Karnataka,Karthik Rao,Mapped,Standard mapping applied
+MAP0443,IN_YO_1015,IPL Promo | Grocery | Delhi NCR | Programmatic,ipl_promo_grocery_delhi_ncr_programmatic,Grocery,Programmatic,Conversion,India,Delhi NCR,Karthik Rao,Mapped,Standard mapping applied
+MAP0444,IN_ME_1018,Republic Day | Travel | Tamil Nadu | Display,republic_day_travel_tamil_nadu_display,Travel,Display,Awareness,India,Tamil Nadu,Priya Reddy,Mapped,Standard mapping applied
+MAP0445,IN_DV_1041,Diwali Sale | EdTech | West Bengal | Programmatic,diwali_sale_edtech_west_bengal_programmatic,EdTech,Programmatic,Consideration,India,West Bengal,Vikram Iyer,Mapped,Standard mapping applied
+MAP0446,IN_GO_1078,Diwali Sale | Grocery | Telangana | Display,diwali_sale_grocery_telangana_display,,,Consideration,India,Telangana,Vikram Iyer,Missing Mapping,Business unit/channel not mapped
+MAP0447,IN_YO_1058,New Year | Electronics | Maharashtra | Display,new_year_electronics_maharashtra_display,Electronics,Display,Awareness,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0448,IN_YO_1065,Holi Offer | Home Appliances | Maharashtra | Programmatic,holi_offer_home_appliances_maharashtra_programmatic,Home Appliances,Programmatic,Retention,India,Maharashtra,Rohan Patel,Mapped,Standard mapping applied
+MAP0449,IN_YO_1005,Holi Offer | EdTech | Gujarat | Programmatic,holi_offer_edtech_gujarat_programmatic,EdTech,Programmatic,Conversion,India,Gujarat,Rohan Patel,Mapped,Standard mapping applied
+MAP0450,IN_GO_1040,Republic Day | Home Appliances | Kerala | Search,republic_day_home_appliances_kerala_search,Home Appliances,Search,Awareness,India,Kerala,Vikram Iyer,Mapped,Standard mapping applied
+MAP0451,IN_ME_1016,IPL Promo | Beauty | Tamil Nadu | Video,ipl_promo_beauty_tamil_nadu_video,Beauty,Video,Awareness,India,Tamil Nadu,Neha Gupta,Mapped,Standard mapping applied
+MAP0452,IN_LI_1019,Summer Savings | Beauty | Uttar Pradesh | Video,summer_savings_beauty_uttar_pradesh_video,,,Retention,India,Uttar Pradesh,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0453,IN_LI_1007,Diwali Sale | Fashion | Gujarat | Search,diwali_sale_fashion_gujarat_search,Home Appliances,Search,Retention,India,Gujarat,Priya Reddy,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0454,IN_LI_1069,Republic Day | Grocery | Rajasthan | Video,republic_day_grocery_rajasthan_video,Grocery,Video,Consideration,India,Rajasthan,Ananya Singh,Mapped,Standard mapping applied
+MAP0455,IN_GO_1029,Wedding Season | Grocery | Rajasthan | Display,wedding_season_grocery_rajasthan_display,Grocery,Display,Consideration,India,Rajasthan,Meera Nair,Mapped,Standard mapping applied
+MAP0456,IN_ME_1015,Wedding Season | Home Appliances | Gujarat | Search,wedding_season_home_appliances_gujarat_search,Home Appliances,Search,Retention,India,Gujarat,Priya Reddy,Mapped,Standard mapping applied
+MAP0457,IN_LI_1072,Back to College | Electronics | Kerala | Display,back_to_college_electronics_kerala_display,Electronics,Display,Awareness,India,Kerala,Neha Gupta,Mapped,Standard mapping applied
+MAP0458,IN_DV_1009,Summer Savings | Beauty | Tamil Nadu | Social,summer_savings_beauty_tamil_nadu_social,Beauty,Social,Retention,India,Tamil Nadu,Priya Reddy,Mapped,Standard mapping applied
+MAP0459,IN_LI_1076,Monsoon Deals | Travel | Gujarat | Search,monsoon_deals_travel_gujarat_search,Travel,Search,Awareness,India,Gujarat,Karthik Rao,Mapped,Standard mapping applied
+MAP0460,IN_YO_1064,Festive Cashback | Electronics | West Bengal | Programmatic,festive_cashback_electronics_west_bengal_programmatic,Electronics,Programmatic,Consideration,India,West Bengal,Aarav Sharma,Mapped,Standard mapping applied
+MAP0461,IN_GO_1079,Monsoon Deals | Home Appliances | Telangana | Programmatic,monsoon_deals_home_appliances_telangana_programmatic,Home Appliances,Programmatic,Awareness,India,Telangana,Ananya Singh,Mapped,Standard mapping applied
+MAP0462,IN_LI_1066,Republic Day | Electronics | Delhi NCR | Programmatic,republic_day_electronics_delhi_ncr_programmatic,Electronics,Programmatic,Consideration,India,Delhi NCR,Vikram Iyer,Mapped,Standard mapping applied
+MAP0463,IN_GO_1056,Holi Offer | EdTech | Maharashtra | Video,holi_offer_edtech_maharashtra_video,EdTech,Video,Retention,India,Maharashtra,Meera Nair,Mapped,Standard mapping applied
+MAP0464,IN_DV_1025,Summer Savings | Travel | West Bengal | Social,summer_savings_travel_west_bengal_social,Travel,Social,Consideration,India,West Bengal,Rohan Patel,Mapped,Standard mapping applied
+MAP0465,IN_YO_1063,Diwali Sale | Electronics | Telangana | Search,diwali_sale_electronics_telangana_search,Electronics,Search,Consideration,India,Telangana,Ananya Singh,Mapped,Standard mapping applied
+MAP0466,IN_DV_1066,Festive Cashback | Home Appliances | Rajasthan | Programmatic,festive_cashback_home_appliances_rajasthan_programmatic,Home Appliances,Programmatic,Retention,India,Rajasthan,Sanjay Verma,Mapped,Standard mapping applied
+MAP0467,IN_DV_1070,Festive Cashback | Home Appliances | Kerala | Social,festive_cashback_home_appliances_kerala_social,Home Appliances,Social,Awareness,India,Kerala,Aarav Sharma,Mapped,Standard mapping applied
+MAP0468,IN_GO_1067,Holi Offer | Fashion | Kerala | Programmatic,holi_offer_fashion_kerala_programmatic,Fashion,Programmatic,Retention,India,Kerala,Divya Menon,Mapped,Standard mapping applied
+MAP0469,IN_GO_1059,Festive Cashback | Electronics | Uttar Pradesh | Video,festive_cashback_electronics_uttar_pradesh_video,Electronics,Video,Consideration,India,Uttar Pradesh,Aarav Sharma,Mapped,Standard mapping applied
+MAP0470,IN_YO_1073,Diwali Sale | Travel | Delhi NCR | Programmatic,diwali_sale_travel_delhi_ncr_programmatic,Travel,Programmatic,Retention,India,Delhi NCR,Vikram Iyer,Mapped,Standard mapping applied
+MAP0471,IN_YO_1010,IPL Promo | Home Appliances | Kerala | Search,ipl_promo_home_appliances_kerala_search,Home Appliances,Search,Conversion,India,Kerala,Karthik Rao,Mapped,Standard mapping applied
+MAP0472,IN_YO_1058,Festive Cashback | Fashion | Maharashtra | Programmatic,festive_cashback_fashion_maharashtra_programmatic,Fashion,Programmatic,Consideration,India,Maharashtra,Divya Menon,Mapped,Standard mapping applied
+MAP0473,IN_ME_1053,Republic Day | Electronics | Uttar Pradesh | Social,republic_day_electronics_uttar_pradesh_social,Electronics,Social,Conversion,India,Uttar Pradesh,Aarav Sharma,Mapped,Standard mapping applied
+MAP0474,IN_ME_1022,Republic Day | Electronics | Kerala | Video,republic_day_electronics_kerala_video,Electronics,Video,Awareness,India,Kerala,Vikram Iyer,Mapped,Standard mapping applied
+MAP0475,IN_ME_1056,New Year | Home Appliances | West Bengal | Video,new_year_home_appliances_west_bengal_video,Home Appliances,Video,Retention,India,West Bengal,Priya Reddy,Mapped,Standard mapping applied
+MAP0476,IN_LI_1035,Back to College | Travel | Maharashtra | Video,back_to_college_travel_maharashtra_video,Travel,Video,Consideration,India,Maharashtra,Sanjay Verma,Mapped,Standard mapping applied
+MAP0477,IN_DV_1044,Summer Savings | Travel | Rajasthan | Programmatic,summer_savings_travel_rajasthan_programmatic,Travel,Programmatic,Retention,India,Rajasthan,Ananya Singh,Mapped,Standard mapping applied
+MAP0478,IN_GO_1058,New Year | Electronics | Karnataka | Programmatic,new_year_electronics_karnataka_programmatic,,,Conversion,India,Karnataka,Neha Gupta,Missing Mapping,Business unit/channel not mapped
+MAP0479,IN_LI_1016,Festive Cashback | Travel | Karnataka | Social,festive_cashback_travel_karnataka_social,Travel,Social,Conversion,India,Karnataka,Meera Nair,Mapped,Standard mapping applied
+MAP0480,IN_LI_1010,Monsoon Deals | Grocery | Telangana | Video,monsoon_deals_grocery_telangana_video,Grocery,Video,Consideration,India,Telangana,Neha Gupta,Mapped,Standard mapping applied
+MAP0481,IN_YO_1043,Holi Offer | Grocery | Delhi NCR | Search,holi_offer_grocery_delhi_ncr_search,EdTech,Search,Consideration,India,Delhi NCR,Meera Nair,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0482,IN_DV_1070,New Year | Fashion | Tamil Nadu | Display,new_year_fashion_tamil_nadu_display,Fashion,Display,Conversion,India,Tamil Nadu,Aarav Sharma,Mapped,Standard mapping applied
+MAP0483,IN_YO_1003,Holi Offer | Electronics | Karnataka | Programmatic,holi_offer_electronics_karnataka_programmatic,Beauty,Programmatic,Consideration,India,Karnataka,Aarav Sharma,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0484,IN_DV_1063,Republic Day | Home Appliances | Delhi NCR | Programmatic,republic_day_home_appliances_delhi_ncr_programmatic,Home Appliances,Programmatic,Retention,India,Delhi NCR,Aarav Sharma,Mapped,Standard mapping applied
+MAP0485,IN_LI_1069,New Year | Travel | Tamil Nadu | Display,new_year_travel_tamil_nadu_display,Travel,Display,Awareness,India,Tamil Nadu,Rohan Patel,Mapped,Standard mapping applied
+MAP0486,IN_GO_1026,Holi Offer | EdTech | Gujarat | Display,holi_offer_edtech_gujarat_display,EdTech,Display,Retention,India,Gujarat,Karthik Rao,Mapped,Standard mapping applied
+MAP0487,IN_DV_1005,Wedding Season | Electronics | Karnataka | Display,wedding_season_electronics_karnataka_display,Electronics,Display,Awareness,India,Karnataka,Priya Reddy,Mapped,Standard mapping applied
+MAP0488,IN_GO_1044,Wedding Season | Beauty | Uttar Pradesh | Display,wedding_season_beauty_uttar_pradesh_display,Beauty,Display,Awareness,India,Uttar Pradesh,Meera Nair,Mapped,Standard mapping applied
+MAP0489,IN_LI_1005,Back to College | Fashion | Rajasthan | Programmatic,back_to_college_fashion_rajasthan_programmatic,Fashion,Programmatic,Awareness,India,Rajasthan,Neha Gupta,Mapped,Standard mapping applied
+MAP0490,IN_GO_1013,Monsoon Deals | Electronics | Tamil Nadu | Social,monsoon_deals_electronics_tamil_nadu_social,Electronics,Social,Retention,India,Tamil Nadu,Divya Menon,Mapped,Standard mapping applied
+MAP0491,IN_GO_1044,Festive Cashback | Fashion | Rajasthan | Search,festive_cashback_fashion_rajasthan_search,Fashion,Search,Retention,India,Rajasthan,Rohan Patel,Mapped,Standard mapping applied
+MAP0492,IN_LI_1023,Republic Day | EdTech | Uttar Pradesh | Social,republic_day_edtech_uttar_pradesh_social,EdTech,Social,Awareness,India,Uttar Pradesh,Priya Reddy,Mapped,Standard mapping applied
+MAP0493,IN_YO_1013,Wedding Season | Fashion | Uttar Pradesh | Programmatic,wedding_season_fashion_uttar_pradesh_programmatic,Fashion,Programmatic,Conversion,India,Uttar Pradesh,Ananya Singh,Mapped,Standard mapping applied
+MAP0494,IN_DV_1061,Diwali Sale | Fashion | Karnataka | Search,diwali_sale_fashion_karnataka_search,Fashion,Search,Awareness,India,Karnataka,Ananya Singh,Mapped,Standard mapping applied
+MAP0495,IN_DV_1064,Festive Cashback | Travel | Tamil Nadu | Search,festive_cashback_travel_tamil_nadu_search,Travel,Search,Awareness,India,Tamil Nadu,Vikram Iyer,Mapped,Standard mapping applied
+MAP0496,IN_DV_1047,Summer Savings | Electronics | Maharashtra | Programmatic,summer_savings_electronics_maharashtra_programmatic,Electronics,Programmatic,Conversion,India,Maharashtra,Ananya Singh,Mapped,Standard mapping applied
+MAP0497,IN_ME_1023,Summer Savings | Electronics | Delhi NCR | Social,summer_savings_electronics_delhi_ncr_social,Beauty,Social,Conversion,India,Delhi NCR,Ananya Singh,Incorrect Mapping,Campaign mapped to wrong business unit
+MAP0498,IN_ME_1007,Republic Day | Beauty | West Bengal | Display,republic_day_beauty_west_bengal_display,Beauty,Display,Retention,India,West Bengal,Neha Gupta,Mapped,Standard mapping applied
+MAP0499,IN_GO_1026,Wedding Season | Beauty | Tamil Nadu | Programmatic,wedding_season_beauty_tamil_nadu_programmatic,Beauty,Programmatic,Conversion,India,Tamil Nadu,Meera Nair,Mapped,Standard mapping applied
+MAP0500,IN_ME_1010,New Year | EdTech | Karnataka | Social,new_year_edtech_karnataka_social,EdTech,Social,Consideration,India,Karnataka,Aarav Sharma,Mapped,Standard mapping applied
