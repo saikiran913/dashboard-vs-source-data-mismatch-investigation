@@ -94,7 +94,6 @@ All datasets are created for learning purposes only and do not contain any real 
 
 File:
 
-```text
 data/source_platform_campaign_data.csv
 
 
