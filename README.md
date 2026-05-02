@@ -1,4 +1,4 @@
-#If You Find This Useful
+If You Find This Useful
 
 If this repository helps you understand real-world data engineering investigations, consider giving it a star.
 
