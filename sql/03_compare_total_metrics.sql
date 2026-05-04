@@ -364,7 +364,7 @@ LEFT JOIN
     ) dashboard_by_date
     ON source_by_date.report_date = dashboard_by_date.report_date
 
-ORDER BY report_date;
+ORDER BY rsource_by_date.report_date;
 
 
 /*
