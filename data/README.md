@@ -16,17 +16,15 @@ The data is based on a simple Indian marketing analytics scenario using:
 - Campaign performance metrics
 - Spend values in Indian Rupees (INR)
 
----
 
 ## Files Included
 
 This folder contains three main datasets:
 
-```text
 source_platform_campaign_data.csv
 dashboard_export_campaign_data.csv
 campaign_mapping_reference_data.csv
-````
+
 
 ---
 
@@ -318,13 +316,12 @@ Import the CSV files into the matching tables:
 
 Run the SQL scripts in this order:
 
-```text
 sql/02_compare_record_counts.sql
 sql/03_compare_total_metrics.sql
 sql/04_find_missing_campaigns.sql
 sql/05_check_duplicate_records.sql
 sql/06_final_reconciliation_query.sql
-```
+
 
 ---
 
