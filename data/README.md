@@ -386,7 +386,3 @@ Identify the root cause
 Explain the finding
 Recommend the fix
 
-
-```
-```
-
